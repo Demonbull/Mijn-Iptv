@@ -1,165 +1,217 @@
 #EXTM3U
-#EXTINF:-1,DE|Sky Select  HD 1
-http://topiptv.net:5890/live/taha/taha/830.ts
-#EXTINF:-1,DE|Sky Select  HD 2
-http://topiptv.net:5890/live/taha/taha/1070.ts
-#EXTINF:-1,DE|Sky Select  HD 3
-http://topiptv.net:5890/live/taha/taha/831.ts
-#EXTINF:-1,DE|Sky Select  HD 4
-http://topiptv.net:5890/live/taha/taha/832.ts
-#EXTINF:-1,DE|Sky Select  HD 5
-http://topiptv.net:5890/live/taha/taha/833.ts
-#EXTINF:-1,DE|Sky Select  HD 6
-http://topiptv.net:5890/live/taha/taha/834.ts
-#EXTINF:-1,DE|Sky Select  HD 7
-http://topiptv.net:5890/live/taha/taha/1068.ts
-#EXTINF:-1,DE|Sky Select  HD 8
-http://topiptv.net:5890/live/taha/taha/1069.ts
-#EXTINF:-1,--|DE CINEMA|--
-http://topiptv.net:5890/live/taha/taha/1443.ts
-#EXTINF:-1,DE|Sky Cinema HD
-http://topiptv.net:5890/live/taha/taha/348.ts
-#EXTINF:-1,DE|Sky Cinema 24
-http://topiptv.net:5890/live/taha/taha/349.ts
-#EXTINF:-1,DE|Sky Comedy
-http://topiptv.net:5890/live/taha/taha/352.ts
-#EXTINF:-1,DE|Sky Nostalgie
-http://topiptv.net:5890/live/taha/taha/357.ts
-#EXTINF:-1,DE|Sky Krimi
-http://topiptv.net:5890/live/taha/taha/353.ts
-#EXTINF:-1,DE|SkyAtlantic
-http://topiptv.net:5890/live/taha/taha/356.ts
-#EXTINF:-1,DE|Sky Action
-http://topiptv.net:5890/live/taha/taha/351.ts
-#EXTINF:-1,DE|Sky Hits
-http://topiptv.net:5890/live/taha/taha/350.ts
-#EXTINF:-1,DE|Sky Emotion
-http://topiptv.net:5890/live/taha/taha/354.ts
-#EXTINF:-1,DE|Sky Kinowelt
-http://topiptv.net:5890/live/taha/taha/1977.ts
-#EXTINF:-1,DE|TNT Film
-http://topiptv.net:5890/live/taha/taha/1214.ts
-#EXTINF:-1,DE|TNT Comedy
-http://topiptv.net:5890/live/taha/taha/376.ts
-#EXTINF:-1,DE|TNT SERIE
-http://topiptv.net:5890/live/taha/taha/1997.ts
-#EXTINF:-1,DE|13 th Street HD
-http://topiptv.net:5890/live/taha/taha/375.ts
-#EXTINF:-1,DE|FOX
-http://topiptv.net:5890/live/taha/taha/372.ts
-#EXTINF:-1,DE|Fox Serie
-http://topiptv.net:5890/live/taha/taha/1978.ts
-#EXTINF:-1,DE|BR HD
-http://topiptv.net:5890/live/taha/taha/1984.ts
-#EXTINF:-1,DE|ARTEHD
-http://topiptv.net:5890/live/taha/taha/1981.ts
-#EXTINF:-1,DE|DMAX HD
-http://topiptv.net:5890/live/taha/taha/1983.ts
-#EXTINF:-1,DE|RBB HD
-http://topiptv.net:5890/live/taha/taha/1982.ts
-#EXTINF:-1,DE|Eins Festival
-http://topiptv.net:5890/live/taha/taha/1976.ts
-#EXTINF:-1,DE|Goldstar
-http://topiptv.net:5890/live/taha/taha/1974.ts
-#EXTINF:-1,DE|A&E
-http://topiptv.net:5890/live/taha/taha/1972.ts
-#EXTINF:-1,DE|CLASSICA
-http://topiptv.net:5890/live/taha/taha/1973.ts
-#EXTINF:-1,DE|TLC
-http://topiptv.net:5890/live/taha/taha/1971.ts
-#EXTINF:-1,DE|SyfyHD
-http://topiptv.net:5890/live/taha/taha/377.ts
-#EXTINF:-1,DE|AXN HD
-http://topiptv.net:5890/live/taha/taha/374.ts
-#EXTINF:-1,DE|N24
-http://topiptv.net:5890/live/taha/taha/1996.ts
-#EXTINF:-1,DE|ORF 1
-http://topiptv.net:5890/live/taha/taha/1685.ts
-#EXTINF:-1,DE|ORF 2
-http://topiptv.net:5890/live/taha/taha/365.ts
-#EXTINF:-1,DE|NDR
-http://topiptv.net:5890/live/taha/taha/1995.ts
-#EXTINF:-1,DE|WDR
-http://topiptv.net:5890/live/taha/taha/1994.ts
-#EXTINF:-1,DE|Universal Channel
-http://topiptv.net:5890/live/taha/taha/1687.ts
-#EXTINF:-1,DE|VOX HD
-http://topiptv.net:5890/live/taha/taha/1684.ts
-#EXTINF:-1,DE|SIXX HD
-http://topiptv.net:5890/live/taha/taha/1681.ts
-#EXTINF:-1,DE|RTL Passion
-http://topiptv.net:5890/live/taha/taha/1688.ts
-#EXTINF:-1,DE|RTL Crime
-http://topiptv.net:5890/live/taha/taha/1689.ts
-#EXTINF:-1,DE|Romance tv
-http://topiptv.net:5890/live/taha/taha/1690.ts
-#EXTINF:-1,DE|PRO 7
-http://topiptv.net:5890/live/taha/taha/1677.ts
-#EXTINF:-1,DE|SAT.1 HD
-http://topiptv.net:5890/live/taha/taha/361.ts
-#EXTINF:-1,DE|ZDF
-http://topiptv.net:5890/live/taha/taha/366.ts
-#EXTINF:-1,DE|Das Erste HD
-http://topiptv.net:5890/live/taha/taha/367.ts
-#EXTINF:-1,DE|RTL
-http://topiptv.net:5890/live/taha/taha/358.ts
-#EXTINF:-1,DE|RTL ll HD
-http://topiptv.net:5890/live/taha/taha/359.ts
-#EXTINF:-1,DE|Kabel eins HD
-http://topiptv.net:5890/live/taha/taha/355.ts
-#EXTINF:-1,DE|Super Rtl
-http://topiptv.net:5890/live/taha/taha/363.ts
-#EXTINF:-1,DE|MGM
-http://topiptv.net:5890/live/taha/taha/368.ts
-#EXTINF:-1,DE|Sky Planet
-http://topiptv.net:5890/live/taha/taha/1686.ts
-#EXTINF:-1,DE|3 SAT
-http://topiptv.net:5890/live/taha/taha/1682.ts
-#EXTINF:-1,DE|History HD
-http://topiptv.net:5890/live/taha/taha/364.ts
-#EXTINF:-1,DE|National Geo Wild
-http://topiptv.net:5890/live/taha/taha/380.ts
-#EXTINF:-1,DE|National Geographic People
-http://topiptv.net:5890/live/taha/taha/1078.ts
-#EXTINF:-1,DE|DiscoveryHD
-http://topiptv.net:5890/live/taha/taha/379.ts
-#EXTINF:-1,DE|NatGeoGeographic
-http://topiptv.net:5890/live/taha/taha/381.ts
-#EXTINF:-1,DE|Disney XD
-http://topiptv.net:5890/live/taha/taha/373.ts
-#EXTINF:-1,DE|DISNEY CINEMAGIC
-http://topiptv.net:5890/live/taha/taha/1979.ts
-#EXTINF:-1,DE|disney junior
-http://topiptv.net:5890/live/taha/taha/1968.ts
-#EXTINF:-1,DE|cartoon network
-http://topiptv.net:5890/live/taha/taha/1966.ts
-#EXTINF:-1,DE|boomerang
-http://topiptv.net:5890/live/taha/taha/1967.ts
-#EXTINF:-1,DE|KiKa
-http://topiptv.net:5890/live/taha/taha/1970.ts
-#EXTINF:-1,DE|Sky Select HD 9
-http://topiptv.net:5890/live/taha/taha/1071.ts
-#EXTINF:-1,DE|Sport Digital
-http://topiptv.net:5890/live/taha/taha/387.ts
-#EXTINF:-1,DE|Sport1+ HD
-http://topiptv.net:5890/live/taha/taha/382.ts
-#EXTINF:-1,DE|Sport1 US HD
-http://topiptv.net:5890/live/taha/taha/1077.ts
-#EXTINF:-1,DE|Sky Sport HD 1
-http://topiptv.net:5890/live/taha/taha/383.ts
-#EXTINF:-1,DE|Sky Sport HD 2
-http://topiptv.net:5890/live/taha/taha/384.ts
-#EXTINF:-1,DE|Sky Sports News
-http://topiptv.net:5890/live/taha/taha/1980.ts
-#EXTINF:-1,DE|Sky Sports Austria
-http://topiptv.net:5890/live/taha/taha/1969.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 1
-http://topiptv.net:5890/live/taha/taha/385.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 2
-http://topiptv.net:5890/live/taha/taha/1076.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 3
-http://topiptv.net:5890/live/taha/taha/2070.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 4
-http://topiptv.net:5890/live/taha/taha/2071.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 5
-http://topiptv.net:5890/live/taha/taha/2072.ts
+#EXTINF:-1,GER - ZDF
+http://bb1.sendevric.com:8000/live/jean/jean123/1359.ts
+#EXTINF:-1,GER - ORF 1 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1242.ts
+#EXTINF:-1,GER - ORF 2 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1241.ts
+#EXTINF:-1,GER - Sky Cinema 1 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1236.ts
+#EXTINF:-1,GER - Sky Cinema Emotion HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1235.ts
+#EXTINF:-1,GER - Sky Cinema HD
+http://bb1.sendevric.com:8000/live/jean/jean123/3014.ts
+#EXTINF:-1,GER - Cinema 24 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/3023.ts
+#EXTINF:-1,GER - Sky Comedy
+http://bb1.sendevric.com:8000/live/jean/jean123/1237.ts
+#EXTINF:-1,GER - Sky Action HD
+http://bb1.sendevric.com:8000/live/jean/jean123/3016.ts
+#EXTINF:-1,GER - Sky Atlantic
+http://bb1.sendevric.com:8000/live/jean/jean123/3015.ts
+#EXTINF:-1,GER - RTL Nitro
+http://bb1.sendevric.com:8000/live/jean/jean123/3017.ts
+#EXTINF:-1,GER - RTL Living
+http://bb1.sendevric.com:8000/live/jean/jean123/3018.ts
+#EXTINF:-1,GER - AXN
+http://bb1.sendevric.com:8000/live/jean/jean123/3020.ts
+#EXTINF:-1,GER - Disney Channel
+http://bb1.sendevric.com:8000/live/jean/jean123/3019.ts
+#EXTINF:-1,GER - National Geographic
+http://bb1.sendevric.com:8000/live/jean/jean123/1365.ts
+#EXTINF:-1,GER - History Channel HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1366.ts
+#EXTINF:-1,GER - Discovery Channel HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1367.ts
+#EXTINF:-1,GER - Sky Select 1 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1243.ts
+#EXTINF:-1,GER - Sky Select 2 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1244.ts
+#EXTINF:-1,GER - Sky Select 3 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1245.ts
+#EXTINF:-1,GER - Sky Select 4 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1246.ts
+#EXTINF:-1,GER - Sky Select 5 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1247.ts
+#EXTINF:-1,GER - Sky Select 6 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1248.ts
+#EXTINF:-1,GER - Sky Select 7 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1249.ts
+#EXTINF:-1,GER - Sky Select 8 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1250.ts
+#EXTINF:-1,GER - Sky Select 9 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/1251.ts
+#EXTINF:-1,GER - Sky Sports News HD
+http://bb1.sendevric.com:8000/live/jean/jean123/3022.ts
+#EXTINF:-1,GER - Sky Sports 1 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/131.ts
+#EXTINF:-1,GER - Sky Sports 2 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/244.ts
+#EXTINF:-1,GER - Bundesliga 1
+http://bb1.sendevric.com:8000/live/jean/jean123/245.ts
+#EXTINF:-1,GER - Bundesliga 2
+http://bb1.sendevric.com:8000/live/jean/jean123/3013.ts
+#EXTINF:-1,GER - Bundesliga 3
+http://bb1.sendevric.com:8000/live/jean/jean123/3012.ts
+#EXTINF:-1,GER - Bundesliga 4
+http://bb1.sendevric.com:8000/live/jean/jean123/3011.ts
+#EXTINF:-1,GER - Bundesliga 5
+http://bb1.sendevric.com:8000/live/jean/jean123/3010.ts
+#EXTINF:-1,GER - Bundesliga 6
+http://bb1.sendevric.com:8000/live/jean/jean123/3009.ts
+#EXTINF:-1,GER - Bundesliga 7
+http://bb1.sendevric.com:8000/live/jean/jean123/3008.ts
+#EXTINF:-1,GER - Bundesliga 8
+http://bb1.sendevric.com:8000/live/jean/jean123/3007.ts
+#EXTINF:-1,GER - Bundesliga 9
+http://bb1.sendevric.com:8000/live/jean/jean123/3006.ts
+#EXTINF:-1,DE_Sky_Sport_1_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/317.ts
+#EXTINF:-1,DE_Sky_Sport_2_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/318.ts
+#EXTINF:-1,DE_Sky_Sport_3_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/716.ts
+#EXTINF:-1,DE_Sky_Sport_4_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/717.ts
+#EXTINF:-1,DE_Sky_Sport_5_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1137.ts
+#EXTINF:-1,DE_Sky_Sport_6_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1125.ts
+#EXTINF:-1,DE_Sky_Sport_7_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1129.ts
+#EXTINF:-1,DE_Sky_Sport_8_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/368.ts
+#EXTINF:-1,DE_Sky_Sport_9_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/97.ts
+#EXTINF:-1,DE_Sky_Sport_10_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/98.ts
+#EXTINF:-1,DE_SKY_Bundesliga_1_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1172.ts
+#EXTINF:-1,DE_SKY_Bundesliga_2_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1173.ts
+#EXTINF:-1,DE_SKY_Bundesliga_3_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1174.ts
+#EXTINF:-1,DE_SKY_Bundesliga_4_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1175.ts
+#EXTINF:-1,DE_SKY_Bundesliga_5_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1176.ts
+#EXTINF:-1,DE_SKY_Bundesliga_6_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1177.ts
+#EXTINF:-1,DE_SKY_Bundesliga_7_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1178.ts
+#EXTINF:-1,DE_SKY_Bundesliga_8_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1179.ts
+#EXTINF:-1,DE_SKY_Bundesliga_9_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1180.ts
+#EXTINF:-1,DE_SKY_Bundesliga_10_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1181.ts
+#EXTINF:-1,DE_Eurosport_1_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1109.ts
+#EXTINF:-1,DE_Eurosport_2_hd
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1110.ts
+#EXTINF:-1,DE_Sky_Nationa_Geo_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/757.ts
+#EXTINF:-1,DE_Sky_Nat_Geo_Wild_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/329.ts
+#EXTINF:-1,DE_Sky_Discovery
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/334.ts
+#EXTINF:-1,DE_Sky_Discovery_SC
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/951.ts
+#EXTINF:-1,DE_Disney_Cinemagic
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/333.ts
+#EXTINF:-1,DE_Junior
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/559.ts
+#EXTINF:-1,DE_Disney_XD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/303.ts
+#EXTINF:-1,DE_Disney_Junior
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/302.ts
+#EXTINF:-1,DE_Disney_Channel
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/950.ts
+#EXTINF:-1,DE_Nick_Jr
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/903.ts
+#EXTINF:-1,DE_Nichelideon_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/245.ts
+#EXTINF:-1,DE_Das-Erste
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/327.ts
+#EXTINF:-1,DE_Sky_History_Channel_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/331.ts
+#EXTINF:-1,DE_Rtl_Crime_hd
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1105.ts
+#EXTINF:-1,DE_Rtl_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/239.ts
+#EXTINF:-1,DE_Rtl_2_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/242.ts
+#EXTINF:-1,DE_Rtl_Living
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1106.ts
+#EXTINF:-1,DE_Rtl_Passion_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/193.ts
+#EXTINF:-1,DE_Kabel_eins_hd
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1107.ts
+#EXTINF:-1,DE_Kabel_1
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/275.ts
+#EXTINF:-1,DE_Prosieben_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/190.ts
+#EXTINF:-1,DE_Super_RTL_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/337.ts
+#EXTINF:-1,DE_Sky_Syfy_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/328.ts
+#EXTINF:-1,DE_Fox_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1108.ts
+#EXTINF:-1,DE_Zdf_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/339.ts
+#EXTINF:-1,DE_Wdr_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/338.ts
+#EXTINF:-1,DE_Vox_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/241.ts
+#EXTINF:-1,DE_Axn_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/192.ts
+#EXTINF:-1,DE_Arte_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/240.ts
+#EXTINF:-1,DE_ORF_1_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/557.ts
+#EXTINF:-1,DE_ORF_2_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/555.ts
+#EXTINF:-1,DE_Sat_1_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/243.ts
+#EXTINF:-1,DE_Tlc_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/277.ts
+#EXTINF:-1,DE_PRO_7
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/244.ts
+#EXTINF:-1,DE_Ard_1
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/274.ts
+#EXTINF:-1,DE_13th_Street_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/191.ts
+#EXTINF:-1,DE_tele-5-hd
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/278.ts
+#EXTINF:-1,DE_Sat_1_gold_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/279.ts
+#EXTINF:-1,DE_Sky_Select_1_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/273.ts
+#EXTINF:-1,DE_Sky_Select_2_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/272.ts
+#EXTINF:-1,DE_Sky_Select_3_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/271.ts
+#EXTINF:-1,DE_Sky_Select_4_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/270.ts
+#EXTINF:-1,DE_Sky_Select_5_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/269.ts
+#EXTINF:-1,DE_Sky_Select_6_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/268.ts
+#EXTINF:-1,DE_Sky_Select_7_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/267.ts
+#EXTINF:-1,DE_Sky_Select_8_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/266.ts
+#EXTINF:-1,DE_Sky_Select_9_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/265.ts
+#EXTINF:-1,DE_Sky_Select_10_HD
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/264.ts

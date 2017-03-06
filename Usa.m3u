@@ -1,151 +1,125 @@
 #EXTM3U
-#EXTINF:-1,US: NFL Network Now
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1041.ts
-#EXTINF:-1,US: RDS2 HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1086.ts
-#EXTINF:-1,US: Astro SuperSport 1
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1031.ts
-#EXTINF:-1,US: Astro SuperSport 2
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1032.ts
-#EXTINF:-1,US: Astro SuperSport 3
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1033.ts
-#EXTINF:-1,US: Astro SuperSport 4
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1034.ts
-#EXTINF:-1,US: TSN 1
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1042.ts
-#EXTINF:-1,US: TSN 2
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1043.ts
-#EXTINF:-1,US: TSN 3
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1044.ts
-#EXTINF:-1,US:  TSN 4
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1045.ts
-#EXTINF:-1,US:  TSN 5
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1046.ts
-#EXTINF:-1,US: SportsNet One HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/2065.ts
-#EXTINF:-1,US: SportsNet Ontario
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/2064.ts
-#EXTINF:-1,US: SportsNet World HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/2063.ts
-#EXTINF:-1,US: SportsNet 360
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/2066.ts
-#EXTINF:-1,US: Bein Sports USA HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1066.ts
-#EXTINF:-1,US: FOX Sport 1
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1050.ts
-#EXTINF:-1,US: FOX Sport 2
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1051.ts
-#EXTINF:-1,US: ESPN
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1053.ts
-#EXTINF:-1,US: ESPN2
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1052.ts
-#EXTINF:-1,US: NBA TV
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1047.ts
-#EXTINF:-1,US: NBC SPORT
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1048.ts
-#EXTINF:-1,US: NBC GOLF
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1049.ts
-#EXTINF:-1,US: NFL Network HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1054.ts
-#EXTINF:-1,US: NHL Network
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1106.ts
-#EXTINF:-1,US:  HBO HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1056.ts
-#EXTINF:-1,US: HBO Signature HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1057.ts
-#EXTINF:-1,US:  HBO East HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1058.ts
-#EXTINF:-1,US:  HBO Zone HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1059.ts
-#EXTINF:-1,US: HBO2 EAST
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1094.ts
-#EXTINF:-1,US: Cinemax East
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1068.ts
-#EXTINF:-1,US: Cinemax 5 StarMax
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1067.ts
-#EXTINF:-1,US: Cinemax ActionMax East
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1069.ts
-#EXTINF:-1,US: Cinemax Moremax
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1070.ts
-#EXTINF:-1,US: STARZ CINEMA HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1075.ts
-#EXTINF:-1,US: Starz Comedy
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1072.ts
-#EXTINF:-1,US: STARZ EDGE HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1073.ts
-#EXTINF:-1,US: Showtime West HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1063.ts
-#EXTINF:-1,US: Showtime HD East
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1074.ts
-#EXTINF:-1,US: Showtime Showcase
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1087.ts
-#EXTINF:-1,US: ShowTime 2 HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1060.ts
-#EXTINF:-1,US: Hallmark Channel HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1088.ts
-#EXTINF:-1,US: FX
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1061.ts
-#EXTINF:-1,US: Spike
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1062.ts
-#EXTINF:-1,US: TNT
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1096.ts
-#EXTINF:-1,US: AMC
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1097.ts
-#EXTINF:-1,US: TBS
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1098.ts
-#EXTINF:-1,US: SYFY
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1095.ts
-#EXTINF:-1,US: Bravo HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1055.ts
-#EXTINF:-1,US: KTLA /CW
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1089.ts
-#EXTINF:-1,US: BYU TV
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1085.ts
-#EXTINF:-1,US: FOX
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1101.ts
-#EXTINF:-1,US: CW
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1071.ts
-#EXTINF:-1,US: E!
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1102.ts
-#EXTINF:-1,US: Fox HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1093.ts
-#EXTINF:-1,US: Cartoon Network
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1103.ts
-#EXTINF:-1,US: Toonami Aftermath
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1105.ts
-#EXTINF:-1,US: Nick
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1064.ts
-#EXTINF:-1,US: CHCH HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1065.ts
-#EXTINF:-1,US: Food Network HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1084.ts
-#EXTINF:-1,US: Travel Channel
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1100.ts
-#EXTINF:-1,US: National Geographic
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1076.ts
-#EXTINF:-1,US: Discovery Channel HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1080.ts
-#EXTINF:-1,US: Discovery Science HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1081.ts
-#EXTINF:-1,US: Investigation Discovery
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1082.ts
-#EXTINF:-1,US: Animal Planet HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1078.ts
-#EXTINF:-1,US: HISTORY
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1077.ts
-#EXTINF:-1,US: DIY Network
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1079.ts
-#EXTINF:-1,US: A&E
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1083.ts
-#EXTINF:-1,US: CNN
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1107.ts
-#EXTINF:-1,US: CNBC
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1090.ts
-#EXTINF:-1,US: ABC
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1092.ts
-#EXTINF:-1,US: ABC News
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1091.ts
-#EXTINF:-1,US:  Bloomberg
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1108.ts
-#EXTINF:-1,US: HSN
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1104.ts
+#EXTINF:-1,USA - SHOWTIME HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6346.ts
+#EXTINF:-1,USA - HGTV HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6359.ts
+#EXTINF:-1,USA - HBO HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6356.ts
+#EXTINF:-1,USA - SPIKE HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6345.ts
+#EXTINF:-1,USA - SYFY USA
+http://bb1.sendevric.com:8000/live/jean/jean123/6344.ts
+#EXTINF:-1,USA - USA Network
+http://bb1.sendevric.com:8000/live/jean/jean123/6338.ts
+#EXTINF:-1,USA - NBC HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6348.ts
+#EXTINF:-1,USA - AMC
+http://bb1.sendevric.com:8000/live/jean/jean123/6353.ts
+#EXTINF:-1,USA - FX HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6362.ts
+#EXTINF:-1,USA - ABC HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6354.ts
+#EXTINF:-1,USA - CBS HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6350.ts
+#EXTINF:-1,USA - THE CW Central
+http://bb1.sendevric.com:8000/live/jean/jean123/6343.ts
+#EXTINF:-1,USA - PBS HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6347.ts
+#EXTINF:-1,USA - TNT
+http://bb1.sendevric.com:8000/live/jean/jean123/6342.ts
+#EXTINF:-1,USA - US TLC
+http://bb1.sendevric.com:8000/live/jean/jean123/6339.ts
+#EXTINF:-1,USA - US TBS HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6340.ts
+#EXTINF:-1,USA - A & E
+http://bb1.sendevric.com:8000/live/jean/jean123/6355.ts
+#EXTINF:-1,USA - BRAVO USA
+http://bb1.sendevric.com:8000/live/jean/jean123/6352.ts
+#EXTINF:-1,USA - TRU TV
+http://bb1.sendevric.com:8000/live/jean/jean123/6364.ts
+#EXTINF:-1,USA - Travel Channel HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6373.ts
+#EXTINF:-1,USA - History Channel USA
+http://bb1.sendevric.com:8000/live/jean/jean123/6366.ts
+#EXTINF:-1,USA - Hallmark
+http://bb1.sendevric.com:8000/live/jean/jean123/6357.ts
+#EXTINF:-1,USA - Lifetime
+http://bb1.sendevric.com:8000/live/jean/jean123/6358.ts
+#EXTINF:-1,USA - DIY Network HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6365.ts
+#EXTINF:-1,USA - Discovery Channel
+http://bb1.sendevric.com:8000/live/jean/jean123/6367.ts
+#EXTINF:-1,USA - Animal Planet US
+http://bb1.sendevric.com:8000/live/jean/jean123/6368.ts
+#EXTINF:-1,USA - Comedy Central HD US
+http://bb1.sendevric.com:8000/live/jean/jean123/6349.ts
+#EXTINF:-1,USA - Cartoon Network USA
+http://bb1.sendevric.com:8000/live/jean/jean123/6351.ts
+#EXTINF:-1,USA - US NICK
+http://bb1.sendevric.com:8000/live/jean/jean123/6341.ts
+#EXTINF:-1,USA - FOX NEWS
+http://bb1.sendevric.com:8000/live/jean/jean123/6369.ts
+#EXTINF:-1,USA - ABC NEWS
+http://bb1.sendevric.com:8000/live/jean/jean123/6372.ts
+#EXTINF:-1,USA - Bloomberg
+http://bb1.sendevric.com:8000/live/jean/jean123/6363.ts
+#EXTINF:-1,USA - CNN
+http://bb1.sendevric.com:8000/live/jean/jean123/6370.ts
+#EXTINF:-1,USA - CNBC
+http://bb1.sendevric.com:8000/live/jean/jean123/6371.ts
+#EXTINF:-1,US - Bein Sports USA
+http://bb1.sendevric.com:8000/live/jean/jean123/9700.ts
+#EXTINF:-1,US - ESPN 1
+http://bb1.sendevric.com:8000/live/jean/jean123/9709.ts
+#EXTINF:-1,US - ESPN 2
+http://bb1.sendevric.com:8000/live/jean/jean123/9710.ts
+#EXTINF:-1,US - Fox Sports 1
+http://bb1.sendevric.com:8000/live/jean/jean123/9701.ts
+#EXTINF:-1,US - Fox Sports 2
+http://bb1.sendevric.com:8000/live/jean/jean123/9702.ts
+#EXTINF:-1,US - MLB Network
+http://bb1.sendevric.com:8000/live/jean/jean123/9707.ts
+#EXTINF:-1,US - NBA TV
+http://bb1.sendevric.com:8000/live/jean/jean123/9708.ts
+#EXTINF:-1,US - NBC Golf
+http://bb1.sendevric.com:8000/live/jean/jean123/9704.ts
+#EXTINF:-1,US - NBC Sports Network
+http://bb1.sendevric.com:8000/live/jean/jean123/9703.ts
+#EXTINF:-1,US - NFL Network
+http://bb1.sendevric.com:8000/live/jean/jean123/9706.ts
+#EXTINF:-1,US - NFL NOW
+http://bb1.sendevric.com:8000/live/jean/jean123/9705.ts
+#EXTINF:-1,US - PAC-12 ARIZONA
+http://bb1.sendevric.com:8000/live/jean/jean123/9720.ts
+#EXTINF:-1,US - PAC-12 BAY AREA
+http://bb1.sendevric.com:8000/live/jean/jean123/9722.ts
+#EXTINF:-1,US - PAC-12 LOS ANGELES
+http://bb1.sendevric.com:8000/live/jean/jean123/9721.ts
+#EXTINF:-1,US - PAC-12 MOUNTAIN
+http://bb1.sendevric.com:8000/live/jean/jean123/9719.ts
+#EXTINF:-1,US - PAC-12 NATIONAL
+http://bb1.sendevric.com:8000/live/jean/jean123/9718.ts
+#EXTINF:-1,US - PAC-12 OREGON
+http://bb1.sendevric.com:8000/live/jean/jean123/9723.ts
+#EXTINF:-1,US - SportsNet 1
+http://bb1.sendevric.com:8000/live/jean/jean123/9711.ts
+#EXTINF:-1,US - SportsNet 360
+http://bb1.sendevric.com:8000/live/jean/jean123/9716.ts
+#EXTINF:-1,US - SportsNet EAST
+http://bb1.sendevric.com:8000/live/jean/jean123/9715.ts
+#EXTINF:-1,US - SportsNet ONTARIO
+http://bb1.sendevric.com:8000/live/jean/jean123/9712.ts
+#EXTINF:-1,US - SportsNet PACIFIC
+http://bb1.sendevric.com:8000/live/jean/jean123/9714.ts
+#EXTINF:-1,US - SportsNet WEST
+http://bb1.sendevric.com:8000/live/jean/jean123/9713.ts
+#EXTINF:-1,US - TSN 1
+http://bb1.sendevric.com:8000/live/jean/jean123/1031.ts
+#EXTINF:-1,US - TSN 2
+http://bb1.sendevric.com:8000/live/jean/jean123/1032.ts
+#EXTINF:-1,US - TSN 3
+http://bb1.sendevric.com:8000/live/jean/jean123/1033.ts
+#EXTINF:-1,US - TSN 4
+http://bb1.sendevric.com:8000/live/jean/jean123/1034.ts
+#EXTINF:-1,US - TSN 5
+http://bb1.sendevric.com:8000/live/jean/jean123/1035.ts
