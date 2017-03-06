@@ -1,103 +1,85 @@
 #EXTM3U
-#EXTINF:-1,NED|NPO 1
-http://topiptv.net:5890/live/taha/taha/842.ts
-#EXTINF:-1,NED|NPO 2
-http://topiptv.net:5890/live/taha/taha/843.ts
-#EXTINF:-1,NED|NPO 3
-http://topiptv.net:5890/live/taha/taha/844.ts
-#EXTINF:-1,NED|NET 5
-http://topiptv.net:5890/live/taha/taha/841.ts
-#EXTINF:-1,NED|RTL 4
-http://topiptv.net:5890/live/taha/taha/1867.ts
-#EXTINF:-1,NED|RTL 5
-http://topiptv.net:5890/live/taha/taha/771.ts
-#EXTINF:-1,NED|RTL 7
-http://topiptv.net:5890/live/taha/taha/772.ts
-#EXTINF:-1,NED|RTL 8
-http://topiptv.net:5890/live/taha/taha/845.ts
-#EXTINF:-1,NED|SBS 9
-http://topiptv.net:5890/live/taha/taha/1708.ts
-#EXTINF:-1,NED|SBS 6
-http://topiptv.net:5890/live/taha/taha/1707.ts
-#EXTINF:-1,NED|Ziggo Sport Select
-http://topiptv.net:5890/live/taha/taha/998.ts
-#EXTINF:-1,NED|FOX Sports 1 HD
-http://topiptv.net:5890/live/taha/taha/999.ts
-#EXTINF:-1,NED|FOX Sports 2 HD
-http://topiptv.net:5890/live/taha/taha/1000.ts
-#EXTINF:-1,NED|FOX Sports 3 HD
-http://topiptv.net:5890/live/taha/taha/1249.ts
-#EXTINF:-1,NED|FOX Sports 4 HD
-http://topiptv.net:5890/live/taha/taha/1250.ts
-#EXTINF:-1,NED|FOX Sports 5 HD
-http://topiptv.net:5890/live/taha/taha/1251.ts
-#EXTINF:-1,NED|FOX Sports 6 HD
-http://topiptv.net:5890/live/taha/taha/1252.ts
-#EXTINF:-1,NL: Sport1
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1154.ts
-#EXTINF:-1,NL: Sport1 Select
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/479.ts
-#EXTINF:-1,NL: Sport1 Racing
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/480.ts
-#EXTINF:-1,NL: Sport1 Voetbal
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/481.ts
-#EXTINF:-1,NL: Sport1 Golf
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/482.ts
-#EXTINF:-1,NL: Sport 1 Extra1
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1152.ts
-#EXTINF:-1,NL: Sport 1 Extra2
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1153.ts
-#EXTINF:-1,NED|HBO 1
-http://topiptv.net:5890/live/taha/taha/774.ts
-#EXTINF:-1,NED|HBO 2
-http://topiptv.net:5890/live/taha/taha/775.ts
-#EXTINF:-1,NED|HBO 3
-http://topiptv.net:5890/live/taha/taha/776.ts
-#EXTINF:-1,NED|Film1 Action
-http://topiptv.net:5890/live/taha/taha/777.ts
-#EXTINF:-1,NED|Film1 Spotlght
-http://topiptv.net:5890/live/taha/taha/1248.ts
-#EXTINF:-1,NED|Film 1 Sundance
-http://topiptv.net:5890/live/taha/taha/1709.ts
-#EXTINF:-1,NED|Film1 Premiere HD
-http://topiptv.net:5890/live/taha/taha/778.ts
-#EXTINF:-1,NED|Film1 Comedy Kids
-http://topiptv.net:5890/live/taha/taha/779.ts
-#EXTINF:-1,NED|NATGEO
-http://topiptv.net:5890/live/taha/taha/1710.ts
-#EXTINF:-1,NED|Nat Geo
-http://topiptv.net:5890/live/taha/taha/1999.ts
-#EXTINF:-1,NED|FOX
-http://topiptv.net:5890/live/taha/taha/1998.ts
-#EXTINF:-1,NED|Comedy Central
-http://topiptv.net:5890/live/taha/taha/2000.ts
-#EXTINF:-1,NED|Discovery Channel
-http://topiptv.net:5890/live/taha/taha/928.ts
-#EXTINF:-1,NED|NICKELODEON
-http://topiptv.net:5890/live/taha/taha/1741.ts
-#EXTINF:-1,NED|Disney Channel
-http://topiptv.net:5890/live/taha/taha/1743.ts
-#EXTINF:-1,NED|CARTOON
-http://topiptv.net:5890/live/taha/taha/1742.ts
-#EXTINF:-1,NED|MTV
-http://topiptv.net:5890/live/taha/taha/1706.ts
-#EXTINF:-1,NL: Comedy Central Family
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1157.ts
-#EXTINF:-1,NL: Comedy Central Exstra
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1158.ts
-#EXTINF:-1,NL: 13th Street
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/500.ts
-#EXTINF:-1,NL: Extreme Sports
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/494.ts
-#EXTINF:-1,NL: NPO Humor tv
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/521.ts
-#EXTINF:-1,NL: RTL Crime
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1167.ts
-#EXTINF:-1,NL: RTL lounge
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/531.ts
-#EXTINF:-1,NL: RTL Telekids HD
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1162.ts
-#EXTINF:-1,NL: Boomerang Nederland
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/517.ts
-#EXTINF:-1,NL: Investigation Discovery NL
-http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/525.ts
+#EXTINF:-1,NL - NPO 1 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5347.ts
+#EXTINF:-1,NL - NPO 2 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5348.ts
+#EXTINF:-1,NL - NPO 3 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5349.ts
+#EXTINF:-1,NL - RTL 4 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5350.ts
+#EXTINF:-1,NL - RTL 5 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5351.ts
+#EXTINF:-1,NL - SBS 6 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5352.ts
+#EXTINF:-1,NL - RTL 7 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5353.ts
+#EXTINF:-1,NL - RTL 8 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5354.ts
+#EXTINF:-1,NL - SBS 9 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5355.ts
+#EXTINF:-1,NL - NET 5 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5356.ts
+#EXTINF:-1,NL - Fox Channel
+http://bb1.sendevric.com:8000/live/jean/jean123/5358.ts
+#EXTINF:-1,NL - Animal Planet
+http://bb1.sendevric.com:8000/live/jean/jean123/5364.ts
+#EXTINF:-1,NL - Discovery Channel HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5365.ts
+#EXTINF:-1,NL - Crime & Investigation
+http://bb1.sendevric.com:8000/live/jean/jean123/5366.ts
+#EXTINF:-1,NL - Disney Channel HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5361.ts
+#EXTINF:-1,NL - Disney Junior
+http://bb1.sendevric.com:8000/live/jean/jean123/5359.ts
+#EXTINF:-1,NL - Boomerang
+http://bb1.sendevric.com:8000/live/jean/jean123/5360.ts
+#EXTINF:-1,NL - Nick Jr
+http://bb1.sendevric.com:8000/live/jean/jean123/5362.ts
+#EXTINF:-1,NL - JimJam
+http://bb1.sendevric.com:8000/live/jean/jean123/5363.ts
+#EXTINF:-1,NL - Fox Sports 1
+http://bb1.sendevric.com:8000/live/jean/jean123/1484.ts
+#EXTINF:-1,NL - Fox Sports 2
+http://bb1.sendevric.com:8000/live/jean/jean123/1485.ts
+#EXTINF:-1,NL - Fox Sports 3
+http://bb1.sendevric.com:8000/live/jean/jean123/1486.ts
+#EXTINF:-1,NL - Fox Sports 4
+http://bb1.sendevric.com:8000/live/jean/jean123/1487.ts
+#EXTINF:-1,NL - Fox Sports 5
+http://bb1.sendevric.com:8000/live/jean/jean123/1488.ts
+#EXTINF:-1,NL - Fox Sports 6
+http://bb1.sendevric.com:8000/live/jean/jean123/629.ts
+#EXTINF:-1,NL - Edge Sport
+http://bb1.sendevric.com:8000/live/jean/jean123/9137.ts
+#EXTINF:-1,NL - Eurosport
+http://bb1.sendevric.com:8000/live/jean/jean123/9136.ts
+#EXTINF:-1,NL - Ziggo Sport eXtra 1
+http://bb1.sendevric.com:8000/live/jean/jean123/9138.ts
+#EXTINF:-1,NL - Ziggo Sport eXtra 2
+http://bb1.sendevric.com:8000/live/jean/jean123/9139.ts
+#EXTINF:-1,NL_Ziggo_Sport_Voetbal
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1195.ts
+#EXTINF:-1,NL_Ziggo_Sport_Select
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1196.ts
+#EXTINF:-1,NL - Ziggo Sport Racing
+http://bb1.sendevric.com:8000/live/jean/jean123/9140.ts
+#EXTINF:-1,NL_Ziggo_Sport_Golf
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1198.ts
+#EXTINF:-1,NL_Ziggo_Sport
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1201.ts
+#EXTINF:-1,NL_Film_Sundance
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1059.ts
+#EXTINF:-1,NL_Film1_Premiere
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1056.ts
+#EXTINF:-1,NL_Film1_Comedy
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1057.ts
+#EXTINF:-1,NL_Film1_Action
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1058.ts
+#EXTINF:-1,NL_Film1_Spot_light
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1060.ts
+#EXTINF:-1,NL_HBO_3
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1055.ts
+#EXTINF:-1,NL_HBO_2
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1054.ts
+#EXTINF:-1,NL_HBO_1
+http://smart-iptv2016.com:9500/live/tarik1/tarik1/1053.ts
