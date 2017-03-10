@@ -1,217 +1,159 @@
 #EXTM3U
-#EXTINF:-1,GER - ZDF
-http://bb1.sendevric.com:8000/live/jean/jean123/1359.ts
-#EXTINF:-1,GER - ORF 1 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1242.ts
-#EXTINF:-1,GER - ORF 2 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1241.ts
-#EXTINF:-1,GER - Sky Cinema 1 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1236.ts
-#EXTINF:-1,GER - Sky Cinema Emotion HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1235.ts
-#EXTINF:-1,GER - Sky Cinema HD
-http://bb1.sendevric.com:8000/live/jean/jean123/3014.ts
-#EXTINF:-1,GER - Cinema 24 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/3023.ts
-#EXTINF:-1,GER - Sky Comedy
-http://bb1.sendevric.com:8000/live/jean/jean123/1237.ts
-#EXTINF:-1,GER - Sky Action HD
-http://bb1.sendevric.com:8000/live/jean/jean123/3016.ts
-#EXTINF:-1,GER - Sky Atlantic
-http://bb1.sendevric.com:8000/live/jean/jean123/3015.ts
-#EXTINF:-1,GER - RTL Nitro
-http://bb1.sendevric.com:8000/live/jean/jean123/3017.ts
-#EXTINF:-1,GER - RTL Living
-http://bb1.sendevric.com:8000/live/jean/jean123/3018.ts
-#EXTINF:-1,GER - AXN
-http://bb1.sendevric.com:8000/live/jean/jean123/3020.ts
-#EXTINF:-1,GER - Disney Channel
-http://bb1.sendevric.com:8000/live/jean/jean123/3019.ts
-#EXTINF:-1,GER - National Geographic
-http://bb1.sendevric.com:8000/live/jean/jean123/1365.ts
-#EXTINF:-1,GER - History Channel HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1366.ts
-#EXTINF:-1,GER - Discovery Channel HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1367.ts
-#EXTINF:-1,GER - Sky Select 1 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1243.ts
-#EXTINF:-1,GER - Sky Select 2 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1244.ts
-#EXTINF:-1,GER - Sky Select 3 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1245.ts
-#EXTINF:-1,GER - Sky Select 4 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1246.ts
-#EXTINF:-1,GER - Sky Select 5 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1247.ts
-#EXTINF:-1,GER - Sky Select 6 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1248.ts
-#EXTINF:-1,GER - Sky Select 7 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1249.ts
-#EXTINF:-1,GER - Sky Select 8 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1250.ts
-#EXTINF:-1,GER - Sky Select 9 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/1251.ts
-#EXTINF:-1,GER - Sky Sports News HD
-http://bb1.sendevric.com:8000/live/jean/jean123/3022.ts
-#EXTINF:-1,GER - Sky Sports 1 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/131.ts
-#EXTINF:-1,GER - Sky Sports 2 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/244.ts
-#EXTINF:-1,GER - Bundesliga 1
-http://bb1.sendevric.com:8000/live/jean/jean123/245.ts
-#EXTINF:-1,GER - Bundesliga 2
-http://bb1.sendevric.com:8000/live/jean/jean123/3013.ts
-#EXTINF:-1,GER - Bundesliga 3
-http://bb1.sendevric.com:8000/live/jean/jean123/3012.ts
-#EXTINF:-1,GER - Bundesliga 4
-http://bb1.sendevric.com:8000/live/jean/jean123/3011.ts
-#EXTINF:-1,GER - Bundesliga 5
-http://bb1.sendevric.com:8000/live/jean/jean123/3010.ts
-#EXTINF:-1,GER - Bundesliga 6
-http://bb1.sendevric.com:8000/live/jean/jean123/3009.ts
-#EXTINF:-1,GER - Bundesliga 7
-http://bb1.sendevric.com:8000/live/jean/jean123/3008.ts
-#EXTINF:-1,GER - Bundesliga 8
-http://bb1.sendevric.com:8000/live/jean/jean123/3007.ts
-#EXTINF:-1,GER - Bundesliga 9
-http://bb1.sendevric.com:8000/live/jean/jean123/3006.ts
-#EXTINF:-1,DE_Sky_Sport_1_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/317.ts
-#EXTINF:-1,DE_Sky_Sport_2_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/318.ts
-#EXTINF:-1,DE_Sky_Sport_3_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/716.ts
-#EXTINF:-1,DE_Sky_Sport_4_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/717.ts
-#EXTINF:-1,DE_Sky_Sport_5_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1137.ts
-#EXTINF:-1,DE_Sky_Sport_6_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1125.ts
-#EXTINF:-1,DE_Sky_Sport_7_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1129.ts
-#EXTINF:-1,DE_Sky_Sport_8_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/368.ts
-#EXTINF:-1,DE_Sky_Sport_9_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/97.ts
-#EXTINF:-1,DE_Sky_Sport_10_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/98.ts
-#EXTINF:-1,DE_SKY_Bundesliga_1_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1172.ts
-#EXTINF:-1,DE_SKY_Bundesliga_2_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1173.ts
-#EXTINF:-1,DE_SKY_Bundesliga_3_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1174.ts
-#EXTINF:-1,DE_SKY_Bundesliga_4_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1175.ts
-#EXTINF:-1,DE_SKY_Bundesliga_5_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1176.ts
-#EXTINF:-1,DE_SKY_Bundesliga_6_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1177.ts
-#EXTINF:-1,DE_SKY_Bundesliga_7_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1178.ts
-#EXTINF:-1,DE_SKY_Bundesliga_8_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1179.ts
-#EXTINF:-1,DE_SKY_Bundesliga_9_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1180.ts
-#EXTINF:-1,DE_SKY_Bundesliga_10_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1181.ts
-#EXTINF:-1,DE_Eurosport_1_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1109.ts
-#EXTINF:-1,DE_Eurosport_2_hd
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1110.ts
-#EXTINF:-1,DE_Sky_Nationa_Geo_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/757.ts
-#EXTINF:-1,DE_Sky_Nat_Geo_Wild_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/329.ts
-#EXTINF:-1,DE_Sky_Discovery
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/334.ts
-#EXTINF:-1,DE_Sky_Discovery_SC
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/951.ts
-#EXTINF:-1,DE_Disney_Cinemagic
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/333.ts
-#EXTINF:-1,DE_Junior
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/559.ts
-#EXTINF:-1,DE_Disney_XD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/303.ts
-#EXTINF:-1,DE_Disney_Junior
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/302.ts
-#EXTINF:-1,DE_Disney_Channel
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/950.ts
-#EXTINF:-1,DE_Nick_Jr
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/903.ts
-#EXTINF:-1,DE_Nichelideon_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/245.ts
-#EXTINF:-1,DE_Das-Erste
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/327.ts
-#EXTINF:-1,DE_Sky_History_Channel_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/331.ts
-#EXTINF:-1,DE_Rtl_Crime_hd
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1105.ts
-#EXTINF:-1,DE_Rtl_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/239.ts
-#EXTINF:-1,DE_Rtl_2_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/242.ts
-#EXTINF:-1,DE_Rtl_Living
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1106.ts
-#EXTINF:-1,DE_Rtl_Passion_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/193.ts
-#EXTINF:-1,DE_Kabel_eins_hd
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1107.ts
-#EXTINF:-1,DE_Kabel_1
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/275.ts
-#EXTINF:-1,DE_Prosieben_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/190.ts
-#EXTINF:-1,DE_Super_RTL_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/337.ts
-#EXTINF:-1,DE_Sky_Syfy_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/328.ts
-#EXTINF:-1,DE_Fox_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1108.ts
-#EXTINF:-1,DE_Zdf_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/339.ts
-#EXTINF:-1,DE_Wdr_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/338.ts
-#EXTINF:-1,DE_Vox_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/241.ts
-#EXTINF:-1,DE_Axn_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/192.ts
-#EXTINF:-1,DE_Arte_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/240.ts
-#EXTINF:-1,DE_ORF_1_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/557.ts
-#EXTINF:-1,DE_ORF_2_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/555.ts
-#EXTINF:-1,DE_Sat_1_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/243.ts
-#EXTINF:-1,DE_Tlc_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/277.ts
-#EXTINF:-1,DE_PRO_7
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/244.ts
-#EXTINF:-1,DE_Ard_1
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/274.ts
-#EXTINF:-1,DE_13th_Street_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/191.ts
-#EXTINF:-1,DE_tele-5-hd
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/278.ts
-#EXTINF:-1,DE_Sat_1_gold_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/279.ts
-#EXTINF:-1,DE_Sky_Select_1_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/273.ts
-#EXTINF:-1,DE_Sky_Select_2_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/272.ts
-#EXTINF:-1,DE_Sky_Select_3_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/271.ts
-#EXTINF:-1,DE_Sky_Select_4_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/270.ts
-#EXTINF:-1,DE_Sky_Select_5_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/269.ts
-#EXTINF:-1,DE_Sky_Select_6_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/268.ts
-#EXTINF:-1,DE_Sky_Select_7_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/267.ts
-#EXTINF:-1,DE_Sky_Select_8_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/266.ts
-#EXTINF:-1,DE_Sky_Select_9_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/265.ts
-#EXTINF:-1,DE_Sky_Select_10_HD
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/264.ts
+#EXTINF:-1,DE-Disney Channel
+http://185.2.83.218:6204/live/onlin/DE21/1499.ts
+#EXTINF:-1,DE-Sky Dmax
+http://185.2.83.218:6204/live/onlin/DE21/1498.ts
+#EXTINF:-1,DE-Nickelodeon
+http://185.2.83.218:6204/live/onlin/DE21/1111.ts
+#EXTINF:-1,DE-Universal Channel HD
+http://185.2.83.218:6204/live/onlin/DE21/280.ts
+#EXTINF:-1,DE-ZDF Info
+http://185.2.83.218:6204/live/onlin/DE21/278.ts
+#EXTINF:-1,DE-ZDF HD
+http://185.2.83.218:6204/live/onlin/DE21/279.ts
+#EXTINF:-1,DE-ZDF
+http://185.2.83.218:6204/live/onlin/DE21/802.ts
+#EXTINF:-1,DE-WDR
+http://185.2.83.218:6204/live/onlin/DE21/284.ts
+#EXTINF:-1,DE-VOX HD
+http://185.2.83.218:6204/live/onlin/DE21/263.ts
+#EXTINF:-1,DE-TNT Seriese
+http://185.2.83.218:6204/live/onlin/DE21/261.ts
+#EXTINF:-1,DE-TNT Film
+http://185.2.83.218:6204/live/onlin/DE21/262.ts
+#EXTINF:-1,DE-TNT Comedy
+http://185.2.83.218:6204/live/onlin/DE21/1017.ts
+#EXTINF:-1,DE-TLC Crime
+http://185.2.83.218:6204/live/onlin/DE21/251.ts
+#EXTINF:-1,DE-Tele5
+http://185.2.83.218:6204/live/onlin/DE21/1018.ts
+#EXTINF:-1,DE-SYFY HD
+http://185.2.83.218:6204/live/onlin/DE21/287.ts
+#EXTINF:-1,DE-SWR HD
+http://185.2.83.218:6204/live/onlin/DE21/1019.ts
+#EXTINF:-1,DE-SUPER RTL
+http://185.2.83.218:6204/live/onlin/DE21/273.ts
+#EXTINF:-1,DE-SRF2
+http://185.2.83.218:6204/live/onlin/DE21/269.ts
+#EXTINF:-1,DE-SRF1
+http://185.2.83.218:6204/live/onlin/DE21/268.ts
+#EXTINF:-1,DE-Sport1
+http://185.2.83.218:6204/live/onlin/DE21/271.ts
+#EXTINF:-1,DE-Sport 1+ HD
+http://185.2.83.218:6204/live/onlin/DE21/1020.ts
+#EXTINF:-1,DE-Sony TV HD
+http://185.2.83.218:6204/live/onlin/DE21/1021.ts
+#EXTINF:-1,DE-SKY SPORT2 HD
+http://185.2.83.218:6204/live/onlin/DE21/258.ts
+#EXTINF:-1,DE-SKY SPORT1 HD
+http://185.2.83.218:6204/live/onlin/DE21/257.ts
+#EXTINF:-1,DE-Sky Sport Austria
+http://185.2.83.218:6204/live/onlin/DE21/1022.ts
+#EXTINF:-1,DE-Sky NDR
+http://185.2.83.218:6204/live/onlin/DE21/809.ts
+#EXTINF:-1,DE-Sky Krimi
+http://185.2.83.218:6204/live/onlin/DE21/813.ts
+#EXTINF:-1,DE-Sky Kika
+http://185.2.83.218:6204/live/onlin/DE21/814.ts
+#EXTINF:-1,DE-Sky Kabel 1
+http://185.2.83.218:6204/live/onlin/DE21/815.ts
+#EXTINF:-1,DE-Tagesschau 24
+http://185.2.83.218:6204/live/onlin/DE21/1023.ts
+#EXTINF:-1,DE-SKY EMOTION HD
+http://185.2.83.218:6204/live/onlin/DE21/252.ts
+#EXTINF:-1,DE-SKY COMEDY HD
+http://185.2.83.218:6204/live/onlin/DE21/253.ts
+#EXTINF:-1,DE-SKY CINEMA HD
+http://185.2.83.218:6204/live/onlin/DE21/250.ts
+#EXTINF:-1,DE-sky cinema 24 HD
+http://185.2.83.218:6204/live/onlin/DE21/810.ts
+#EXTINF:-1,DE-SKY BUNDESLIGA1
+http://185.2.83.218:6204/live/onlin/DE21/259.ts
+#EXTINF:-1,DE-SKY ATLANTIC HD
+http://185.2.83.218:6204/live/onlin/DE21/256.ts
+#EXTINF:-1,DE-SKY ACTION HD
+http://185.2.83.218:6204/live/onlin/DE21/254.ts
+#EXTINF:-1,DE-Sixx TV
+http://185.2.83.218:6204/live/onlin/DE21/285.ts
+#EXTINF:-1,DE-SAt Ein Gold
+http://185.2.83.218:6204/live/onlin/DE21/1024.ts
+#EXTINF:-1,DE-Sat Ein
+http://185.2.83.218:6204/live/onlin/DE21/1025.ts
+#EXTINF:-1,DE-RTL2
+http://185.2.83.218:6204/live/onlin/DE21/275.ts
+#EXTINF:-1,DE-RTL Passion
+http://185.2.83.218:6204/live/onlin/DE21/290.ts
+#EXTINF:-1,DE-RTL Nitro
+http://185.2.83.218:6204/live/onlin/DE21/289.ts
+#EXTINF:-1,DE-RTL Living
+http://185.2.83.218:6204/live/onlin/DE21/288.ts
+#EXTINF:-1,DE-RTL
+http://185.2.83.218:6204/live/onlin/DE21/265.ts
+#EXTINF:-1,DE-Junior
+http://185.2.83.218:6204/live/onlin/DE21/1026.ts
+#EXTINF:-1,DE-RBB Berlin
+http://185.2.83.218:6204/live/onlin/DE21/806.ts
+#EXTINF:-1,DE-Pro7 Maxx
+http://185.2.83.218:6204/live/onlin/DE21/805.ts
+#EXTINF:-1,DE-Pro7 HD
+http://185.2.83.218:6204/live/onlin/DE21/804.ts
+#EXTINF:-1,DE-Pro7 Fun HD
+http://185.2.83.218:6204/live/onlin/DE21/801.ts
+#EXTINF:-1,DE-Phoenix HD
+http://185.2.83.218:6204/live/onlin/DE21/807.ts
+#EXTINF:-1,DE-ORF Eins
+http://185.2.83.218:6204/live/onlin/DE21/272.ts
+#EXTINF:-1,DE-Nat Geo Wild
+http://185.2.83.218:6204/live/onlin/DE21/264.ts
+#EXTINF:-1,DE-Nat Geo HD
+http://185.2.83.218:6204/live/onlin/DE21/803.ts
+#EXTINF:-1,DE-N24
+http://185.2.83.218:6204/live/onlin/DE21/255.ts
+#EXTINF:-1,DE-N-TV
+http://185.2.83.218:6204/live/onlin/DE21/811.ts
+#EXTINF:-1,DE-MDR
+http://185.2.83.218:6204/live/onlin/DE21/812.ts
+#EXTINF:-1,DE-HR
+http://185.2.83.218:6204/live/onlin/DE21/1027.ts
+#EXTINF:-1,DE-History HD
+http://185.2.83.218:6204/live/onlin/DE21/1028.ts
+#EXTINF:-1,DE-Fox HD
+http://185.2.83.218:6204/live/onlin/DE21/818.ts
+#EXTINF:-1,DE-Euro Sport1
+http://185.2.83.218:6204/live/onlin/DE21/1029.ts
+#EXTINF:-1,DE-Eins Plus
+http://185.2.83.218:6204/live/onlin/DE21/1030.ts
+#EXTINF:-1,DE-Eins Festival
+http://185.2.83.218:6204/live/onlin/DE21/1031.ts
+#EXTINF:-1,DE-Disney XD
+http://185.2.83.218:6204/live/onlin/DE21/291.ts
+#EXTINF:-1,DE-Disney Junior
+http://185.2.83.218:6204/live/onlin/DE21/266.ts
+#EXTINF:-1,DE-Discovery HD
+http://185.2.83.218:6204/live/onlin/DE21/276.ts
+#EXTINF:-1,DE-Das Erste HD
+http://185.2.83.218:6204/live/onlin/DE21/808.ts
+#EXTINF:-1,DE-BTV
+http://185.2.83.218:6204/live/onlin/DE21/1032.ts
+#EXTINF:-1,DE-AXN
+http://185.2.83.218:6204/live/onlin/DE21/817.ts
+#EXTINF:-1,DE-Arte
+http://185.2.83.218:6204/live/onlin/DE21/1033.ts
+#EXTINF:-1,DE-Anixe
+http://185.2.83.218:6204/live/onlin/DE21/1034.ts
+#EXTINF:-1,DE-Animal Planet
+http://185.2.83.218:6204/live/onlin/DE21/1035.ts
+#EXTINF:-1,DE-A-E
+http://185.2.83.218:6204/live/onlin/DE21/1036.ts
+#EXTINF:-1,DE-3 Sat HD
+http://185.2.83.218:6204/live/onlin/DE21/1037.ts
+#EXTINF:-1,DE-24
+http://185.2.83.218:6204/live/onlin/DE21/1038.ts
+#EXTINF:-1,DE-13th Street HD
+http://185.2.83.218:6204/live/onlin/DE21/286.ts
+#EXTINF:-1,DE- RTL Crime HD
+http://185.2.83.218:6204/live/onlin/DE21/274.ts
+#EXTINF:-1,DE-Boomerang HD
+http://185.2.83.218:6204/live/onlin/DE21/1530.ts
+#EXTINF:-1,DE-Zee One HD
+http://185.2.83.218:6204/live/onlin/DE21/1629.ts

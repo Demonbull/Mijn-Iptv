@@ -1,85 +1,125 @@
 #EXTM3U
-#EXTINF:-1,NL - NPO 1 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5347.ts
-#EXTINF:-1,NL - NPO 2 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5348.ts
-#EXTINF:-1,NL - NPO 3 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5349.ts
-#EXTINF:-1,NL - RTL 4 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5350.ts
-#EXTINF:-1,NL - RTL 5 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5351.ts
-#EXTINF:-1,NL - SBS 6 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5352.ts
-#EXTINF:-1,NL - RTL 7 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5353.ts
-#EXTINF:-1,NL - RTL 8 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5354.ts
-#EXTINF:-1,NL - SBS 9 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5355.ts
-#EXTINF:-1,NL - NET 5 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5356.ts
-#EXTINF:-1,NL - Fox Channel
-http://bb1.sendevric.com:8000/live/jean/jean123/5358.ts
-#EXTINF:-1,NL - Animal Planet
-http://bb1.sendevric.com:8000/live/jean/jean123/5364.ts
-#EXTINF:-1,NL - Discovery Channel HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5365.ts
-#EXTINF:-1,NL - Crime & Investigation
-http://bb1.sendevric.com:8000/live/jean/jean123/5366.ts
-#EXTINF:-1,NL - Disney Channel HD
-http://bb1.sendevric.com:8000/live/jean/jean123/5361.ts
-#EXTINF:-1,NL - Disney Junior
-http://bb1.sendevric.com:8000/live/jean/jean123/5359.ts
-#EXTINF:-1,NL - Boomerang
-http://bb1.sendevric.com:8000/live/jean/jean123/5360.ts
-#EXTINF:-1,NL - Nick Jr
-http://bb1.sendevric.com:8000/live/jean/jean123/5362.ts
-#EXTINF:-1,NL - JimJam
-http://bb1.sendevric.com:8000/live/jean/jean123/5363.ts
-#EXTINF:-1,NL - Fox Sports 1
-http://bb1.sendevric.com:8000/live/jean/jean123/1484.ts
-#EXTINF:-1,NL - Fox Sports 2
-http://bb1.sendevric.com:8000/live/jean/jean123/1485.ts
-#EXTINF:-1,NL - Fox Sports 3
-http://bb1.sendevric.com:8000/live/jean/jean123/1486.ts
-#EXTINF:-1,NL - Fox Sports 4
-http://bb1.sendevric.com:8000/live/jean/jean123/1487.ts
-#EXTINF:-1,NL - Fox Sports 5
-http://bb1.sendevric.com:8000/live/jean/jean123/1488.ts
-#EXTINF:-1,NL - Fox Sports 6
-http://bb1.sendevric.com:8000/live/jean/jean123/629.ts
-#EXTINF:-1,NL - Edge Sport
-http://bb1.sendevric.com:8000/live/jean/jean123/9137.ts
-#EXTINF:-1,NL - Eurosport
-http://bb1.sendevric.com:8000/live/jean/jean123/9136.ts
-#EXTINF:-1,NL - Ziggo Sport eXtra 1
-http://bb1.sendevric.com:8000/live/jean/jean123/9138.ts
-#EXTINF:-1,NL - Ziggo Sport eXtra 2
-http://bb1.sendevric.com:8000/live/jean/jean123/9139.ts
-#EXTINF:-1,NL_Ziggo_Sport_Voetbal
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1195.ts
-#EXTINF:-1,NL_Ziggo_Sport_Select
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1196.ts
-#EXTINF:-1,NL - Ziggo Sport Racing
-http://bb1.sendevric.com:8000/live/jean/jean123/9140.ts
-#EXTINF:-1,NL_Ziggo_Sport_Golf
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1198.ts
-#EXTINF:-1,NL_Ziggo_Sport
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1201.ts
-#EXTINF:-1,NL_Film_Sundance
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1059.ts
-#EXTINF:-1,NL_Film1_Premiere
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1056.ts
-#EXTINF:-1,NL_Film1_Comedy
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1057.ts
-#EXTINF:-1,NL_Film1_Action
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1058.ts
-#EXTINF:-1,NL_Film1_Spot_light
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1060.ts
-#EXTINF:-1,NL_HBO_3
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1055.ts
-#EXTINF:-1,NL_HBO_2
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1054.ts
-#EXTINF:-1,NL_HBO_1
-http://smart-iptv2016.com:9500/live/tarik1/tarik1/1053.ts
+#EXTINF:-1,NL-Ziggo Sport Select
+http://185.2.83.218:6204/live/onlineee/NL/1495.ts
+#EXTINF:-1,NL-TVO
+http://185.2.83.218:6204/live/onlineee/NL/1489.ts
+#EXTINF:-1,NL-Streek TV
+http://185.2.83.218:6204/live/onlineee/NL/1490.ts
+#EXTINF:-1,NL-Shorts TV
+http://185.2.83.218:6204/live/onlineee/NL/1496.ts
+#EXTINF:-1,NL-RTV Totaal
+http://185.2.83.218:6204/live/onlineee/NL/1488.ts
+#EXTINF:-1,NL-MTV
+http://185.2.83.218:6204/live/onlineee/NL/1494.ts
+#EXTINF:-1,NL-Fox HD
+http://185.2.83.218:6204/live/onlineee/NL/1497.ts
+#EXTINF:-1,NL-Fox
+http://185.2.83.218:6204/live/onlineee/NL/1486.ts
+#EXTINF:-1,NL-Film1 Spotlight
+http://185.2.83.218:6204/live/onlineee/NL/1493.ts
+#EXTINF:-1,NL-Crime Investigation
+http://185.2.83.218:6204/live/onlineee/NL/1491.ts
+#EXTINF:-1,NL-Comedy Central
+http://185.2.83.218:6204/live/onlineee/NL/1492.ts
+#EXTINF:-1,NL-Comedy Central Extra
+http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/697.ts
+#EXTINF:-1,NL-24 Kitchen
+http://185.2.83.218:6204/live/onlineee/NL/1487.ts
+#EXTINF:-1,NL-Ziggo Sport Voetbal
+http://185.2.83.218:6204/live/onlineee/NL/915.ts
+#EXTINF:-1,NL-Ziggo Sport Golf
+http://185.2.83.218:6204/live/onlineee/NL/37.ts
+#EXTINF:-1,NL-Xite Awrds
+http://185.2.83.218:6204/live/onlineee/NL/67.ts
+#EXTINF:-1,NL-Wos TV
+http://185.2.83.218:6204/live/onlineee/NL/1115.ts
+#EXTINF:-1,NL-Veronica/Disney XD HD
+http://185.2.83.218:6204/live/onlineee/NL/34.ts
+#EXTINF:-1,NL-TV Oost HD
+http://185.2.83.218:6204/live/onlineee/NL/1121.ts
+#EXTINF:-1,NL-TV 538
+http://185.2.83.218:6204/live/onlineee/NL/1116.ts
+#EXTINF:-1,NL-TLC
+http://185.2.83.218:6204/live/onlineee/NL/68.ts
+#EXTINF:-1,NL-Sport1 Racing
+http://185.2.83.218:6204/live/onlineee/NL/36.ts
+#EXTINF:-1,NL-Sport Extra 2
+http://185.2.83.218:6204/live/onlineee/NL/947.ts
+#EXTINF:-1,NL-Sport Extra 1
+http://185.2.83.218:6204/live/onlineee/NL/946.ts
+#EXTINF:-1,NL-SBS 9
+http://185.2.83.218:6204/live/onlineee/NL/39.ts
+#EXTINF:-1,NL-SBS 6 HD
+http://185.2.83.218:6204/live/onlineee/NL/40.ts
+#EXTINF:-1,NL-RTV
+http://185.2.83.218:6204/live/onlineee/NL/960.ts
+#EXTINF:-1,NL-RTL-Z
+http://185.2.83.218:6204/live/onlineee/NL/1114.ts
+#EXTINF:-1,NL-RTL 8
+http://185.2.83.218:6204/live/onlineee/NL/42.ts
+#EXTINF:-1,NL-RTL 7 HD
+http://185.2.83.218:6204/live/onlineee/NL/43.ts
+#EXTINF:-1,NL-RTL 5 HD
+http://185.2.83.218:6204/live/onlineee/NL/44.ts
+#EXTINF:-1,NL-RTL 4
+http://185.2.83.218:6204/live/onlineee/NL/45.ts
+#EXTINF:-1,NL-NPO3 HD
+http://185.2.83.218:6204/live/onlineee/NL/47.ts
+#EXTINF:-1,NL-NPO2 HD
+http://185.2.83.218:6204/live/onlineee/NL/48.ts
+#EXTINF:-1,NL-NPO1 HD
+http://185.2.83.218:6204/live/onlineee/NL/49.ts
+#EXTINF:-1,NL-NPO Zappelin Xtra/Humor TV
+http://185.2.83.218:6204/live/onlineee/NL/952.ts
+#EXTINF:-1,NL-NPO 101
+http://185.2.83.218:6204/live/onlineee/NL/953.ts
+#EXTINF:-1,NL-Nickelodeon
+http://185.2.83.218:6204/live/onlineee/NL/41.ts
+#EXTINF:-1,NL-NET 5
+http://185.2.83.218:6204/live/onlineee/NL/50.ts
+#EXTINF:-1,NL-National Geographic
+http://185.2.83.218:6204/live/onlineee/NL/38.ts
+#EXTINF:-1,NL-L1 Limburg
+http://185.2.83.218:6204/live/onlineee/NL/1119.ts
+#EXTINF:-1,NL-Investigation Discovery
+http://185.2.83.218:6204/live/onlineee/NL/962.ts
+#EXTINF:-1,NL-HBO HD
+http://185.2.83.218:6204/live/onlineee/NL/51.ts
+#EXTINF:-1,NL-HBO 3
+http://185.2.83.218:6204/live/onlineee/NL/52.ts
+#EXTINF:-1,NL-HBO 2
+http://185.2.83.218:6204/live/onlineee/NL/53.ts
+#EXTINF:-1,NL-Fox Sports EDL2
+http://185.2.83.218:6204/live/onlineee/NL/57.ts
+#EXTINF:-1,NL-Fox Sports EDL1
+http://185.2.83.218:6204/live/onlineee/NL/58.ts
+#EXTINF:-1,NL-Fox Sports 5
+http://185.2.83.218:6204/live/onlineee/NL/54.ts
+#EXTINF:-1,NL-Fox Sports 4
+http://185.2.83.218:6204/live/onlineee/NL/55.ts
+#EXTINF:-1,NL-Fox Sports 3
+http://185.2.83.218:6204/live/onlineee/NL/56.ts
+#EXTINF:-1,NL-Film1 Sundance
+http://185.2.83.218:6204/live/onlineee/NL/61.ts
+#EXTINF:-1,NL-Film1 Premiere HD
+http://185.2.83.218:6204/live/onlineee/NL/62.ts
+#EXTINF:-1,NL-Film1 Action
+http://185.2.83.218:6204/live/onlineee/NL/64.ts
+#EXTINF:-1,NL-Film 1 Comedy and Kids
+http://185.2.83.218:6204/live/onlineee/NL/63.ts
+#EXTINF:-1,NL-EEN HD
+http://185.2.83.218:6204/live/onlineee/NL/917.ts
+#EXTINF:-1,NL-EDE TV
+http://185.2.83.218:6204/live/onlineee/NL/1120.ts
+#EXTINF:-1,NL-Disney Channel
+http://185.2.83.218:6204/live/onlineee/NL/65.ts
+#EXTINF:-1,NL-Discovery NL
+http://185.2.83.218:6204/live/onlineee/NL/66.ts
+#EXTINF:-1,NL-Comedy Central Extra
+http://185.2.83.218:6204/live/onlineee/NL/950.ts
+#EXTINF:-1,NL-Brava HD
+http://185.2.83.218:6204/live/onlineee/NL/1117.ts
+#EXTINF:-1,NL-AT5 HD
+http://185.2.83.218:6204/live/onlineee/NL/46.ts
+#EXTINF:-1,NL-100% NL
+http://185.2.83.218:6204/live/onlineee/NL/59.ts
