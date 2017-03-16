@@ -1,159 +1,372 @@
-#EXTM3U
-#EXTINF:-1,DE-Disney Channel
-http://185.2.83.218:6204/live/onlin/DE21/1499.ts
-#EXTINF:-1,DE-Sky Dmax
-http://185.2.83.218:6204/live/onlin/DE21/1498.ts
-#EXTINF:-1,DE-Nickelodeon
-http://185.2.83.218:6204/live/onlin/DE21/1111.ts
-#EXTINF:-1,DE-Universal Channel HD
-http://185.2.83.218:6204/live/onlin/DE21/280.ts
-#EXTINF:-1,DE-ZDF Info
-http://185.2.83.218:6204/live/onlin/DE21/278.ts
-#EXTINF:-1,DE-ZDF HD
-http://185.2.83.218:6204/live/onlin/DE21/279.ts
-#EXTINF:-1,DE-ZDF
-http://185.2.83.218:6204/live/onlin/DE21/802.ts
-#EXTINF:-1,DE-WDR
-http://185.2.83.218:6204/live/onlin/DE21/284.ts
-#EXTINF:-1,DE-VOX HD
-http://185.2.83.218:6204/live/onlin/DE21/263.ts
-#EXTINF:-1,DE-TNT Seriese
-http://185.2.83.218:6204/live/onlin/DE21/261.ts
-#EXTINF:-1,DE-TNT Film
-http://185.2.83.218:6204/live/onlin/DE21/262.ts
-#EXTINF:-1,DE-TNT Comedy
-http://185.2.83.218:6204/live/onlin/DE21/1017.ts
-#EXTINF:-1,DE-TLC Crime
-http://185.2.83.218:6204/live/onlin/DE21/251.ts
-#EXTINF:-1,DE-Tele5
-http://185.2.83.218:6204/live/onlin/DE21/1018.ts
-#EXTINF:-1,DE-SYFY HD
-http://185.2.83.218:6204/live/onlin/DE21/287.ts
-#EXTINF:-1,DE-SWR HD
-http://185.2.83.218:6204/live/onlin/DE21/1019.ts
-#EXTINF:-1,DE-SUPER RTL
-http://185.2.83.218:6204/live/onlin/DE21/273.ts
-#EXTINF:-1,DE-SRF2
-http://185.2.83.218:6204/live/onlin/DE21/269.ts
-#EXTINF:-1,DE-SRF1
-http://185.2.83.218:6204/live/onlin/DE21/268.ts
-#EXTINF:-1,DE-Sport1
-http://185.2.83.218:6204/live/onlin/DE21/271.ts
-#EXTINF:-1,DE-Sport 1+ HD
-http://185.2.83.218:6204/live/onlin/DE21/1020.ts
-#EXTINF:-1,DE-Sony TV HD
-http://185.2.83.218:6204/live/onlin/DE21/1021.ts
-#EXTINF:-1,DE-SKY SPORT2 HD
-http://185.2.83.218:6204/live/onlin/DE21/258.ts
-#EXTINF:-1,DE-SKY SPORT1 HD
-http://185.2.83.218:6204/live/onlin/DE21/257.ts
-#EXTINF:-1,DE-Sky Sport Austria
-http://185.2.83.218:6204/live/onlin/DE21/1022.ts
-#EXTINF:-1,DE-Sky NDR
-http://185.2.83.218:6204/live/onlin/DE21/809.ts
-#EXTINF:-1,DE-Sky Krimi
-http://185.2.83.218:6204/live/onlin/DE21/813.ts
-#EXTINF:-1,DE-Sky Kika
-http://185.2.83.218:6204/live/onlin/DE21/814.ts
-#EXTINF:-1,DE-Sky Kabel 1
-http://185.2.83.218:6204/live/onlin/DE21/815.ts
-#EXTINF:-1,DE-Tagesschau 24
-http://185.2.83.218:6204/live/onlin/DE21/1023.ts
-#EXTINF:-1,DE-SKY EMOTION HD
-http://185.2.83.218:6204/live/onlin/DE21/252.ts
-#EXTINF:-1,DE-SKY COMEDY HD
-http://185.2.83.218:6204/live/onlin/DE21/253.ts
-#EXTINF:-1,DE-SKY CINEMA HD
-http://185.2.83.218:6204/live/onlin/DE21/250.ts
-#EXTINF:-1,DE-sky cinema 24 HD
-http://185.2.83.218:6204/live/onlin/DE21/810.ts
-#EXTINF:-1,DE-SKY BUNDESLIGA1
-http://185.2.83.218:6204/live/onlin/DE21/259.ts
-#EXTINF:-1,DE-SKY ATLANTIC HD
-http://185.2.83.218:6204/live/onlin/DE21/256.ts
-#EXTINF:-1,DE-SKY ACTION HD
-http://185.2.83.218:6204/live/onlin/DE21/254.ts
-#EXTINF:-1,DE-Sixx TV
-http://185.2.83.218:6204/live/onlin/DE21/285.ts
-#EXTINF:-1,DE-SAt Ein Gold
-http://185.2.83.218:6204/live/onlin/DE21/1024.ts
-#EXTINF:-1,DE-Sat Ein
-http://185.2.83.218:6204/live/onlin/DE21/1025.ts
-#EXTINF:-1,DE-RTL2
-http://185.2.83.218:6204/live/onlin/DE21/275.ts
-#EXTINF:-1,DE-RTL Passion
-http://185.2.83.218:6204/live/onlin/DE21/290.ts
-#EXTINF:-1,DE-RTL Nitro
-http://185.2.83.218:6204/live/onlin/DE21/289.ts
-#EXTINF:-1,DE-RTL Living
-http://185.2.83.218:6204/live/onlin/DE21/288.ts
-#EXTINF:-1,DE-RTL
-http://185.2.83.218:6204/live/onlin/DE21/265.ts
-#EXTINF:-1,DE-Junior
-http://185.2.83.218:6204/live/onlin/DE21/1026.ts
-#EXTINF:-1,DE-RBB Berlin
-http://185.2.83.218:6204/live/onlin/DE21/806.ts
-#EXTINF:-1,DE-Pro7 Maxx
-http://185.2.83.218:6204/live/onlin/DE21/805.ts
-#EXTINF:-1,DE-Pro7 HD
-http://185.2.83.218:6204/live/onlin/DE21/804.ts
-#EXTINF:-1,DE-Pro7 Fun HD
-http://185.2.83.218:6204/live/onlin/DE21/801.ts
-#EXTINF:-1,DE-Phoenix HD
-http://185.2.83.218:6204/live/onlin/DE21/807.ts
-#EXTINF:-1,DE-ORF Eins
-http://185.2.83.218:6204/live/onlin/DE21/272.ts
-#EXTINF:-1,DE-Nat Geo Wild
-http://185.2.83.218:6204/live/onlin/DE21/264.ts
-#EXTINF:-1,DE-Nat Geo HD
-http://185.2.83.218:6204/live/onlin/DE21/803.ts
-#EXTINF:-1,DE-N24
-http://185.2.83.218:6204/live/onlin/DE21/255.ts
-#EXTINF:-1,DE-N-TV
-http://185.2.83.218:6204/live/onlin/DE21/811.ts
-#EXTINF:-1,DE-MDR
-http://185.2.83.218:6204/live/onlin/DE21/812.ts
-#EXTINF:-1,DE-HR
-http://185.2.83.218:6204/live/onlin/DE21/1027.ts
-#EXTINF:-1,DE-History HD
-http://185.2.83.218:6204/live/onlin/DE21/1028.ts
-#EXTINF:-1,DE-Fox HD
-http://185.2.83.218:6204/live/onlin/DE21/818.ts
-#EXTINF:-1,DE-Euro Sport1
-http://185.2.83.218:6204/live/onlin/DE21/1029.ts
-#EXTINF:-1,DE-Eins Plus
-http://185.2.83.218:6204/live/onlin/DE21/1030.ts
-#EXTINF:-1,DE-Eins Festival
-http://185.2.83.218:6204/live/onlin/DE21/1031.ts
-#EXTINF:-1,DE-Disney XD
-http://185.2.83.218:6204/live/onlin/DE21/291.ts
-#EXTINF:-1,DE-Disney Junior
-http://185.2.83.218:6204/live/onlin/DE21/266.ts
-#EXTINF:-1,DE-Discovery HD
-http://185.2.83.218:6204/live/onlin/DE21/276.ts
-#EXTINF:-1,DE-Das Erste HD
-http://185.2.83.218:6204/live/onlin/DE21/808.ts
-#EXTINF:-1,DE-BTV
-http://185.2.83.218:6204/live/onlin/DE21/1032.ts
-#EXTINF:-1,DE-AXN
-http://185.2.83.218:6204/live/onlin/DE21/817.ts
-#EXTINF:-1,DE-Arte
-http://185.2.83.218:6204/live/onlin/DE21/1033.ts
-#EXTINF:-1,DE-Anixe
-http://185.2.83.218:6204/live/onlin/DE21/1034.ts
-#EXTINF:-1,DE-Animal Planet
-http://185.2.83.218:6204/live/onlin/DE21/1035.ts
-#EXTINF:-1,DE-A-E
-http://185.2.83.218:6204/live/onlin/DE21/1036.ts
-#EXTINF:-1,DE-3 Sat HD
-http://185.2.83.218:6204/live/onlin/DE21/1037.ts
-#EXTINF:-1,DE-24
-http://185.2.83.218:6204/live/onlin/DE21/1038.ts
-#EXTINF:-1,DE-13th Street HD
-http://185.2.83.218:6204/live/onlin/DE21/286.ts
-#EXTINF:-1,DE- RTL Crime HD
-http://185.2.83.218:6204/live/onlin/DE21/274.ts
-#EXTINF:-1,DE-Boomerang HD
-http://185.2.83.218:6204/live/onlin/DE21/1530.ts
-#EXTINF:-1,DE-Zee One HD
-http://185.2.83.218:6204/live/onlin/DE21/1629.ts
+#EXTINF:-1,DE: RTL HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1048.ts
+#EXTINF:-1,DE: RTL SD
+http://51.255.76.67:1557/live/IVAN/IVAN/3382.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1047.ts
+#EXTINF:-1,DE: RTL 2 SD
+http://51.255.76.67:1557/live/IVAN/IVAN/2142.ts
+#EXTINF:-1,DE: RTL Living HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3375.ts
+#EXTINF:-1,DE: RTL Passion
+http://51.255.76.67:1557/live/IVAN/IVAN/3392.ts
+#EXTINF:-1,DE: RTL Crime
+http://51.255.76.67:1557/live/IVAN/IVAN/3393.ts
+#EXTINF:-1,DE:RTL You HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1846.ts
+#EXTINF:-1,DE:RTL NITRO
+http://51.255.76.67:1557/live/IVAN/IVAN/1850.ts
+#EXTINF:-1,DE: Super RTL HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1514.ts
+#EXTINF:-1,DE: Prosieben HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1540.ts
+#EXTINF:-1,DE: ProSieben Maxx
+http://51.255.76.67:1557/live/IVAN/IVAN/1851.ts
+#EXTINF:-1,DE: Prosieben Fun HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3377.ts
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3378.ts
+#EXTINF:-1,DE: N24
+http://51.255.76.67:1557/live/IVAN/IVAN/4925.ts
+#EXTINF:-1,DE: VOX HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1193.ts
+#EXTINF:-1,DE: ZDF
+http://51.255.76.67:1557/live/IVAN/IVAN/1504.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1506.ts
+#EXTINF:-1,DE: Kabel 1
+http://51.255.76.67:1557/live/IVAN/IVAN/959.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1731.ts
+#EXTINF:-1,DE: Kabel Classic HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3383.ts
+#EXTINF:-1,DE: Das Erste
+http://51.255.76.67:1557/live/IVAN/IVAN/917.ts
+#EXTINF:-1,DE: Sat 1
+http://51.255.76.67:1557/live/IVAN/IVAN/1056.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://51.255.76.67:1557/live/IVAN/IVAN/3376.ts
+#EXTINF:-1,DE: 3Sat HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1849.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1002.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1531.ts
+#EXTINF:-1,DE: ORF 3 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1852.ts
+#EXTINF:-1,DE:Arte HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1857.ts
+#EXTINF:-1,DE: Tele 5 tv HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3379.ts
+#EXTINF:-1,DE: SRF 1 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1583.ts
+#EXTINF:-1,DE: SRF 2
+http://51.255.76.67:1557/live/IVAN/IVAN/1538.ts
+#EXTINF:-1,DE: NDR HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1532.ts
+#EXTINF:-1,DE: Sixx
+http://51.255.76.67:1557/live/IVAN/IVAN/1581.ts
+#EXTINF:-1,DE: Austria 24
+http://51.255.76.67:1557/live/IVAN/IVAN/1468.ts
+#EXTINF:-1,DE: Munchen TV
+http://51.255.76.67:1557/live/IVAN/IVAN/4079.ts
+#EXTINF:-1,DE: Augsburg TV
+http://51.255.76.67:1557/live/IVAN/IVAN/4080.ts
+#EXTINF:-1,---kino---
+http://51.255.76.67:1557/live/IVAN/IVAN/3479.ts
+#EXTINF:-1,DE: 13th Street
+http://51.255.76.67:1557/live/IVAN/IVAN/1550.ts
+#EXTINF:-1,DE: 13th Street HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3384.ts
+#EXTINF:-1,DE: TNT Film HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1584.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1515.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://51.255.76.67:1557/live/IVAN/IVAN/2587.ts
+#EXTINF:-1,DE: AXN HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1535.ts
+#EXTINF:-1,DE: FOX HD
+http://51.255.76.67:1557/live/IVAN/IVAN/2539.ts
+#EXTINF:-1,DE: SYFY HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3385.ts
+#EXTINF:-1,DE: Sony HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3374.ts
+#EXTINF:-1,DE: MTV Germany
+http://51.255.76.67:1557/live/IVAN/IVAN/6288.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1087.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3386.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1517.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1722.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1917.ts
+#EXTINF:-1,De: Sky Cinema Hits HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1758.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1522.ts
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1554.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1081.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+http://51.255.76.67:1557/live/IVAN/IVAN/2586.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://51.255.76.67:1557/live/IVAN/IVAN/1062.ts
+#EXTINF:-1,DE: Sky Krimi
+http://51.255.76.67:1557/live/IVAN/IVAN/1086.ts
+#EXTINF:-1,DE: Romance TV HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1763.ts
+#EXTINF:-1,DE: Kinowelt TV HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1094.ts
+#EXTINF:-1,DE: Heimat Kanal HD
+http://51.255.76.67:1557/live/IVAN/IVAN/2585.ts
+#EXTINF:-1,DE: KIKA HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1765.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://51.255.76.67:1557/live/IVAN/IVAN/2584.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1082.ts
+#EXTINF:-1,DE:Disney Junior
+http://51.255.76.67:1557/live/IVAN/IVAN/2621.ts
+#EXTINF:-1,DE: Disney XD HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1779.ts
+#EXTINF:-1,DE: Junior HD
+http://51.255.76.67:1557/live/IVAN/IVAN/2589.ts
+#EXTINF:-1,DE: Sky Cartoon Network HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3395.ts
+#EXTINF:-1,DE: Boomerang HD
+http://51.255.76.67:1557/live/IVAN/IVAN/2588.ts
+#EXTINF:-1,DE: Nickelodeon Schweiz HD
+http://51.255.76.67:1557/live/IVAN/IVAN/2590.ts
+#EXTINF:-1,DE: Nick JR HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1528.ts
+#EXTINF:-1,DE: Zee one HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3380.ts
+#EXTINF:-1,DE: Kabel1 Doku
+http://51.255.76.67:1557/live/IVAN/IVAN/5831.ts
+#EXTINF:-1,DE: VIVA / COMEDY CENTRAL
+http://51.255.76.67:1557/live/IVAN/IVAN/1084.ts
+#EXTINF:-1,DE: KinoFilme (Logan:The Wolverine 2017)
+http://51.255.76.67:1557/live/IVAN/IVAN/8127.ts
+#EXTINF:-1,DE: Film Club 1 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/6570.ts
+#EXTINF:-1,DE: Film Club 2 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/6571.ts
+#EXTINF:-1,DE: Film Club 3 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/6572.ts
+#EXTINF:-1,DE: Film Club 4 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/6573.ts
+#EXTINF:-1,DE: Film Club 5 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/6574.ts
+#EXTINF:-1,DE: Film Club 6 HD
+http://51.255.76.67:1557/live/IVAN/IVAN/6575.ts
+#EXTINF:-1,DE: Sky Select Live (Trolls)
+http://51.255.76.67:1557/live/IVAN/IVAN/8130.ts
+#EXTINF:-1,DE: Sky Select 1 Live (Inferno)
+http://51.255.76.67:1557/live/IVAN/IVAN/1101.ts
+#EXTINF:-1,DE: Sky Select 2 Live (Collide)
+http://51.255.76.67:1557/live/IVAN/IVAN/1558.ts
+#EXTINF:-1,DE: Sky Select 3 Live (Findet Dorie 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/1103.ts
+#EXTINF:-1,DE: Sky Select 4 Live (Ouija:Ursprung des Bösen HD 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/1104.ts
+#EXTINF:-1,DE: Sky Select 5 Live (War Dogs 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/1105.ts
+#EXTINF:-1,DE: Sky Select 6 Live (Die Insel der besonderen Kinder 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/1562.ts
+#EXTINF:-1,DE: Sky Select 7 Live (Sausage Party: Es geht um die Wurst 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/4084.ts
+#EXTINF:-1,DE: Sky Select 8 Live (Conni & Co.2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/4085.ts
+#EXTINF:-1,DE: Sky Select 9 Live (American Honey 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/2676.ts
+#EXTINF:-1,DE: Sky Select 10 Live (Dog Eat Dog 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/4086.ts
+#EXTINF:-1,DE: Sky Select 11 Live (Blair Witch 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/4087.ts
+#EXTINF:-1,DE: Sky Select 12 Live (Die glorreichen Sieben 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/4090.ts
+#EXTINF:-1,DE: Sky Select 13 Live (The Infiltrator 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/4091.ts
+#EXTINF:-1,DE: Sky Select 14 Live (Männertag 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/4094.ts
+#EXTINF:-1,DE: Sky Select 15 Live (Doctor Strange 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/4096.ts
+#EXTINF:-1,DE: Sky Select 16 Live (Phantastische Tierwesen und wo sie zu finden sind 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/7742.ts
+#EXTINF:-1,DE: Sky Select 17 Live ((BFG Sophie&der Riese 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/7743.ts
+#EXTINF:-1,DE: Sky Select 18 Live (Vaiana:Das Paradies Hat Einen Haken 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/7744.ts
+#EXTINF:-1,DE: Sky Select 19 Live (Independence Day: Wiederkehr 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/7745.ts
+#EXTINF:-1,DE: Sky Select 20 Live (Fack ju Göhte 2 2016)
+http://51.255.76.67:1557/live/IVAN/IVAN/7747.ts
+#EXTINF:-1,DE: Programmübersicht Sky Select (Videoclub Movie VOD Section)
+http://51.255.76.67:1557/live/IVAN/IVAN/6151.ts
+#EXTINF:-1,Vod: Sky Select (inferno 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7443.mp4
+#EXTINF:-1,Vod: Sky Select (ouija:ursprung Des Bösen 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7445.mp4
+#EXTINF:-1,Vod: Sky Select (ouija:ursprung Des Bösen Hd (2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7448.mp4
+#EXTINF:-1,Vod: Sky Select (war Dogs Hd 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7447.mp4
+#EXTINF:-1,Vod: Sky Select (dog Eat Dog 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7430.mp4
+#EXTINF:-1,Vod: Sky Select (findet Dorie 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7749.mp4
+#EXTINF:-1,Vod: Sky Select (suicide Squad 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7748.mp4
+#EXTINF:-1,Vod: Sky Select (die Glorreichen Sieben 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6264.mp4
+#EXTINF:-1,Vod: Sky Select (bfg Sophie&der Riese (2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7328.mp4
+#EXTINF:-1,Vod: Sky Select (death Race 2050  2017)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7319.mp4
+#EXTINF:-1,Vod: Sky Select (sausage Party: Es Geht Um Die Wurst 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7292.mp4
+#EXTINF:-1,Vod: Sky Select (schweinskopf Al Dente 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7318.mp4
+#EXTINF:-1,Vod: Sky Select (blair Witch 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7069.mp4
+#EXTINF:-1,Vod: Sky Select (doctor Strange 2016) Deutsch
+http://51.255.76.67:1557/movie/IVAN/IVAN/7739.mp4
+#EXTINF:-1,Vod: Sky Select (männertag 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7612.mp4
+#EXTINF:-1,Vod: Sky Select (complete Unknown 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6473.mp4
+#EXTINF:-1,Vod: Sky Select (die Insel Der Besonderen Kinder 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7074.mp4
+#EXTINF:-1,Vod: Sky Select (fack Ju Göhte 2 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6504.mp4
+#EXTINF:-1,Vod: Sky Select (independence Day: Wiederkehr 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6503.mp4
+#EXTINF:-1,Vod: Sky Select (marauders Die Reichen Werden Bezahlen 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6474.mp4
+#EXTINF:-1,Vod: Sky Select (the Infiltrator 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7070.mp4
+#EXTINF:-1,Vod: Sky Select (the Light Between Oceans 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6475.mp4
+#EXTINF:-1,Vod: Sky Select (rupture: Überwinde Deine Ängste 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6265.mp4
+#EXTINF:-1,Vod: Sky Select (the Purge: Election Year 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6263.mp4
+#EXTINF:-1,Vod: Sky Select (nerve)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6091.mp4
+#EXTINF:-1,Vod: Sky Select (bad Moms)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6090.mp4
+#EXTINF:-1,Vod: Sky Select (barbershop: Jeder Braucht 'nen Frischen Haarschnitt 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6154.mp4
+#EXTINF:-1,Vod: Sky Select (ben Hur 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5815.mkv
+#EXTINF:-1,Vod: Sky Select (in A Valley Of Violence 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5817.mkv
+#EXTINF:-1,Vod: Sky Select (puls: Wenn Alle Vernetzt Sind Ist Keiner Sicher 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5816.mkv
+#EXTINF:-1,Vod: Sky Select (don't Breathe 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5574.mp4
+#EXTINF:-1,Vod: Sky Select (eliminators 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5573.mp4
+#EXTINF:-1,Vod: Sky Select (operation Chromite 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6320.mp4
+#EXTINF:-1,Vod: Sky Select (mike And Dave Need Wedding Dates 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5454.mp4
+#EXTINF:-1,Vod: Sky Select (die Unfassbaren 2  2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5429.mp4
+#EXTINF:-1,Vod: Sky Select (the Mechanic: Resurrection 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5430.mp4
+#EXTINF:-1,Vod: Sky Select (the Shallows: Gefahr Aus Der Tiefe 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5435.mp4
+#EXTINF:-1,Vod: Sky Select (elliot: Der Drache 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5431.mp4
+#EXTINF:-1,Vod: Sky Select (absolutely Fabulous: Der Film 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6155.mp4
+#EXTINF:-1,Vod: Sky Select (verräter Wie Wir 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6157.mp4
+#EXTINF:-1,Vod: Sky Select (mother's Day: Liebe Ist Kein Kinderspiel 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6158.mp4
+#EXTINF:-1,Vod: Sky Select (toni Erdmann 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/6215.MP4
+#EXTINF:-1,Vod: Sky Select (lights Out 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5432.mp4
+#EXTINF:-1,Vod: Sky Select (jason Bourne 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5433.mp4
+#EXTINF:-1,Vod: Sky Select (teenage Mutant Ninja Turtles: Out Of The Shadows 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5434.mp4
+#EXTINF:-1,Vod: Sky Select (pets 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5438.mp4
+#EXTINF:-1,Vod: Sky Select (die Bestimmung: Allegiant 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5439.mp4
+#EXTINF:-1,Vod: Sky Select (legend Of Tarzan (2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7323.mkv
+#EXTINF:-1,Vod: Sky Select (skiptrace (2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7324.mkv
+#EXTINF:-1,Vod: Sky Select (star Trek Beyond 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5442.mp4
+#EXTINF:-1,Vod: Sky Select (batman V Superman: Dawn Of Justice 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5443.mp4
+#EXTINF:-1,Vod: Sky Select (ghostbusters (2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7326.mkv
+#EXTINF:-1,Vod: Sky Select (ghostbusters 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/7329.MP4
+#EXTINF:-1,Vod: Sky Select (bad Neighbors 2 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5453.mp4
+#EXTINF:-1,Vod: Sky Select (jack Reacher: Never Go Back 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5455.mp4
+#EXTINF:-1,Vod: Sky Select (ice Age: Kollision Voraus! 2016)
+http://51.255.76.67:1557/movie/IVAN/IVAN/5456.mp4
+#EXTINF:-1,DE: Sky VOD 1 (Money Monster)
+http://51.255.76.67:1557/live/IVAN/IVAN/4098.ts
+#EXTINF:-1,DE: Sky VOD 2 (Das Jerico Project)
+http://51.255.76.67:1557/live/IVAN/IVAN/4099.ts
+#EXTINF:-1,DE: Sky VOD 3 (The First Avenger : Civil War)
+http://51.255.76.67:1557/live/IVAN/IVAN/4100.ts
+#EXTINF:-1,DE: Sky VOD 4 (Warcraft : The Begining)
+http://51.255.76.67:1557/live/IVAN/IVAN/4101.ts
+#EXTINF:-1,DE: Sky VOD 5 (X Man : Apocalipse)
+http://51.255.76.67:1557/live/IVAN/IVAN/4102.ts
+#EXTINF:-1,DE: Sky VOD 6 (The Witch)
+http://51.255.76.67:1557/live/IVAN/IVAN/4103.ts
+#EXTINF:-1,DE: Sky VOD 7 (Extraction Operation Condor)
+http://51.255.76.67:1557/live/IVAN/IVAN/4104.ts
+#EXTINF:-1,DE: Sky VOD 8 (10 Cloverfield Lane)
+http://51.255.76.67:1557/live/IVAN/IVAN/4105.ts
+#EXTINF:-1,DE: Sky VOD 9 (Angry Birds : Der Film)
+http://51.255.76.67:1557/live/IVAN/IVAN/4106.ts
+#EXTINF:-1,DE: Sky VOD 10 (Point Break)
+http://51.255.76.67:1557/live/IVAN/IVAN/4107.ts
+#EXTINF:-1,DE: Euronews DE
+http://51.255.76.67:1557/live/IVAN/IVAN/1776.ts
+#EXTINF:-1,DE: A&E HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3390.ts
+#EXTINF:-1,---kultur---
+http://51.255.76.67:1557/live/IVAN/IVAN/3480.ts
+#EXTINF:-1,DE: E! HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3389.ts
+#EXTINF:-1,DE: National Geographic HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1089.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3387.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3394.ts
+#EXTINF:-1,DE: Nat Geo People HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3388.ts
+#EXTINF:-1,DE: History Channel HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1844.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://51.255.76.67:1557/live/IVAN/IVAN/1088.ts
+#EXTINF:-1,DE: Sky DMAX
+http://51.255.76.67:1557/live/IVAN/IVAN/1579.ts
+#EXTINF:-1,DE: PLANET HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3381.ts
+#EXTINF:-1,DE: Anixe HD Series
+http://51.255.76.67:1557/live/IVAN/IVAN/3396.ts
+#EXTINF:-1,DE: Motorvision HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3391.ts
+#EXTINF:-1,DE: Sport Digital HD
+http://51.255.76.67:1557/live/IVAN/IVAN/3397.ts

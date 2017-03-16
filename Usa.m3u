@@ -1,335 +1,123 @@
 #EXTM3U
-#EXTINF:-1,USA: NYC - NEWS 12 Traffic & Weather
-http://51.255.76.67:1557/live/Igballe/Igballe/4671.ts
-#EXTINF:-1,USA: NFL Now
-http://51.255.76.67:1557/live/Igballe/Igballe/4145.ts
-#EXTINF:-1,USA: NFL Network HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2391.ts
-#EXTINF:-1,USA: NFL RedZone (Live on GameDay)
-http://51.255.76.67:1557/live/Igballe/Igballe/4232.ts
-#EXTINF:-1,USA: ESPN
-http://51.255.76.67:1557/live/Igballe/Igballe/4140.ts
-#EXTINF:-1,USA: ESPN 2 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4290.ts
-#EXTINF:-1,USA: ESPN 3 TRE
-http://51.255.76.67:1557/live/Igballe/Igballe/4681.ts
-#EXTINF:-1,USA: ESPN NEWS
-http://51.255.76.67:1557/live/Igballe/Igballe/4724.ts
-#EXTINF:-1,USA: BT SPORT | ESPN
-http://51.255.76.67:1557/live/Igballe/Igballe/4231.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4229.ts
-#EXTINF:-1,USA: DISCOVERY SHOWCASE
-http://51.255.76.67:1557/live/Igballe/Igballe/4228.ts
-#EXTINF:-1,USA: FOX SPORTS ONE
-http://51.255.76.67:1557/live/Igballe/Igballe/4233.ts
-#EXTINF:-1,USA: ANIMAL PLANET
-http://51.255.76.67:1557/live/Igballe/Igballe/4227.ts
-#EXTINF:-1,USA: WEATHERNATION
-http://51.255.76.67:1557/live/Igballe/Igballe/4691.ts
-#EXTINF:-1,USA: CBS HD-US
-http://51.255.76.67:1557/live/Igballe/Igballe/4658.ts
-#EXTINF:-1,USA: WWE Network
-http://51.255.76.67:1557/live/Igballe/Igballe/2424.ts
-#EXTINF:-1,USA: TRAVEL CHANNEL
-http://51.255.76.67:1557/live/Igballe/Igballe/4230.ts
-#EXTINF:-1,USA: Versus | NBA
-http://51.255.76.67:1557/live/Igballe/Igballe/2426.ts
-#EXTINF:-1,USA: TLC
-http://51.255.76.67:1557/live/Igballe/Igballe/2427.ts
-#EXTINF:-1,USA: TBS HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2380.ts
-#EXTINF:-1,USA: HISTORY
-http://51.255.76.67:1557/live/Igballe/Igballe/4130.ts
-#EXTINF:-1,USA: DISCOVERY CHANNEL HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4129.ts
-#EXTINF:-1,USA: MTV LIVE HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4128.ts
-#EXTINF:-1,USA: NAT GEO HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4144.ts
-#EXTINF:-1,USA: MTV HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4127.ts
-#EXTINF:-1,USA: SPIKE TV
-http://51.255.76.67:1557/live/Igballe/Igballe/4142.ts
-#EXTINF:-1,USA: CBS News
-http://51.255.76.67:1557/live/Igballe/Igballe/4141.ts
-#EXTINF:-1,USA: AMC
-http://51.255.76.67:1557/live/Igballe/Igballe/4138.ts
-#EXTINF:-1,USA: USA Network
-http://51.255.76.67:1557/live/Igballe/Igballe/4292.ts
-#EXTINF:-1,USA: CW 11 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4291.ts
-#EXTINF:-1,USA: T.N.T
-http://51.255.76.67:1557/live/Igballe/Igballe/4139.ts
-#EXTINF:-1,USA: TBS
-http://51.255.76.67:1557/live/Igballe/Igballe/4143.ts
-#EXTINF:-1,USA: CNN HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2406.ts
-#EXTINF:-1,USA: CNN
-http://51.255.76.67:1557/live/Igballe/Igballe/2454.ts
-#EXTINF:-1,USA: CNN HD INTERNATIONAL
-http://51.255.76.67:1557/live/Igballe/Igballe/2423.ts
-#EXTINF:-1,USA: EURO NEWS
-http://51.255.76.67:1557/live/Igballe/Igballe/4692.ts
-#EXTINF:-1,USA: FOX
-http://51.255.76.67:1557/live/Igballe/Igballe/4286.ts
-#EXTINF:-1,USA: BLOOMBERG TV
-http://51.255.76.67:1557/live/Igballe/Igballe/4683.ts
-#EXTINF:-1,USA: Astro Sports 4
-http://51.255.76.67:1557/live/Igballe/Igballe/4287.ts
-#EXTINF:-1,USA: Astro Sports 3
-http://51.255.76.67:1557/live/Igballe/Igballe/4288.ts
-#EXTINF:-1,USA: Astro Sports 2
-http://51.255.76.67:1557/live/Igballe/Igballe/4289.ts
-#EXTINF:-1,USA: Starz West
-http://51.255.76.67:1557/live/Igballe/Igballe/2381.ts
-#EXTINF:-1,USA: GRIT TV MOVIES
-http://51.255.76.67:1557/live/Igballe/Igballe/2383.ts
-#EXTINF:-1,USA: Starz Edge HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2384.ts
-#EXTINF:-1,USA: Starz East
-http://51.255.76.67:1557/live/Igballe/Igballe/2385.ts
-#EXTINF:-1,USA: Starz Comedy
-http://51.255.76.67:1557/live/Igballe/Igballe/2386.ts
-#EXTINF:-1,USA: Starz Cinema
-http://51.255.76.67:1557/live/Igballe/Igballe/2387.ts
-#EXTINF:-1,USA: SportsNet One HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2388.ts
-#EXTINF:-1,USA: Showtime 2 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2389.ts
-#EXTINF:-1,USA: Showtime HDTV
-http://51.255.76.67:1557/live/Igballe/Igballe/2390.ts
-#EXTINF:-1,USA: NBCSN HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2392.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
-http://51.255.76.67:1557/live/Igballe/Igballe/2433.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
-http://51.255.76.67:1557/live/Igballe/Igballe/2434.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
-http://51.255.76.67:1557/live/Igballe/Igballe/2435.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
-http://51.255.76.67:1557/live/Igballe/Igballe/2436.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
-http://51.255.76.67:1557/live/Igballe/Igballe/2437.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
-http://51.255.76.67:1557/live/Igballe/Igballe/2438.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
-http://51.255.76.67:1557/live/Igballe/Igballe/2439.ts
-#EXTINF:-1,USA: NBC HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2440.ts
-#EXTINF:-1,USA: Fight Network / MMA Network
-http://51.255.76.67:1557/live/Igballe/Igballe/2393.ts
-#EXTINF:-1,USA: MLB HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2395.ts
-#EXTINF:-1,USA: LIFE TIME
-http://51.255.76.67:1557/live/Igballe/Igballe/2396.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2397.ts
-#EXTINF:-1,USA: HBO ZONE
-http://51.255.76.67:1557/live/Igballe/Igballe/2445.ts
-#EXTINF:-1,USA: HBO SIGNATURE
-http://51.255.76.67:1557/live/Igballe/Igballe/2398.ts
-#EXTINF:-1,USA: HBO HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2447.ts
-#EXTINF:-1,USA: HBO 2 COMEDY
-http://51.255.76.67:1557/live/Igballe/Igballe/2399.ts
-#EXTINF:-1,USA: HALLMARK
-http://51.255.76.67:1557/live/Igballe/Igballe/2400.ts
-#EXTINF:-1,USA: NBA TV
-http://51.255.76.67:1557/live/Igballe/Igballe/2449.ts
-#EXTINF:-1,USA: FX HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2401.ts
-#EXTINF:-1,USA: Fox News
-http://51.255.76.67:1557/live/Igballe/Igballe/2403.ts
-#EXTINF:-1,USA: Fight Sport 1
-http://51.255.76.67:1557/live/Igballe/Igballe/2450.ts
-#EXTINF:-1,USA: Starz Encore East
-http://51.255.76.67:1557/live/Igballe/Igballe/2404.ts
-#EXTINF:-1,USA: Starz Encore HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2405.ts
-#EXTINF:-1,USA: Fight Sport 2
-http://51.255.76.67:1557/live/Igballe/Igballe/2453.ts
-#EXTINF:-1,USA: CITY HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2407.ts
-#EXTINF:-1,USA: Cinemax East
-http://51.255.76.67:1557/live/Igballe/Igballe/2408.ts
-#EXTINF:-1,USA: Cinemax ActionMax
-http://51.255.76.67:1557/live/Igballe/Igballe/2409.ts
-#EXTINF:-1,USA: MOVIETIME
-http://51.255.76.67:1557/live/Igballe/Igballe/4679.ts
-#EXTINF:-1,USA: CW Channel 11
-http://51.255.76.67:1557/live/Igballe/Igballe/2455.ts
-#EXTINF:-1,USA: CBSN News
-http://51.255.76.67:1557/live/Igballe/Igballe/2457.ts
-#EXTINF:-1,USA: FOX SPORTS TWO HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4660.ts
-#EXTINF:-1,USA: LIFETIME HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4680.ts
-#EXTINF:-1,USA: CAPITAL TV
-http://51.255.76.67:1557/live/Igballe/Igballe/4694.ts
-#EXTINF:-1,USA: HEART TV
-http://51.255.76.67:1557/live/Igballe/Igballe/4693.ts
-#EXTINF:-1,USA: C-SPAN 1 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4702.ts
-#EXTINF:-1,USA: C-SPAN 2 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4703.ts
-#EXTINF:-1,USA: C-SPAN 3 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4704.ts
-#EXTINF:-1,USA: The Weather Channel
-http://51.255.76.67:1557/live/Igballe/Igballe/4695.ts
-#EXTINF:-1,USA: News 12 Bronx (NYC)
-http://51.255.76.67:1557/live/Igballe/Igballe/4685.ts
-#EXTINF:-1,USA: News 12 Brooklyn (NYC)
-http://51.255.76.67:1557/live/Igballe/Igballe/4686.ts
-#EXTINF:-1,USA: News 12 Connecticut (LIVE)
-http://51.255.76.67:1557/live/Igballe/Igballe/4687.ts
-#EXTINF:-1,USA: News 12 Long Island(Stream 1)
-http://51.255.76.67:1557/live/Igballe/Igballe/4684.ts
-#EXTINF:-1,USA: News 12 New Jersey (LIVE)
-http://51.255.76.67:1557/live/Igballe/Igballe/4688.ts
-#EXTINF:-1,USA: News 12 New Jersey (Weather Live)
-http://51.255.76.67:1557/live/Igballe/Igballe/4689.ts
-#EXTINF:-1,USA: University of California TV
-http://51.255.76.67:1557/live/Igballe/Igballe/4690.ts
-#EXTINF:-1,USA: Bravo HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2410.ts
-#EXTINF:-1,USA: 5 STAR MAX
-http://51.255.76.67:1557/live/Igballe/Igballe/4706.ts
-#EXTINF:-1,USA: A&E HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4707.ts
-#EXTINF:-1,USA: AL JAZEERA U.S HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4718.ts
-#EXTINF:-1,USA: BBC WORLD NEWS
-http://51.255.76.67:1557/live/Igballe/Igballe/4721.ts
-#EXTINF:-1,USA: BEIN SPORTS U.S.A
-http://51.255.76.67:1557/live/Igballe/Igballe/4712.ts
-#EXTINF:-1,USA: NICKELODEON KIDS
-http://51.255.76.67:1557/live/Igballe/Igballe/4709.ts
-#EXTINF:-1,USA: CARTOON NETWORK
-http://51.255.76.67:1557/live/Igballe/Igballe/4708.ts
-#EXTINF:-1,USA: Cinemax Moremax
-http://51.255.76.67:1557/live/Igballe/Igballe/4713.ts
-#EXTINF:-1,USA: COMEDY CENTRAL
-http://51.255.76.67:1557/live/Igballe/Igballe/4725.ts
-#EXTINF:-1,USA: Crime & Investigation
-http://51.255.76.67:1557/live/Igballe/Igballe/4717.ts
-#EXTINF:-1,USA: DISCOVERY VELOCITY
-http://51.255.76.67:1557/live/Igballe/Igballe/4714.ts
-#EXTINF:-1,USA: E! Network HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4715.ts
-#EXTINF:-1,USA: FOOD NETWORK
-http://51.255.76.67:1557/live/Igballe/Igballe/4705.ts
-#EXTINF:-1,USA: NBC GOLF
-http://51.255.76.67:1557/live/Igballe/Igballe/4719.ts
-#EXTINF:-1,USA: NHL NETWORK
-http://51.255.76.67:1557/live/Igballe/Igballe/4723.ts
-#EXTINF:-1,USA: RT DOCUMENTARY
-http://51.255.76.67:1557/live/Igballe/Igballe/4720.ts
-#EXTINF:-1,USA: SYFY HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4711.ts
-#EXTINF:-1,USA: TRUE MOVIES
-http://51.255.76.67:1557/live/Igballe/Igballe/4722.ts
-#EXTINF:-1,USA: TV SERIES
-http://51.255.76.67:1557/live/Igballe/Igballe/4710.ts
-#EXTINF:-1,USA: Big Ten Network HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2411.ts
-#EXTINF:-1,USA: P.B.S Kids
-http://51.255.76.67:1557/live/Igballe/Igballe/4682.ts
-#EXTINF:-1,USA: Toon Kids
-http://51.255.76.67:1557/live/Igballe/Igballe/3720.ts
-#EXTINF:-1,USA: Cinemax 5 Max
-http://51.255.76.67:1557/live/Igballe/Igballe/5164.ts
-#EXTINF:-1,USA: CNBC HD
-http://51.255.76.67:1557/live/Igballe/Igballe/5163.ts
-#EXTINF:-1,USA: GSN TV
-http://51.255.76.67:1557/live/Igballe/Igballe/5159.ts
-#EXTINF:-1,USA: HBO Family HD
-http://51.255.76.67:1557/live/Igballe/Igballe/5158.ts
-#EXTINF:-1,USA: HGTV HD
-http://51.255.76.67:1557/live/Igballe/Igballe/5157.ts
-#EXTINF:-1,USA: NHLTV NETWORK HD
-http://51.255.76.67:1557/live/Igballe/Igballe/5161.ts
-#EXTINF:-1,USA: LMN HDTV
-http://51.255.76.67:1557/live/Igballe/Igballe/5156.ts
-#EXTINF:-1,USA: MY9 TV
-http://51.255.76.67:1557/live/Igballe/Igballe/5155.ts
-#EXTINF:-1,USA: NFL Network HDTV 1080i
-http://51.255.76.67:1557/live/Igballe/Igballe/5154.ts
-#EXTINF:-1,USA: NICK HD (kids)
-http://51.255.76.67:1557/live/Igballe/Igballe/5153.ts
-#EXTINF:-1,USA: NICKTOONS
-http://51.255.76.67:1557/live/Igballe/Igballe/5152.ts
-#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
-http://51.255.76.67:1557/live/Igballe/Igballe/5151.ts
-#EXTINF:-1,USA: Showtime Extreme HD
-http://51.255.76.67:1557/live/Igballe/Igballe/5150.ts
-#EXTINF:-1,USA: Showtime Showcase
-http://51.255.76.67:1557/live/Igballe/Igballe/5149.ts
-#EXTINF:-1,USA: TENNIS HD
-http://51.255.76.67:1557/live/Igballe/Igballe/5148.ts
-#EXTINF:-1,USA: TRU TV
-http://51.255.76.67:1557/live/Igballe/Igballe/5147.ts
-#EXTINF:-1,USA: TV SKY ONE
-http://51.255.76.67:1557/live/Igballe/Igballe/5146.ts
-#EXTINF:-1,USA: VH1 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/5145.ts
-#EXTINF:-1,USA: AFN Prime Pacific
-http://51.255.76.67:1557/live/Igballe/Igballe/2416.ts
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://51.255.76.67:1557/live/Igballe/Igballe/2417.ts
-#EXTINF:-1,USA: AFN News
-http://51.255.76.67:1557/live/Igballe/Igballe/2418.ts
-#EXTINF:-1,USA: AFN Movie
-http://51.255.76.67:1557/live/Igballe/Igballe/2419.ts
-#EXTINF:-1,USA: AFN Family Movie
-http://51.255.76.67:1557/live/Igballe/Igballe/2420.ts
-#EXTINF:-1,USA: ABC FAMILY/SPARK
-http://51.255.76.67:1557/live/Igballe/Igballe/2421.ts
-#EXTINF:-1,USA: ABC News
-http://51.255.76.67:1557/live/Igballe/Igballe/2462.ts
-#EXTINF:-1,USA: ABC Action News
-http://51.255.76.67:1557/live/Igballe/Igballe/2422.ts
-#EXTINF:-1,USA: ABC HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2463.ts
-#EXTINF:-1,USA: FOX MOTOSPORT
-http://51.255.76.67:1557/live/Igballe/Igballe/4699.ts
-#EXTINF:-1,USA: NASA TV HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4697.ts
-#EXTINF:-1,USA: NASA TV MEDIA HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4698.ts
-#EXTINF:-1,USA: HSN YT LIVE 1080p HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4754.ts
-#EXTINF:-1,USA: NEWSMAX YT LIVE HD
-http://51.255.76.67:1557/live/Igballe/Igballe/4755.ts
-#EXTINF:-1,USA: KIDS READING TV
-http://51.255.76.67:1557/live/Igballe/Igballe/4817.ts
-#EXTINF:-1,USA: QVC Beauty IQ
-http://51.255.76.67:1557/live/Igballe/Igballe/4824.ts
-#EXTINF:-1,USA: QVC Live
-http://51.255.76.67:1557/live/Igballe/Igballe/4823.ts
-#EXTINF:-1,USA: QVC Plus
-http://51.255.76.67:1557/live/Igballe/Igballe/4825.ts
-#EXTINF:-1,USA: Americas Auction TV
-http://51.255.76.67:1557/live/Igballe/Igballe/4822.ts
-#EXTINF:-1,USA: ABC
-http://51.255.76.67:1557/live/Igballe/Igballe/1928.ts
-#EXTINF:-1,USA: Tsn-Sport 1 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2432.ts
-#EXTINF:-1,USA: Tsn-Sport 2 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2431.ts
-#EXTINF:-1,USA: Tsn-Sport 3 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2430.ts
-#EXTINF:-1,USA: Tsn-Sport 4 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2429.ts
-#EXTINF:-1,USA: Tsn-Sport 5 HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2428.ts
-#EXTINF:-1,USA: AFN Sports HD
-http://51.255.76.67:1557/live/Igballe/Igballe/2412.ts
-#EXTINF:-1,USA: AFN Sports
-http://51.255.76.67:1557/live/Igballe/Igballe/2414.ts
-#EXTINF:-1,USA: AFN Sports 2
-http://51.255.76.67:1557/live/Igballe/Igballe/2413.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://51.255.76.67:1557/live/Igballe/Igballe/2402.ts
-#EXTINF:-1,USA: ESPN 1
-http://51.255.76.67:1557/live/Igballe/Igballe/2618.ts
+#EXTINF:-1,TSN 1 (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7556.ts
+#EXTINF:-1,TSN 2 HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10097.ts
+#EXTINF:-1,TSN 3 HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10098.ts
+#EXTINF:-1,TSN 4 HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10099.ts
+#EXTINF:-1,TSN 5 HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10100.ts
+#EXTINF:-1,CBS (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7558.ts
+#EXTINF:-1,TBS (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7559.ts
+#EXTINF:-1,The Cw Central (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7560.ts
+#EXTINF:-1,ABC (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7562.ts
+#EXTINF:-1,Spike (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7561.ts
+#EXTINF:-1,Own (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7563.ts
+#EXTINF:-1,Usa Network (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7557.ts
+#EXTINF:-1,Astro Supersport 1 (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7552.ts
+#EXTINF:-1,Astro Supersport 2 (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7553.ts
+#EXTINF:-1,Astro Supersport 3 (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7554.ts
+#EXTINF:-1,Astro Supersport 4 (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7555.ts
+#EXTINF:-1,TNT (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10056.ts
+#EXTINF:-1,TLC (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10053.ts
+#EXTINF:-1,TBS HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10054.ts
+#EXTINF:-1,World Fashion HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10102.ts
+#EXTINF:-1,Syfy (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10057.ts
+#EXTINF:-1,Spike HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10058.ts
+#EXTINF:-1,Showtime HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10059.ts
+#EXTINF:-1,PBS HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10060.ts
+#EXTINF:-1,Pocker Central (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10101.ts
+#EXTINF:-1,Nick (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10055.ts
+#EXTINF:-1,NBC Sports (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10061.ts
+#EXTINF:-1,NBC HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10062.ts
+#EXTINF:-1,NBC (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10063.ts
+#EXTINF:-1,My 9 (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10064.ts
+#EXTINF:-1,Lifetime (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10065.ts
+#EXTINF:-1,History Channel (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10067.ts
+#EXTINF:-1,HGTV HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10068.ts
+#EXTINF:-1,HBO Zone HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10069.ts
+#EXTINF:-1,HBO HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10070.ts
+#EXTINF:-1,HBO Family (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10071.ts
+#EXTINF:-1,Hallmark (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10072.ts
+#EXTINF:-1,Global Edminton (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10073.ts
+#EXTINF:-1,FX HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10074.ts
+#EXTINF:-1,Free Form HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10075.ts
+#EXTINF:-1,FOX News (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10076.ts
+#EXTINF:-1,FOX 43 (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10077.ts
+#EXTINF:-1,ESPN 2 USA (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10078.ts
+#EXTINF:-1,ESPN (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10079.ts
+#EXTINF:-1,DIY Network HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10080.ts
+#EXTINF:-1,Discovery Family HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10081.ts
+#EXTINF:-1,Discovery Channel (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10082.ts
+#EXTINF:-1,CW HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10083.ts
+#EXTINF:-1,CTV HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10096.ts
+#EXTINF:-1,Comedy Central HD US (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10084.ts
+#EXTINF:-1,CNN (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10085.ts
+#EXTINF:-1,CNBC (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10086.ts
+#EXTINF:-1,CITY HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10087.ts
+#EXTINF:-1,CBS HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10088.ts
+#EXTINF:-1,Cartoon Network USA (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10089.ts
+#EXTINF:-1,Bravo USA (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10090.ts
+#EXTINF:-1,Animal Planet US (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10091.ts
+#EXTINF:-1,AMC (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10092.ts
+#EXTINF:-1,ABC News (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10093.ts
+#EXTINF:-1,ABC HD (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10094.ts
+#EXTINF:-1,A & E (USA)
+http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10095.ts
