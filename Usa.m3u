@@ -1,123 +1,504 @@
-#EXTM3U
-#EXTINF:-1,TSN 1 (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7556.ts
-#EXTINF:-1,TSN 2 HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10097.ts
-#EXTINF:-1,TSN 3 HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10098.ts
-#EXTINF:-1,TSN 4 HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10099.ts
-#EXTINF:-1,TSN 5 HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10100.ts
-#EXTINF:-1,CBS (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7558.ts
-#EXTINF:-1,TBS (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7559.ts
-#EXTINF:-1,The Cw Central (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7560.ts
-#EXTINF:-1,ABC (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7562.ts
-#EXTINF:-1,Spike (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7561.ts
-#EXTINF:-1,Own (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7563.ts
-#EXTINF:-1,Usa Network (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7557.ts
-#EXTINF:-1,Astro Supersport 1 (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7552.ts
-#EXTINF:-1,Astro Supersport 2 (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7553.ts
-#EXTINF:-1,Astro Supersport 3 (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7554.ts
-#EXTINF:-1,Astro Supersport 4 (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/7555.ts
-#EXTINF:-1,TNT (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10056.ts
-#EXTINF:-1,TLC (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10053.ts
-#EXTINF:-1,TBS HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10054.ts
-#EXTINF:-1,World Fashion HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10102.ts
-#EXTINF:-1,Syfy (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10057.ts
-#EXTINF:-1,Spike HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10058.ts
-#EXTINF:-1,Showtime HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10059.ts
-#EXTINF:-1,PBS HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10060.ts
-#EXTINF:-1,Pocker Central (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10101.ts
-#EXTINF:-1,Nick (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10055.ts
-#EXTINF:-1,NBC Sports (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10061.ts
-#EXTINF:-1,NBC HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10062.ts
-#EXTINF:-1,NBC (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10063.ts
-#EXTINF:-1,My 9 (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10064.ts
-#EXTINF:-1,Lifetime (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10065.ts
-#EXTINF:-1,History Channel (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10067.ts
-#EXTINF:-1,HGTV HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10068.ts
-#EXTINF:-1,HBO Zone HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10069.ts
-#EXTINF:-1,HBO HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10070.ts
-#EXTINF:-1,HBO Family (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10071.ts
-#EXTINF:-1,Hallmark (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10072.ts
-#EXTINF:-1,Global Edminton (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10073.ts
-#EXTINF:-1,FX HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10074.ts
-#EXTINF:-1,Free Form HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10075.ts
-#EXTINF:-1,FOX News (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10076.ts
-#EXTINF:-1,FOX 43 (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10077.ts
-#EXTINF:-1,ESPN 2 USA (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10078.ts
-#EXTINF:-1,ESPN (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10079.ts
-#EXTINF:-1,DIY Network HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10080.ts
-#EXTINF:-1,Discovery Family HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10081.ts
-#EXTINF:-1,Discovery Channel (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10082.ts
-#EXTINF:-1,CW HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10083.ts
-#EXTINF:-1,CTV HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10096.ts
-#EXTINF:-1,Comedy Central HD US (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10084.ts
-#EXTINF:-1,CNN (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10085.ts
-#EXTINF:-1,CNBC (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10086.ts
-#EXTINF:-1,CITY HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10087.ts
-#EXTINF:-1,CBS HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10088.ts
-#EXTINF:-1,Cartoon Network USA (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10089.ts
-#EXTINF:-1,Bravo USA (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10090.ts
-#EXTINF:-1,Animal Planet US (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10091.ts
-#EXTINF:-1,AMC (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10092.ts
-#EXTINF:-1,ABC News (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10093.ts
-#EXTINF:-1,ABC HD (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10094.ts
-#EXTINF:-1,A & E (USA)
-http://ns3308951.ip-37-187-253.eu:8000/live/line09/gSq01fAByj/10095.ts
+#EXTINF:-1,US: 360 North
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36396.ts
+#EXTINF:-1,US: ABC FAMILY
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36397.ts
+#EXTINF:-1,US: ABC News HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36398.ts
+#EXTINF:-1,US: Adult Swim
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36399.ts
+#EXTINF:-1,US: AFN MOVIE
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36400.ts
+#EXTINF:-1,US: AFN NEWS
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36267.ts
+#EXTINF:-1,US: AFN PRIME ATLANTIC
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36268.ts
+#EXTINF:-1,US: AFN PRIME PACIFIC
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36269.ts
+#EXTINF:-1,US: AFN PULSE
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36401.ts
+#EXTINF:-1,US: AFN SPECTRUM
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36270.ts
+#EXTINF:-1,US: AFN SPORTS
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36402.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36403.ts
+#EXTINF:-1,US: AFN SPORTS HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36404.ts
+#EXTINF:-1,US: Amazing Facts TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36405.ts
+#EXTINF:-1,US: AMC HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36406.ts
+#EXTINF:-1,US: AMG TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36407.ts
+#EXTINF:-1,US: Animal Planet
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36408.ts
+#EXTINF:-1,US: At The Drive-in
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36409.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36410.ts
+#EXTINF:-1,US: Bloomberg
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36411.ts
+#EXTINF:-1,US: Boston City TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36412.ts
+#EXTINF:-1,US: Bravo HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36413.ts
+#EXTINF:-1,US: BTN Sport HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36414.ts
+#EXTINF:-1,US: BYU Sports TV HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36415.ts
+#EXTINF:-1,US: CBS ACTION
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36416.ts
+#EXTINF:-1,US: CBS DRAMA
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36417.ts
+#EXTINF:-1,US: CBS News HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36418.ts
+#EXTINF:-1,US: CBSN HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36420.ts
+#EXTINF:-1,US: Channel 5
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36421.ts
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36271.ts
+#EXTINF:-1,US: Cinemax ActionMax East
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36272.ts
+#EXTINF:-1,US: Cinemax East
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36273.ts
+#EXTINF:-1,US: Cinemax HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36422.ts
+#EXTINF:-1,US: CNBC
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36423.ts
+#EXTINF:-1,US: CNBS HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36424.ts
+#EXTINF:-1,US: CNN HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36425.ts
+#EXTINF:-1,US: Cpac
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36426.ts
+#EXTINF:-1,US: CW HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36427.ts
+#EXTINF:-1,US: D23 TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36428.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36429.ts
+#EXTINF:-1,US: Discovery Science HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36430.ts
+#EXTINF:-1,US: Discovery Showcase HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36431.ts
+#EXTINF:-1,US: DIY Network
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36274.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36432.ts
+#EXTINF:-1,US: ESPN HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36433.ts
+#EXTINF:-1,US: Fashion One
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36434.ts
+#EXTINF:-1,US: Fashion TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36435.ts
+#EXTINF:-1,US: Fight Network
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36436.ts
+#EXTINF:-1,US: Film Noir Classic Channel
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36437.ts
+#EXTINF:-1,US: Food Network
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36438.ts
+#EXTINF:-1,US: Food Network HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36275.ts
+#EXTINF:-1,US: Fox 59 News
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36439.ts
+#EXTINF:-1,US: Fox Deportes
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36440.ts
+#EXTINF:-1,US: Fox HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36441.ts
+#EXTINF:-1,US: Fox Sport 1 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36442.ts
+#EXTINF:-1,US: Fox Sport 2 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36443.ts
+#EXTINF:-1,US: Fox Sports 506 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36444.ts
+#EXTINF:-1,US: FOXX HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36276.ts
+#EXTINF:-1,US: FreeRom HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36277.ts
+#EXTINF:-1,US: FX HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36278.ts
+#EXTINF:-1,US: Global TV BC
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36445.ts
+#EXTINF:-1,US: Global TV Halifax
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36446.ts
+#EXTINF:-1,US: Global TV Toronto
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36447.ts
+#EXTINF:-1,US: H2
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36448.ts
+#EXTINF:-1,US: HALLMARK
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36279.ts
+#EXTINF:-1,US: HBO
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36449.ts
+#EXTINF:-1,US: HBO East
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36450.ts
+#EXTINF:-1,US: HBO Family
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36451.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36452.ts
+#EXTINF:-1,US: HBO ZONE
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36453.ts
+#EXTINF:-1,US: HGTV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36454.ts
+#EXTINF:-1,US: HIFI
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36280.ts
+#EXTINF:-1,US: History Channel
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36455.ts
+#EXTINF:-1,US: HSN 1
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36456.ts
+#EXTINF:-1,US: HSN 2
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36457.ts
+#EXTINF:-1,US: Investigation Discovery
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36458.ts
+#EXTINF:-1,US: King Of The Hill
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36459.ts
+#EXTINF:-1,US: KTVU News
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36460.ts
+#EXTINF:-1,US: LIFE TIME
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36461.ts
+#EXTINF:-1,US: Mello TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36462.ts
+#EXTINF:-1,US: Miami TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36463.ts
+#EXTINF:-1,US: Motor Sports 7 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36464.ts
+#EXTINF:-1,US: Movies
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36465.ts
+#EXTINF:-1,US: Mute TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36466.ts
+#EXTINF:-1,US: Nasa TV HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36467.ts
+#EXTINF:-1,US: National Geographic
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36281.ts
+#EXTINF:-1,US: NBA HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36468.ts
+#EXTINF:-1,US: NBC Extra Time HD1 ( During Games Only )
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36282.ts
+#EXTINF:-1,US: NBC Golf HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36469.ts
+#EXTINF:-1,US: NBC HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36470.ts
+#EXTINF:-1,US: NBCSN
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36471.ts
+#EXTINF:-1,US: News 12
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36419.ts
+#EXTINF:-1,US: NFL HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36472.ts
+#EXTINF:-1,US: NICK
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36473.ts
+#EXTINF:-1,US: NICKELODEN HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36283.ts
+#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36474.ts
+#EXTINF:-1,US: PAG HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36475.ts
+#EXTINF:-1,US: Planet Green
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36476.ts
+#EXTINF:-1,US: Pocker Central
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36477.ts
+#EXTINF:-1,US: Redbull TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36478.ts
+#EXTINF:-1,US: RT America HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36479.ts
+#EXTINF:-1,US: RT Documentary
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36480.ts
+#EXTINF:-1,US: Showtime HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36481.ts
+#EXTINF:-1,US: Simpsons
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36482.ts
+#EXTINF:-1,US: SPACE
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36483.ts
+#EXTINF:-1,US: SPIKE HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36284.ts
+#EXTINF:-1,US: Sports Net World
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36484.ts
+#EXTINF:-1,US: Sports Night
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36485.ts
+#EXTINF:-1,US: SportsNet One HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36486.ts
+#EXTINF:-1,US: SportsNet Ontario
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36487.ts
+#EXTINF:-1,US: SportsNet World HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36488.ts
+#EXTINF:-1,US: STARS KIDS & FAMILY
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36489.ts
+#EXTINF:-1,US: Starz Cinema HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36490.ts
+#EXTINF:-1,US: Starz East
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36491.ts
+#EXTINF:-1,US: Starz Edge
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36492.ts
+#EXTINF:-1,US: STARZ EDGE HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36285.ts
+#EXTINF:-1,US: SyFy US
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36493.ts
+#EXTINF:-1,US: TBS HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36494.ts
+#EXTINF:-1,US: Tech Channel
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36495.ts
+#EXTINF:-1,US: Ten Cricket
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36496.ts
+#EXTINF:-1,US: The Florida Channel
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36497.ts
+#EXTINF:-1,US: TLC
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36498.ts
+#EXTINF:-1,US: Toonami Aftermath
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36499.ts
+#EXTINF:-1,US: Travel Channel HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36500.ts
+#EXTINF:-1,US: Tru TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36501.ts
+#EXTINF:-1,US: TSC
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36502.ts
+#EXTINF:-1,US: TSN 1 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36503.ts
+#EXTINF:-1,US: TSN 2 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36504.ts
+#EXTINF:-1,US: TSN 3 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36505.ts
+#EXTINF:-1,US: TSN 4 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36506.ts
+#EXTINF:-1,US: TSN 5 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36507.ts
+#EXTINF:-1,US: Twit TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36508.ts
+#EXTINF:-1,US: UC TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36509.ts
+#EXTINF:-1,US: USA Network
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36510.ts
+#EXTINF:-1,US: USA Network HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36286.ts
+#EXTINF:-1,US: Versus NBA HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36511.ts
+#EXTINF:-1,US: Weather Channel
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36512.ts
+#EXTINF:-1,US: WFTV Channel 9
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36513.ts
+#EXTINF:-1,US: WGN News Chicago
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36514.ts
+#EXTINF:-1,US: Willow HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36515.ts
+#EXTINF:-1,US: World Fashion HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36516.ts
+#EXTINF:-1,US: WWE
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36517.ts
+#EXTINF:-1,US: WXYZ TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36518.ts
+#EXTINF:-1,US:MelloTV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36287.ts
+#EXTINF:-1,US:Sports-Net
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36288.ts
+#EXTINF:-1,USA : AMC HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36289.ts
+#EXTINF:-1,USA : BYU TV
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36290.ts
+#EXTINF:-1,USA : CARTOON NETWORK
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36291.ts
+#EXTINF:-1,USA : CBSN HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36292.ts
+#EXTINF:-1,USA : CNBC
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36293.ts
+#EXTINF:-1,USA : DISCCOVERY HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36294.ts
+#EXTINF:-1,USA : Discovery Velocity
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36295.ts
+#EXTINF:-1,USA : DW
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36296.ts
+#EXTINF:-1,USA : Fight HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36297.ts
+#EXTINF:-1,USA : FXX
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36298.ts
+#EXTINF:-1,USA : HBO Comedy
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36299.ts
+#EXTINF:-1,USA : HBO East
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36300.ts
+#EXTINF:-1,USA : HBO HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36301.ts
+#EXTINF:-1,USA : HBO Signature
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36302.ts
+#EXTINF:-1,USA : HBO Zone
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36303.ts
+#EXTINF:-1,USA : NBA SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36304.ts
+#EXTINF:-1,USA : NBA TV HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36305.ts
+#EXTINF:-1,USA : Showtime 2
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36306.ts
+#EXTINF:-1,USA : SHOWTIME HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36307.ts
+#EXTINF:-1,USA : Showtime West
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36308.ts
+#EXTINF:-1,USA : Starz Cinema
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36309.ts
+#EXTINF:-1,USA : Starz Comedy
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36310.ts
+#EXTINF:-1,USA : Starz East
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36311.ts
+#EXTINF:-1,USA : Starz Encore
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36312.ts
+#EXTINF:-1,USA : Tennis Channel HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36313.ts
+#EXTINF:-1,USA | A&E HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36329.ts
+#EXTINF:-1,USA | Amazing Discoveries HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36330.ts
+#EXTINF:-1,USA | ESPN
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36331.ts
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36332.ts
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36333.ts
+#EXTINF:-1,USA | Nat Geo Wild
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36334.ts
+#EXTINF:-1,USA | NBC XTRA 1 720P
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36335.ts
+#EXTINF:-1,USA | NBC XTRA 2 720P
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36336.ts
+#EXTINF:-1,USA | NBC XTRA 3 720P
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36337.ts
+#EXTINF:-1,USA | NBC XTRA 4 720P
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36338.ts
+#EXTINF:-1,USA | NBC XTRA 5 720P
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36339.ts
+#EXTINF:-1,USA | NBCSN HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36340.ts
+#EXTINF:-1,USA | NFL Network HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36341.ts
+#EXTINF:-1,USA | PAC-12 Arizona
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36342.ts
+#EXTINF:-1,USA | PAC-12 Bay Area
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36343.ts
+#EXTINF:-1,USA | PAC-12 Los Angeles
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36344.ts
+#EXTINF:-1,USA | PAC-12 Oregon
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36345.ts
+#EXTINF:-1,USA | PAC-12 Washington
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36346.ts
+#EXTINF:-1,USA | Poker Central
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36347.ts
+#EXTINF:-1,USA | TLC HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36348.ts
+#EXTINF:-1,USA | Versus HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36349.ts
+#EXTINF:-1,USA | WWE HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36350.ts
+#EXTINF:-1,USA ABC HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36314.ts
+#EXTINF:-1,USA ABC NEWS HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36315.ts
+#EXTINF:-1,USA BRAVO HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36316.ts
+#EXTINF:-1,USA CBS
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36317.ts
+#EXTINF:-1,USA COMEDY CENTRAL HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36318.ts
+#EXTINF:-1,USA CW HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36319.ts
+#EXTINF:-1,USA ESPN HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36320.ts
+#EXTINF:-1,USA FOX NEWS HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36321.ts
+#EXTINF:-1,USA HISTORY HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36322.ts
+#EXTINF:-1,USA Investigation Discovery
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36323.ts
+#EXTINF:-1,USA NBC Golf
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36324.ts
+#EXTINF:-1,USA Network (US)
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36325.ts
+#EXTINF:-1,USA NICKELODEN HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36326.ts
+#EXTINF:-1,USA SYFY HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36327.ts
+#EXTINF:-1,USA TNT HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36328.ts
+#EXTINF:-1,USA: ANIMAL PLANET HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36351.ts
+#EXTINF:-1,USA: C-Span 1
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36352.ts
+#EXTINF:-1,USA: C-Span 2
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36353.ts
+#EXTINF:-1,USA: C-Span 3
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36354.ts
+#EXTINF:-1,USA: CINEMAX ACTION HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36355.ts
+#EXTINF:-1,USA: CNN HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36356.ts
+#EXTINF:-1,USA: EPL Extra Time 1 1080P
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36357.ts
+#EXTINF:-1,USA: EPL Extra Time 2 1080P
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36358.ts
+#EXTINF:-1,USA: EPL Extra Time 4 1080P
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36359.ts
+#EXTINF:-1,USA: EPL Extra Time 5 1080P
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36360.ts
+#EXTINF:-1,USA: ESPN 2
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36361.ts
+#EXTINF:-1,USA: FIGHT SPORT
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36395.ts
+#EXTINF:-1,USA: FOX 43
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36362.ts
+#EXTINF:-1,USA: Fox SPORTS 506 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36363.ts
+#EXTINF:-1,USA: FREE FORM HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36364.ts
+#EXTINF:-1,USA: MBL HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36365.ts
+#EXTINF:-1,USA: MLB Network
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36366.ts
+#EXTINF:-1,USA: MSNBC HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36367.ts
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 1 UHD (16/17SEASON)
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36368.ts
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 2 UHD (16/17SEASON)
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36369.ts
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 3 UHD (16/17SEASON)
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36370.ts
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 4 UHD (16/17SEASON)
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36371.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 1 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36372.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 10 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36373.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 11 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36374.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 12 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36375.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 2 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36376.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 3 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36377.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 4 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36378.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 5 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36379.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 6 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36380.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 7 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36381.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 8 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36382.ts
+#EXTINF:-1,USA: NFL Sunday Ticket 9 SD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36383.ts
+#EXTINF:-1,USA: NHL Network
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36384.ts
+#EXTINF:-1,USA: Offical Olympic Channel
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36385.ts
+#EXTINF:-1,USA: PAG HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36386.ts
+#EXTINF:-1,USA: SEC Network
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36387.ts
+#EXTINF:-1,USA: TBS HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36388.ts
+#EXTINF:-1,USA:CA | Sportsnet 360 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36389.ts
+#EXTINF:-1,USA:CA | TSN 1*
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36390.ts
+#EXTINF:-1,USA:CA | TSN 2
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36391.ts
+#EXTINF:-1,USA:CA | TSN 3*
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36392.ts
+#EXTINF:-1,USA:CA | TSN 4 HD
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36393.ts
+#EXTINF:-1,USA:CA | TSN 5*
+http://smartiptvspain.mine.nu:980/live/fernando/fernando/36394.ts
