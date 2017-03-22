@@ -1,623 +1,666 @@
-#EXTM3U
-#EXTINF:-1,UK : Animal Planet
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35955.ts
-#EXTINF:-1,UK : Chelsea TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35956.ts
-#EXTINF:-1,UK : CNN
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35957.ts
-#EXTINF:-1,UK : Comedy Central
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35958.ts
-#EXTINF:-1,UK : Dave
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35959.ts
-#EXTINF:-1,UK : Eden
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35960.ts
-#EXTINF:-1,UK : FOX
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35961.ts
-#EXTINF:-1,UK : Life time
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35962.ts
-#EXTINF:-1,UK : Living UK
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35963.ts
-#EXTINF:-1,UK : Manchester United TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35964.ts
-#EXTINF:-1,UK : More 4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35965.ts
-#EXTINF:-1,UK : Mototrs TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35966.ts
-#EXTINF:-1,UK : Nat Geo Graphic
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35967.ts
-#EXTINF:-1,UK : Sky Arts
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35968.ts
-#EXTINF:-1,UK : SKY Atlantic HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35969.ts
-#EXTINF:-1,UK : Sky Movies Drama
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35970.ts
-#EXTINF:-1,UK : SKY One
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35971.ts
-#EXTINF:-1,UK : Sky Sport 1 SD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35972.ts
-#EXTINF:-1,UK : Sky Sport F1 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35973.ts
-#EXTINF:-1,UK : Yesterday
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35974.ts
-#EXTINF:-1,UK | BBC World News
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35981.ts
-#EXTINF:-1,UK | boomerang
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35982.ts
-#EXTINF:-1,UK | Boxnation
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35985.ts
-#EXTINF:-1,UK | BT Sport 1 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35986.ts
-#EXTINF:-1,UK | BT Sport 2 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35987.ts
-#EXTINF:-1,UK | BT Sport ESPN
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35988.ts
-#EXTINF:-1,UK | BT Sport Europe HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35989.ts
-#EXTINF:-1,UK | CBS Action
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35990.ts
-#EXTINF:-1,UK | CBS Drama
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35991.ts
-#EXTINF:-1,UK | CBS reality
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35992.ts
-#EXTINF:-1,UK | DISCOVERY
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35993.ts
-#EXTINF:-1,UK | Discovery History
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35994.ts
-#EXTINF:-1,UK | Discovery Science
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35995.ts
-#EXTINF:-1,UK | Discovery Shed
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35996.ts
+#EXTINF:-1,UK | BBC 1 Scotland
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5317.ts
+#EXTINF:-1,UK | BBC 1 Irish FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4984.ts
+#EXTINF:-1,UK | BBC 1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/575.ts
+#EXTINF:-1,UK | BBC 1 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/576.ts
+#EXTINF:-1,UK | BBC 1 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3331.ts
+#EXTINF:-1,UK | BBC 2 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/577.ts
+#EXTINF:-1,UK | BBC 2 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/578.ts
+#EXTINF:-1,UK | BBC 2 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3330.ts
+#EXTINF:-1,UK | ITV SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/579.ts
+#EXTINF:-1,UK | ITV HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/580.ts
+#EXTINF:-1,UK | ITV 1 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3327.ts
+#EXTINF:-1,UK | Channel 4 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/581.ts
+#EXTINF:-1,UK | Channel 4 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/582.ts
+#EXTINF:-1,Uk | CHANNEL 4 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3325.ts
+#EXTINF:-1,UK | Channel 5 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/583.ts
+#EXTINF:-1,UK | Channel 5 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/584.ts
+#EXTINF:-1,UK | CHANNEL 5 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3324.ts
+#EXTINF:-1,UK | BBC Alba
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4355.ts
+#EXTINF:-1,UK | Sky 1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/585.ts
+#EXTINF:-1,UK | Sky 1 HD Local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2764.ts
+#EXTINF:-1,UK | Sky 2 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/586.ts
+#EXTINF:-1,UK | Watch SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/587.ts
+#EXTINF:-1,UK | Watch HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1414.ts
+#EXTINF:-1,UK | GOLD SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/588.ts
+#EXTINF:-1,UK | GOLD   +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4986.ts
+#EXTINF:-1,UK | Dave SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/589.ts
+#EXTINF:-1,UK | Dave HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1419.ts
+#EXTINF:-1,UK | Sky Living SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/590.ts
+#EXTINF:-1,UK | Sky Living HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1749.ts
+#EXTINF:-1,UK | SKY LIVING +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4993.ts
+#EXTINF:-1,UK | CBBC HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/591.ts
+#EXTINF:-1,UK | BBC Four SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/592.ts
+#EXTINF:-1,UK | BBC Four HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1726.ts
+#EXTINF:-1,UK | ITV 2 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/593.ts
+#EXTINF:-1,UK | ITV 2 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3326.ts
+#EXTINF:-1,UK | ITV 2 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1702.ts
+#EXTINF:-1,UK | ITV 3 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/594.ts
+#EXTINF:-1,UK | ITV 3 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1701.ts
+#EXTINF:-1,UK | ITV 3 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3991.ts
+#EXTINF:-1,UK | ITV 4 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/595.ts
+#EXTINF:-1,UK | ITV 4 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1700.ts
+#EXTINF:-1,UK | ITV 4 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3992.ts
+#EXTINF:-1,UK | ITV Be
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/911.ts
+#EXTINF:-1,UK | ITV Be HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1408.ts
+#EXTINF:-1,UK | ITV Encore HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1412.ts
+#EXTINF:-1,UK | Comedy Central SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/598.ts
+#EXTINF:-1,UK | Comedy Central HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1714.ts
+#EXTINF:-1,UK | Comedy Central Extra SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1751.ts
+#EXTINF:-1,UK | COMEDY CENTRAL EXTRA +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4995.ts
+#EXTINF:-1,UK | Syfy SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/599.ts
+#EXTINF:-1,UK | Syfy HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1744.ts
+#EXTINF:-1,UK | Hallmark HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1752.ts
+#EXTINF:-1,UK | Alibi SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/600.ts
+#EXTINF:-1,UK | Alibi HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1728.ts
+#EXTINF:-1,UK | E4 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/601.ts
+#EXTINF:-1,UK | E4 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1711.ts
+#EXTINF:-1,UK | E4 +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4999.ts
+#EXTINF:-1,UK | More4 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/602.ts
+#EXTINF:-1,UK | More4 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1471.ts
+#EXTINF:-1,UK | DMAX SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/603.ts
+#EXTINF:-1,UK | DMAX +1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1753.ts
+#EXTINF:-1,UK | CBS Reality SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/604.ts
+#EXTINF:-1,UK | CBS Action SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/605.ts
+#EXTINF:-1,UK | CBS Drama SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/606.ts
+#EXTINF:-1,UK | E! Entertainment SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/607.ts
+#EXTINF:-1,UK | E! Entertainment +1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1755.ts
+#EXTINF:-1,UK | Quest SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/608.ts
+#EXTINF:-1,UK | BLAZE
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5017.ts
+#EXTINF:-1,UK | MY5
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4989.ts
+#EXTINF:-1,UK | PBS FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3308.ts
+#EXTINF:-1,UK | W +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5016.ts
+#EXTINF:-1,UK | YOUR TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5004.ts
+#EXTINF:-1,UK | Dave Ja Vu SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1754.ts
+#EXTINF:-1,UK | Five USA SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/610.ts
+#EXTINF:-1,UK | True Entertainment SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/611.ts
+#EXTINF:-1,UK | BET BlackEntTV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1593.ts
+#EXTINF:-1,UK | 1Music SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2529.ts
+#EXTINF:-1,UK | Really SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/636.ts
+#EXTINF:-1,UK | Good Food SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/637.ts
+#EXTINF:-1,UK | Good Food HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1706.ts
+#EXTINF:-1,UK | Travel Channel SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/638.ts
+#EXTINF:-1,UK | Travel Channel +1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2037.ts
+#EXTINF:-1,UK | Fox
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/609.ts
+#EXTINF:-1,UK | Fox HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1417.ts
+#EXTINF:-1,UK | Lifetime HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1416.ts
+#EXTINF:-1,UK | Pick TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/739.ts
+#EXTINF:-1,UK | Sky Atlantic
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/738.ts
+#EXTINF:-1,UK | SKY ATLANTIC  +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4992.ts
+#EXTINF:-1,UK | Sky Arts SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/639.ts
+#EXTINF:-1,UK | Sky Arts HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1810.ts
+#EXTINF:-1,UK | SKY ARTS  +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4991.ts
+#EXTINF:-1,UK | Bravo SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/596.ts
+#EXTINF:-1,UK | Challenge SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/597.ts
+#EXTINF:-1,UK | Spike SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2894.ts
+#EXTINF:-1,UK | Sky Real Lives SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1758.ts
+#EXTINF:-1,UK | Food Network SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/641.ts
+#EXTINF:-1,UK | Food Network +1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2034.ts
+#EXTINF:-1,UK | Universal SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/749.ts
+#EXTINF:-1,UK | Universal HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3990.ts
+#EXTINF:-1,UK | UNIVERSAL +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5003.ts
+#EXTINF:-1,UK | 4Seven HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1403.ts
+#EXTINF:-1,UK | 5Star
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/966.ts
+#EXTINF:-1,UK | AMC
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/762.ts
+#EXTINF:-1,UK | Arirang TV HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4137.ts
+#EXTINF:-1,UK | Bike
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1592.ts
+#EXTINF:-1,UK | Drama SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2132.ts
+#EXTINF:-1,UK | RT FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3309.ts
+#EXTINF:-1,UK | UTV Ireland SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3956.ts
+#EXTINF:-1,UK | Vintage TV SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2122.ts
+#EXTINF:-1,UK | RTE 1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/741.ts
+#EXTINF:-1,UK | RTE 2
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/742.ts
+#EXTINF:-1,UK | STV FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3328.ts
+#EXTINF:-1,UK | TG4 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2127.ts
+#EXTINF:-1,UK | Tru TV +1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2038.ts
+#EXTINF:-1,UK | True Drama SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2125.ts
+#EXTINF:-1,UK | TLC
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/967.ts
+#EXTINF:-1,UK | TLC  +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5014.ts
+#EXTINF:-1,UK | TLC  +2
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5015.ts
+#EXTINF:-1,UK | TV3 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2123.ts
+#EXTINF:-1,UK | TV3 +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5002.ts
+#EXTINF:-1,UK | UTV HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1404.ts
+#EXTINF:-1,UK | UTV FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3307.ts
+#EXTINF:-1,UK | Sky Cinema Premiere SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/969.ts
+#EXTINF:-1,UK | Sky Cinema Premiere HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/968.ts
+#EXTINF:-1,UK | Sky Cinema Premiere +1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2036.ts
+#EXTINF:-1,UK | Sky Cinema Comedy SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/981.ts
+#EXTINF:-1,UK | Sky Cinema Comedy HD Local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2762.ts
+#EXTINF:-1,UK | Sky Cinema Action & Adventure SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/979.ts
+#EXTINF:-1,UK | Sky Cinema Action HD Local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2861.ts
+#EXTINF:-1,UK | Sky Cinema Family SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3989.ts
+#EXTINF:-1,UK | Sky Family HD Local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2763.ts
+#EXTINF:-1,UK | Sky Cinema Drama & Romance SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/985.ts
+#EXTINF:-1,UK | Sky Cinema Drama & Romance HD**
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/984.ts
+#EXTINF:-1,UK | Sky Cinema Scifi & Horror SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/987.ts
+#EXTINF:-1,UK | Sky Cinema Sc-Fi & Horror HD local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2862.ts
+#EXTINF:-1,UK | Sky Cinema Select SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/989.ts
+#EXTINF:-1,UK | Sky Cinema Select HD**
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/988.ts
+#EXTINF:-1,UK | Sky Cinema Crime & Thriller SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/983.ts
+#EXTINF:-1,UK | Sky Cinema Crime & Thriller HD Local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2865.ts
+#EXTINF:-1,UK | Sky Cinema Disney SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/975.ts
+#EXTINF:-1,UK | Sky Cinema Disney HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/974.ts
+#EXTINF:-1,UK | Sky Cinema Hits SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/971.ts
+#EXTINF:-1,UK | Sky Cinema Hits HD Local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2863.ts
+#EXTINF:-1,UK | Sky CInema Oscars HD local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2864.ts
+#EXTINF:-1,UK | Film4 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/651.ts
+#EXTINF:-1,UK | Film 4 HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1811.ts
+#EXTINF:-1,UK | TCM SD *
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2126.ts
+#EXTINF:-1,UK | TCM SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/652.ts
+#EXTINF:-1,UK | TCM HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1415.ts
+#EXTINF:-1,UK | TCM +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5000.ts
+#EXTINF:-1,UK | True Movies 1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/654.ts
+#EXTINF:-1,UK | True Movies 2 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/655.ts
+#EXTINF:-1,UK | TRUE CRIME
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5001.ts
+#EXTINF:-1,UK | Horror Channel SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/653.ts
+#EXTINF:-1,UK | Horror Channel +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5008.ts
+#EXTINF:-1,UK | Movies 4 Men SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/656.ts
+#EXTINF:-1,UK | MOVIES4MEN +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5010.ts
+#EXTINF:-1,UK | Movies24 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/657.ts
+#EXTINF:-1,UK | Movies 24 +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4983.ts
+#EXTINF:-1,UK | MTV Live HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1466.ts
+#EXTINF:-1,UK | MTV SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/658.ts
+#EXTINF:-1,UK | MTV HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1468.ts
+#EXTINF:-1,UK | MTV  +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5011.ts
+#EXTINF:-1,UK | MTV MUSIC
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4988.ts
+#EXTINF:-1,UK | MTV Base SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/659.ts
+#EXTINF:-1,UK | MTV Hits SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/660.ts
+#EXTINF:-1,UK | MTV Dance SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/661.ts
+#EXTINF:-1,UK | VH1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/663.ts
+#EXTINF:-1,UK | MTV Classic SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/664.ts
+#EXTINF:-1,UK | Viva SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/665.ts
+#EXTINF:-1,UK | 4Music SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/667.ts
+#EXTINF:-1,UK | Kiss SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/668.ts
+#EXTINF:-1,UK | Kiss TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1070.ts
+#EXTINF:-1,UK | 1Music HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2531.ts
+#EXTINF:-1,UK | Capital TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/752.ts
+#EXTINF:-1,UK | Heart FM TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1068.ts
+#EXTINF:-1,UK | M6 Music
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1065.ts
+#EXTINF:-1,UK | Mad Music
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1067.ts
+#EXTINF:-1,UK | Viceland SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2098.ts
+#EXTINF:-1,UK | Virgin Radio TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1069.ts
+#EXTINF:-1,UK | Chart Show TV SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/669.ts
+#EXTINF:-1,UK | The Vault SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1813.ts
+#EXTINF:-1,UK | Flava SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/670.ts
+#EXTINF:-1,UK | Kerrang TV SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/671.ts
+#EXTINF:-1,UK | Scuzz SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/672.ts
+#EXTINF:-1,UK | Sky Sports 1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/519.ts
+#EXTINF:-1,UK | Sky Sports 1 HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/520.ts
+#EXTINF:-1,UK | Sky Sports 1 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3319.ts
+#EXTINF:-1,UK | Sky Sports 2 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/522.ts
+#EXTINF:-1,UK | Sky Sports 2 HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/523.ts
+#EXTINF:-1,UK | Sky Sports 2 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3318.ts
+#EXTINF:-1,UK | Sky Sports 3 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/525.ts
+#EXTINF:-1,UK | Sky Sports 3 HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/526.ts
+#EXTINF:-1,UK | Sky Sports 3 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3317.ts
+#EXTINF:-1,UK | Sky Sports 4 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/528.ts
+#EXTINF:-1,UK | Sky Sports 4 HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/529.ts
+#EXTINF:-1,UK | Sky Sports 4 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3316.ts
+#EXTINF:-1,UK | Sky Sports 5 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/531.ts
+#EXTINF:-1,UK | Sky Sports 5 HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/532.ts
+#EXTINF:-1,UK | SKY SPORTS 5 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3315.ts
+#EXTINF:-1,UK | Sky Sports 1 IRE
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4359.ts
+#EXTINF:-1,UK | Sky Sports 2 IRE
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4358.ts
+#EXTINF:-1,UK | Sky Sports News SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/537.ts
+#EXTINF:-1,UK | Sky Sports News HD *
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/538.ts
+#EXTINF:-1,UK | Sky Sports News HD Local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2765.ts
+#EXTINF:-1,UK | Sky Sports F1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/534.ts
+#EXTINF:-1,UK | Sky Sports F1 HD Local
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2717.ts
+#EXTINF:-1,UK | SKY SPORTS F1 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3314.ts
+#EXTINF:-1,UK | Sky Sports Mix SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/912.ts
+#EXTINF:-1,UK | Sky Sports Mix HD**
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1413.ts
+#EXTINF:-1,UK | BT Sport 1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/539.ts
+#EXTINF:-1,UK | BT Sport 1 HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/540.ts
+#EXTINF:-1,UK | BT Sport 1 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3322.ts
+#EXTINF:-1,UK | BT Sport 2 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/541.ts
+#EXTINF:-1,UK | BT Sport 2 HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/542.ts
+#EXTINF:-1,UK | BT Sport 2 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3321.ts
+#EXTINF:-1,UK | BT Sport 3 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/543.ts
+#EXTINF:-1,UK | BT Sport 3 HD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/544.ts
+#EXTINF:-1,UK | BT Sport 3 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3320.ts
+#EXTINF:-1,UK | BT Sport Extra 1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1073.ts
+#EXTINF:-1,UK | BT Sport Extra 2
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1074.ts
+#EXTINF:-1,UK | BT Sport Extra 3
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1075.ts
+#EXTINF:-1,UK | BT Sport Extra 4
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1076.ts
+#EXTINF:-1,UK | Premier Sports SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2129.ts
+#EXTINF:-1,UK | Premier Sports HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1010.ts
+#EXTINF:-1,UK | PREMIER SPORTS FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3313.ts
+#EXTINF:-1,UK | Eir Sports 1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1119.ts
+#EXTINF:-1,UK | Eir Sports 2
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1120.ts
+#EXTINF:-1,UK | Celtic TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1279.ts
+#EXTINF:-1,UK | Celtic TV (Match Day Only)
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/956.ts
+#EXTINF:-1,UK | Hearts TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4356.ts
+#EXTINF:-1,UK | Rangers TV (Matchday Only)
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/957.ts
+#EXTINF:-1,UK | MUTV SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/547.ts
+#EXTINF:-1,UK | MUTV HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1461.ts
+#EXTINF:-1,UK | MUTV FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3311.ts
+#EXTINF:-1,UK | Eurosport 1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/550.ts
+#EXTINF:-1,UK | Eurosport 2 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/552.ts
+#EXTINF:-1,UK | Box Nation SD **
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/673.ts
+#EXTINF:-1,UK | Motors TV SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/554.ts
+#EXTINF:-1,UK | At The Races SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/555.ts
+#EXTINF:-1,UK | BT Sport Espn SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/545.ts
+#EXTINF:-1,UK | BT Sports Espn HD**
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4555.ts
+#EXTINF:-1,UK | RedBull TV HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2131.ts
+#EXTINF:-1,UK | William Hill TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1071.ts
+#EXTINF:-1,UK | EIR SPORTS 2 FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3312.ts
+#EXTINF:-1,UK | Chelsea TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/548.ts
+#EXTINF:-1,UK | Chelsea TV Test
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3414.ts
+#EXTINF:-1,UK | Racing UK
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/558.ts
+#EXTINF:-1,UK | RACING UK FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3323.ts
+#EXTINF:-1,UK | LFCTV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/549.ts
+#EXTINF:-1,UK | LFC TV HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1421.ts
+#EXTINF:-1,UK | Sky News SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/612.ts
+#EXTINF:-1,UK | Sky News HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1411.ts
+#EXTINF:-1,UK | Euronews
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/617.ts
+#EXTINF:-1,RT News (Direct)
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/750.ts
+#EXTINF:-1,UK | Bloomberg
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/613.ts
+#EXTINF:-1,UK | Al Jazeera English
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/619.ts
+#EXTINF:-1,UK | CNBC
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/615.ts
+#EXTINF:-1,UK | CNN HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/616.ts
+#EXTINF:-1,UK | RTE News Now
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/740.ts
+#EXTINF:-1,UK | BBC News
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/614.ts
+#EXTINF:-1,UK | Fox News
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/618.ts
+#EXTINF:-1,UK | CNN FHD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3310.ts
+#EXTINF:-1,France 24 (Direct)
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/751.ts
+#EXTINF:-1,PressTV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3420.ts
+#EXTINF:-1,UK | Discovery Channel
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/559.ts
+#EXTINF:-1,UK | Discovery +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5006.ts
+#EXTINF:-1,UK | Discovery HD**
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1423.ts
 #EXTINF:-1,UK | Discovery Turbo
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35997.ts
-#EXTINF:-1,UK | Disney
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35998.ts
-#EXTINF:-1,UK | Disney Junior
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35999.ts
-#EXTINF:-1,UK | Disney XD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36000.ts
-#EXTINF:-1,UK | DMax
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36001.ts
-#EXTINF:-1,UK | Drama
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36002.ts
-#EXTINF:-1,UK | E!
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36003.ts
-#EXTINF:-1,UK | E4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36004.ts
-#EXTINF:-1,UK | Film 4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36005.ts
-#EXTINF:-1,UK | gold
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36006.ts
-#EXTINF:-1,UK | Good Food
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36007.ts
-#EXTINF:-1,UK | Home & Health
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36008.ts
-#EXTINF:-1,UK | ID
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36009.ts
-#EXTINF:-1,UK | Irish Tv
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36010.ts
-#EXTINF:-1,UK | ITV be
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36011.ts
-#EXTINF:-1,UK | London Live
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36012.ts
-#EXTINF:-1,UK | Nick Jr
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36013.ts
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/560.ts
+#EXTINF:-1,UK | Discovery Science
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/561.ts
+#EXTINF:-1,UK | Discovery Science   1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/562.ts
+#EXTINF:-1,UK | Discovery History
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1079.ts
+#EXTINF:-1,UK | Discovery History + 1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1080.ts
+#EXTINF:-1,UK | Discovery Investigation SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/564.ts
+#EXTINF:-1,UK | INVESTIGATION DISCOVERY +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5009.ts
+#EXTINF:-1,UK | Discovery Real Time SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/633.ts
+#EXTINF:-1,UK | Discovery Home & Health SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1809.ts
+#EXTINF:-1,UK | Discovery Shed
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/563.ts
+#EXTINF:-1,UK | Animal Planet
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/573.ts
+#EXTINF:-1,UK | Animal Planet HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1424.ts
+#EXTINF:-1,UK | Animal Planet +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5005.ts
+#EXTINF:-1,UK | National Geographic SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/565.ts
+#EXTINF:-1,UK | Nat Geo HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1420.ts
+#EXTINF:-1,UK | Nat Geo 1Hr SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2032.ts
+#EXTINF:-1,UK | History Channel
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/567.ts
+#EXTINF:-1,UK | History Channel   1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/568.ts
+#EXTINF:-1,UK | History 2
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1422.ts
+#EXTINF:-1,UK | Eden
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/570.ts
+#EXTINF:-1,UK | Eden HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1418.ts
+#EXTINF:-1,UK | Eden  +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/571.ts
+#EXTINF:-1,UK | Nat Geo Wild
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/566.ts
+#EXTINF:-1,UK | Crime & Investigation SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2134.ts
+#EXTINF:-1,UK | CRIME & INVESTIGATION +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4996.ts
+#EXTINF:-1,UK | Home SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1759.ts
+#EXTINF:-1,UK | Home + 1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2033.ts
+#EXTINF:-1,UK | CREATE AND CRAFT SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1803.ts
+#EXTINF:-1,UK | H2
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/569.ts
+#EXTINF:-1,UK | Crime (CI)
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/574.ts
+#EXTINF:-1,UK | Cartoon Network
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/620.ts
+#EXTINF:-1,UK | Cartoon Network HD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1410.ts
+#EXTINF:-1,UK | Boomerang
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/621.ts
+#EXTINF:-1,UK | Nickelodeon
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/622.ts
+#EXTINF:-1,UK | Nickelodeon  +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5012.ts
 #EXTINF:-1,UK | Nicktoons
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36014.ts
-#EXTINF:-1,UK | Sky Movie Sci-Fi
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36015.ts
-#EXTINF:-1,UK | Sky Movies Action
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36016.ts
-#EXTINF:-1,UK | Sky Movies Comedy
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36017.ts
-#EXTINF:-1,UK | Sky Movies Disney
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36018.ts
-#EXTINF:-1,UK | Sky Movies Family
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36019.ts
-#EXTINF:-1,UK | Sky Movies Greats
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36020.ts
-#EXTINF:-1,UK | Sky Movies Premiere
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36021.ts
-#EXTINF:-1,UK | Sky Movies Showcase
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36022.ts
-#EXTINF:-1,UK | Sky Movies Thriller
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36023.ts
-#EXTINF:-1,UK | Sky Sport 2 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36024.ts
-#EXTINF:-1,UK | Sky Sport 3 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36025.ts
-#EXTINF:-1,UK | Sky Sport 4 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36026.ts
-#EXTINF:-1,UK | Sky Sport 5 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36027.ts
-#EXTINF:-1,UK | Sky Sport News
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36028.ts
-#EXTINF:-1,UK | Sky Sports HD 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36029.ts
-#EXTINF:-1,UK | Syfy
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36030.ts
-#EXTINF:-1,UK | Tiny POP
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36031.ts
-#EXTINF:-1,UK | UTV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36032.ts
-#EXTINF:-1,UK Baby TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35975.ts
-#EXTINF:-1,UK BBC ONE HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35976.ts
-#EXTINF:-1,UK BBC Three HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35977.ts
-#EXTINF:-1,UK CBBC
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35978.ts
-#EXTINF:-1,UK Pick
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35979.ts
-#EXTINF:-1,UK Premier Sports HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35980.ts
-#EXTINF:-1,UK: 3e
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36103.ts
-#EXTINF:-1,UK: 4 Music
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36104.ts
-#EXTINF:-1,UK: 4 Seven
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36105.ts
-#EXTINF:-1,UK: 5 Stars
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36106.ts
-#EXTINF:-1,UK: 5 USA
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36107.ts
-#EXTINF:-1,UK: 5Star
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36033.ts
-#EXTINF:-1,UK: Al Jazeera English
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36108.ts
-#EXTINF:-1,UK: Alibi
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36109.ts
-#EXTINF:-1,UK: AMC
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36110.ts
-#EXTINF:-1,UK: Animal Planet
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36111.ts
-#EXTINF:-1,UK: Animal Planet   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36034.ts
-#EXTINF:-1,UK: At The Races
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36112.ts
-#EXTINF:-1,UK: Baby TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36113.ts
-#EXTINF:-1,UK: BBC 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36114.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36115.ts
-#EXTINF:-1,UK: BBC 3/CBBC
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36116.ts
-#EXTINF:-1,UK: BBC 4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36117.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36118.ts
-#EXTINF:-1,UK: BBC News
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36119.ts
-#EXTINF:-1,UK: BBC TWO HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36035.ts
-#EXTINF:-1,UK: BBC World News
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36120.ts
-#EXTINF:-1,UK: BBC4/CBEEBIES
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36036.ts
-#EXTINF:-1,UK: Bloomberg
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36121.ts
-#EXTINF:-1,UK: Boomerang
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36122.ts
-#EXTINF:-1,UK: Box Nation
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36123.ts
-#EXTINF:-1,UK: BT Sport 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36124.ts
-#EXTINF:-1,UK: BT Sport 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36125.ts
-#EXTINF:-1,UK: BT Sport 3
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36126.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35984.ts
-#EXTINF:-1,UK: BT Sport 3 SD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36037.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36127.ts
-#EXTINF:-1,UK: BT Sport Extra 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36038.ts
-#EXTINF:-1,UK: BT Sport Extra 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36039.ts
-#EXTINF:-1,UK: BT Sport Extra 3
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36040.ts
-#EXTINF:-1,UK: BT Sport Extra 4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36041.ts
-#EXTINF:-1,UK: BT Sport Extra 5
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36042.ts
-#EXTINF:-1,UK: BT Sport Mosaic
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36043.ts
-#EXTINF:-1,UK: BT Sport Mosaic 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36044.ts
-#EXTINF:-1,UK: BT Sports 1 SD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36045.ts
-#EXTINF:-1,UK: BT Sports 2 SD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36046.ts
-#EXTINF:-1,UK: C ITV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36128.ts
-#EXTINF:-1,UK: Capital TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36129.ts
-#EXTINF:-1,UK: Cartoon Network
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36130.ts
-#EXTINF:-1,UK: Cartoonito
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36131.ts
-#EXTINF:-1,UK: Cbeebies
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36132.ts
-#EXTINF:-1,UK: CBS Action
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36133.ts
-#EXTINF:-1,UK: CBS Drama
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36134.ts
-#EXTINF:-1,UK: CBS Reality
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36135.ts
-#EXTINF:-1,UK: Challenge
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36136.ts
-#EXTINF:-1,UK: Challenge   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36047.ts
-#EXTINF:-1,UK: Channel 4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36137.ts
-#EXTINF:-1,UK: Channel 5
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36138.ts
-#EXTINF:-1,UK: Chelsea FC
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36048.ts
-#EXTINF:-1,UK: Chelsea TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36139.ts
-#EXTINF:-1,UK: CNN International Europe
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36140.ts
-#EXTINF:-1,UK: Comedy Central
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36141.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36142.ts
-#EXTINF:-1,UK: Comedy Central Extra   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36049.ts
-#EXTINF:-1,UK: Crime & Investigation
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36143.ts
-#EXTINF:-1,UK: Crime & Investigiation
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/35983.ts
-#EXTINF:-1,UK: Crime investigation  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36050.ts
-#EXTINF:-1,UK: Dave
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36144.ts
-#EXTINF:-1,UK: Discovery   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36051.ts
-#EXTINF:-1,UK: Discovery Channel
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36145.ts
-#EXTINF:-1,UK: Discovery History
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36146.ts
-#EXTINF:-1,UK: Discovery History  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36052.ts
-#EXTINF:-1,UK: Discovery Science
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36147.ts
-#EXTINF:-1,UK: Discovery Science  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36053.ts
-#EXTINF:-1,UK: Discovery Shed
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36148.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36149.ts
-#EXTINF:-1,UK: Disney Channel
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36150.ts
-#EXTINF:-1,UK: Disney Channel   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36054.ts
-#EXTINF:-1,UK: Disney Junior
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36151.ts
-#EXTINF:-1,UK: Disney XD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36152.ts
-#EXTINF:-1,UK: Disney XD   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36055.ts
-#EXTINF:-1,UK: Dmax
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36153.ts
-#EXTINF:-1,UK: Drama
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36154.ts
-#EXTINF:-1,UK: DW
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36155.ts
-#EXTINF:-1,UK: E!
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36156.ts
-#EXTINF:-1,UK: E!    1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36056.ts
-#EXTINF:-1,UK: E4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36157.ts
-#EXTINF:-1,UK: Eden
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36158.ts
-#EXTINF:-1,UK: Eir Sport 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36159.ts
-#EXTINF:-1,UK: Eir Sports1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36057.ts
-#EXTINF:-1,UK: Eir Sports2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36058.ts
-#EXTINF:-1,UK: EirSports 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36160.ts
-#EXTINF:-1,UK: EirSports 2 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36161.ts
-#EXTINF:-1,UK: Electro Sound
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36162.ts
-#EXTINF:-1,UK: Euronews
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36163.ts
-#EXTINF:-1,UK: Eurosport 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36164.ts
-#EXTINF:-1,UK: Eurosport 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36165.ts
-#EXTINF:-1,UK: Film 4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36166.ts
-#EXTINF:-1,UK: Flava
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36167.ts
-#EXTINF:-1,UK: Food Network
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36168.ts
-#EXTINF:-1,UK: Food Network  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36059.ts
-#EXTINF:-1,UK: Fox
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36169.ts
-#EXTINF:-1,UK: Fox News
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36170.ts
-#EXTINF:-1,UK: France 24
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36171.ts
-#EXTINF:-1,UK: Gold
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36172.ts
-#EXTINF:-1,UK: Good Food
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36173.ts
-#EXTINF:-1,UK: Heart TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36174.ts
-#EXTINF:-1,UK: History
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36175.ts
-#EXTINF:-1,UK: History  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36060.ts
-#EXTINF:-1,UK: History 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36176.ts
-#EXTINF:-1,UK: Home
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36177.ts
-#EXTINF:-1,UK: Home  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36179.ts
-#EXTINF:-1,UK: Home & Health
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36178.ts
-#EXTINF:-1,UK: Home&Health   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36061.ts
-#EXTINF:-1,UK: Horror Channel
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36180.ts
-#EXTINF:-1,UK: Horror Channel   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36062.ts
-#EXTINF:-1,UK: Horse & Country
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36181.ts
-#EXTINF:-1,UK: ID
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36182.ts
-#EXTINF:-1,UK: ID   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36063.ts
-#EXTINF:-1,UK: Irish TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36183.ts
-#EXTINF:-1,UK: ITV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36185.ts
-#EXTINF:-1,UK: ITV  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36184.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36186.ts
-#EXTINF:-1,UK: ITV 3 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36187.ts
-#EXTINF:-1,UK: ITV 4 HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36188.ts
-#EXTINF:-1,UK: ITV Be
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36189.ts
-#EXTINF:-1,UK: ITV Encore
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36190.ts
-#EXTINF:-1,UK: ITV1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36064.ts
-#EXTINF:-1,UK: ITV2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36065.ts
-#EXTINF:-1,UK: ITV3
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36066.ts
-#EXTINF:-1,UK: ITV4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36067.ts
-#EXTINF:-1,UK: Kerrang
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36191.ts
-#EXTINF:-1,UK: Kiss TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36192.ts
-#EXTINF:-1,UK: Kix
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36193.ts
-#EXTINF:-1,UK: LFC
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36194.ts
-#EXTINF:-1,UK: LFC TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36068.ts
-#EXTINF:-1,UK: London Live
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36195.ts
-#EXTINF:-1,UK: More 4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36196.ts
-#EXTINF:-1,UK: Motors TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36197.ts
-#EXTINF:-1,UK: Movies4men
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36198.ts
-#EXTINF:-1,UK: MTV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36199.ts
-#EXTINF:-1,UK: MTV   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36069.ts
-#EXTINF:-1,UK: MTV Base
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36200.ts
-#EXTINF:-1,UK: MTV Classic
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36201.ts
-#EXTINF:-1,UK: MTV Dance
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36202.ts
-#EXTINF:-1,UK: MTV Hits
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36203.ts
-#EXTINF:-1,UK: MTV Music
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36204.ts
-#EXTINF:-1,UK: MTV Rocks
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36205.ts
-#EXTINF:-1,UK: MUTV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36206.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36207.ts
-#EXTINF:-1,UK: National Geographic
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36208.ts
-#EXTINF:-1,UK: Nick Jnr Too
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36070.ts
-#EXTINF:-1,UK: Nick Jr
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36209.ts
-#EXTINF:-1,UK: Nick Jr  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36071.ts
-#EXTINF:-1,UK: Nick Jr Too
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36210.ts
-#EXTINF:-1,UK: Nickelodeon
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36211.ts
-#EXTINF:-1,UK: Nickelodeon   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36072.ts
-#EXTINF:-1,UK: Pick
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36212.ts
-#EXTINF:-1,UK: PREMIERE SPORT HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36073.ts
-#EXTINF:-1,UK: Press TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36213.ts
-#EXTINF:-1,UK: Quest
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36214.ts
-#EXTINF:-1,UK: Racing UK
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36215.ts
-#EXTINF:-1,UK: Real Lives
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36216.ts
-#EXTINF:-1,UK: Really
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36217.ts
-#EXTINF:-1,UK: RT HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36218.ts
-#EXTINF:-1,UK: RTE 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36219.ts
-#EXTINF:-1,UK: RTE 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36220.ts
-#EXTINF:-1,UK: RTE Jr
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36221.ts
-#EXTINF:-1,UK: RTE News
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36222.ts
-#EXTINF:-1,UK: RTE One
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36074.ts
-#EXTINF:-1,UK: RTE Two
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36075.ts
-#EXTINF:-1,UK: SATENTA SPORT
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36076.ts
-#EXTINF:-1,UK: Setanta
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36223.ts
-#EXTINF:-1,UK: Setanta Sports 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36077.ts
-#EXTINF:-1,UK: Sky 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36224.ts
-#EXTINF:-1,UK: Sky 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36225.ts
-#EXTINF:-1,UK: Sky Arts
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36226.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36227.ts
-#EXTINF:-1,UK: Sky Atlantic  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36078.ts
-#EXTINF:-1,UK: Sky Cinema Premiere  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36079.ts
-#EXTINF:-1,UK: Sky Living
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36228.ts
-#EXTINF:-1,UK: Sky Living  1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36080.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36229.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36230.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36231.ts
-#EXTINF:-1,UK: Sky Movies Drama&Romance
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36232.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36233.ts
-#EXTINF:-1,UK: Sky Movies Greats
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36234.ts
-#EXTINF:-1,UK: Sky Movies Premiere HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36235.ts
-#EXTINF:-1,UK: Sky Movies ScFi/Horror HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36236.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36237.ts
-#EXTINF:-1,UK: Sky Movies Showcase HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36238.ts
-#EXTINF:-1,UK: Sky Movies Thriller HD
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36239.ts
-#EXTINF:-1,UK: Sky News
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36240.ts
-#EXTINF:-1,UK: SKY SPORTS 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36081.ts
-#EXTINF:-1,UK: SKY SPORTS 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36082.ts
-#EXTINF:-1,UK: SKY SPORTS 3
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36083.ts
-#EXTINF:-1,UK: SKY SPORTS 4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36084.ts
-#EXTINF:-1,UK: SKY SPORTS 5
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36085.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36241.ts
-#EXTINF:-1,UK: Sky Sports Mix
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36242.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36243.ts
-#EXTINF:-1,UK: Sky Two
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36086.ts
-#EXTINF:-1,UK: SkySpBoxOff (PPV Events Only)
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36087.ts
-#EXTINF:-1,UK: Sony Chnl   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36088.ts
-#EXTINF:-1,UK: Sony Movie
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36244.ts
-#EXTINF:-1,UK: Sony TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36245.ts
-#EXTINF:-1,UK: Spike
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36246.ts
-#EXTINF:-1,UK: SyFy
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36247.ts
-#EXTINF:-1,UK: Syfy   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36089.ts
-#EXTINF:-1,UK: TCM
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36248.ts
-#EXTINF:-1,UK: TG4
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36249.ts
-#EXTINF:-1,UK: The Vault
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36250.ts
-#EXTINF:-1,UK: Tiny Pop
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36251.ts
-#EXTINF:-1,UK: Tiny Pop   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36090.ts
-#EXTINF:-1,UK: TLC
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36252.ts
-#EXTINF:-1,UK: TLC   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36091.ts
-#EXTINF:-1,UK: TLC   2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36092.ts
-#EXTINF:-1,UK: Travel Channel
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36253.ts
-#EXTINF:-1,UK: True Drama
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36254.ts
-#EXTINF:-1,UK: True Entertainment
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36255.ts
-#EXTINF:-1,UK: True Movies
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36256.ts
-#EXTINF:-1,UK: True Movies 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36257.ts
-#EXTINF:-1,UK: TruTV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36258.ts
-#EXTINF:-1,UK: Universal   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36093.ts
-#EXTINF:-1,UK: UTV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36259.ts
-#EXTINF:-1,UK: VH1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36260.ts
-#EXTINF:-1,UK: VH1 Classic
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36261.ts
-#EXTINF:-1,UK: Vintage TV
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36262.ts
-#EXTINF:-1,UK: Viva
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36263.ts
-#EXTINF:-1,UK: W   1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36094.ts
-#EXTINF:-1,UK: Watch
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36264.ts
-#EXTINF:-1,UK: Yesterday
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36265.ts
-#EXTINF:-1,UK:4Seven
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36095.ts
-#EXTINF:-1,UK:BBC News
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36096.ts
-#EXTINF:-1,UK:HBO 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36097.ts
-#EXTINF:-1,UK:HBO 2
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36098.ts
-#EXTINF:-1,UK:HBO 3
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36099.ts
-#EXTINF:-1,UK:Sky Movies Modern
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36100.ts
-#EXTINF:-1,UK:TLC-IRELAND
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36101.ts
-#EXTINF:-1,UK:True Movies 1
-http://smartiptvspain.mine.nu:980/live/fernando/fernando/36102.ts
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/623.ts
+#EXTINF:-1,UK | Disney XD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/624.ts
+#EXTINF:-1,UK | DISNEY XD +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4998.ts
+#EXTINF:-1,UK | Disney Channel
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/625.ts
+#EXTINF:-1,UK | DISNEY CHANNEL +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4997.ts
+#EXTINF:-1,UK | Disney Junior SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2133.ts
+#EXTINF:-1,UK | CBeebies
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/627.ts
+#EXTINF:-1,UK | RTE Junior
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/743.ts
+#EXTINF:-1,UK | Nick Jr
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/628.ts
+#EXTINF:-1,UK | Nick Jnr +1 SD
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2035.ts
+#EXTINF:-1,UK | Nick Jnr Too
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1805.ts
+#EXTINF:-1,UK | Tiny Pop
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/629.ts
+#EXTINF:-1,UK | Tiny Pop  +1
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5013.ts
+#EXTINF:-1,UK | Cartoonito
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/630.ts
+#EXTINF:-1,UK | Baby TV
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/632.ts
+#EXTINF:-1,UK | Sky Sports Box Office
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/781.ts
+#EXTINF:-1,******** UK 24/7 Channels ********
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1838.ts
+#EXTINF:-1,24-7 | Peppa Pig
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5539.ts
+#EXTINF:-1,24-7 l American Dad
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3284.ts
+#EXTINF:-1,24-7 l Family Guy
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3238.ts
+#EXTINF:-1,24-7 l Only Fools And Horses
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3202.ts
+#EXTINF:-1,24-7 l Paw Patrol
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3175.ts
+#EXTINF:-1,24-7 l Simpsons
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3226.ts
+#EXTINF:-1,24-7 l The Grand Tour
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3245.ts
+#EXTINF:-1,24-7 Porridge
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3496.ts
+#EXTINF:-1,24-7 South Park
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3428.ts
+#EXTINF:-1,24-7 | Shaun The Sheep
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5038.ts
+#EXTINF:-1,24-7 | The Three Stooges
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5041.ts
+#EXTINF:-1,24-7 | Timmy Time
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5039.ts
+#EXTINF:-1,24-7 | Tom & Jerry
+http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5037.ts
