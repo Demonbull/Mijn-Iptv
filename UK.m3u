@@ -1,291 +1,133 @@
 #EXTM3U
-#EXTINF:-1,BBC 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4402.ts
-#EXTINF:-1,BBC 2 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4339.ts
-#EXTINF:-1,BBC 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4401.ts
-#EXTINF:-1,BBC 3 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4400.ts
-#EXTINF:-1,BBC 4 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4399.ts
-#EXTINF:-1,BBC News (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4396.ts
-#EXTINF:-1,Sky Sports 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13461.ts
-#EXTINF:-1,Sky Sports 3 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13462.ts
-#EXTINF:-1,Sky Sports 4 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13463.ts
-#EXTINF:-1,Sky Sports 5 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13464.ts
-#EXTINF:-1,Sky Sports Mix (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13493.ts
-#EXTINF:-1,Motorsport TV (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13482.ts
-#EXTINF:-1,BT Sport 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13473.ts
-#EXTINF:-1,BT Sport Extra 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13474.ts
-#EXTINF:-1,BT Sport Extra 3 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13475.ts
-#EXTINF:-1,BT Sport Extra 4 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13476.ts
-#EXTINF:-1,BT Sport Extra 5 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13477.ts
-#EXTINF:-1,BT Sport Extra 6 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13478.ts
-#EXTINF:-1,BT Sport//ESPN (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13480.ts
-#EXTINF:-1,BT Sport Mosaic 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13479.ts
-#EXTINF:-1,eir Sport 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13425.ts
-#EXTINF:-1,eir Sport 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13426.ts
-#EXTINF:-1,Eurosport 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13427.ts
-#EXTINF:-1,Eurosport 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13428.ts
-#EXTINF:-1,Racing UK (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13441.ts
-#EXTINF:-1,Chelsea TV (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13421.ts
-#EXTINF:-1,Sky Sports F1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13465.ts
-#EXTINF:-1,Studio 66 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13486.ts
-#EXTINF:-1,Sky Sports 1 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4332.ts
-#EXTINF:-1,Sky Sports 2 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4331.ts
-#EXTINF:-1,Sky Sports 3 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4350.ts
-#EXTINF:-1,Sky Sports 4 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4349.ts
-#EXTINF:-1,Sky Sports 5 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4271.ts
-#EXTINF:-1,BT Sport 1 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4334.ts
-#EXTINF:-1,BT Sport 2 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4333.ts
-#EXTINF:-1,BT SPORTS EUROPE HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4397.ts
-#EXTINF:-1,BT Sport Europe HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4335.ts
-#EXTINF:-1,Food Network (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4977.ts
-#EXTINF:-1,Travel Channel (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4978.ts
-#EXTINF:-1,BBC Ent Watch (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4398.ts
-#EXTINF:-1,Sky Cartoon Network (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4348.ts
-#EXTINF:-1,DISNEY XD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4385.ts
-#EXTINF:-1,Home (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5138.ts
-#EXTINF:-1,SHOWCASE (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4353.ts
-#EXTINF:-1,Setanta Ireland (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4343.ts
-#EXTINF:-1,TLC (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4355.ts
-#EXTINF:-1,QUEST (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4358.ts
-#EXTINF:-1,MTV ROCKS (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4361.ts
-#EXTINF:-1,MTV HITS (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4362.ts
-#EXTINF:-1,MTV DANCE (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4363.ts
-#EXTINF:-1,MTV CLASSIC (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4364.ts
-#EXTINF:-1,MTV BASE (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4365.ts
-#EXTINF:-1,Vh1 Clasic (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4391.ts
-#EXTINF:-1,ITV 1 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4379.ts
-#EXTINF:-1,ITV 2 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4378.ts
-#EXTINF:-1,ITV 3 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4377.ts
-#EXTINF:-1,ITV 4 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4376.ts
-#EXTINF:-1,ITV BE (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4375.ts
-#EXTINF:-1,CNN (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5136.ts
-#EXTINF:-1,Discovery Home & Health (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5135.ts
-#EXTINF:-1,Real Lives (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5134.ts
-#EXTINF:-1,E! (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4384.ts
-#EXTINF:-1,DAVE (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4386.ts
-#EXTINF:-1,MORE 4 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4373.ts
-#EXTINF:-1,CBS Reality (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4392.ts
-#EXTINF:-1,CBS Drama (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4393.ts
-#EXTINF:-1,CBS Action (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4394.ts
-#EXTINF:-1,ALIBI (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4404.ts
-#EXTINF:-1,Channel 5 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4405.ts
-#EXTINF:-1,5STAR (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4406.ts
-#EXTINF:-1,Gold (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4276.ts
-#EXTINF:-1,E4 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4272.ts
-#EXTINF:-1,Channel 4 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4275.ts
-#EXTINF:-1,CRIME & THRILLER (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4387.ts
-#EXTINF:-1,History Channel (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4381.ts
-#EXTINF:-1,Crime Investigation (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4357.ts
-#EXTINF:-1,Sky Animal Planet (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4352.ts
-#EXTINF:-1,SCI-FI (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4354.ts
-#EXTINF:-1,Natinoal GEO (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5129.ts
-#EXTINF:-1,SyFy (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5133.ts
-#EXTINF:-1,Rte 2 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5131.ts
-#EXTINF:-1,Rte 1 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5132.ts
-#EXTINF:-1,Discovery Science (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5125.ts
-#EXTINF:-1,Discovery History (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5123.ts
-#EXTINF:-1,History (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4277.ts
-#EXTINF:-1,Investigation Discovery (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4380.ts
-#EXTINF:-1,Animal Planet (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4403.ts
-#EXTINF:-1,True Movies 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4337.ts
-#EXTINF:-1,True Movies 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4336.ts
-#EXTINF:-1,Sky Movies MMG (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4264.ts
-#EXTINF:-1,Sky Film 4 HD (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/4274.ts
-#EXTINF:-1,BabyTV (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13487.ts
-#EXTINF:-1,BET Black Ent Tv (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13419.ts
-#EXTINF:-1,Cartoonito (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13420.ts
-#EXTINF:-1,Comedy Central (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13422.ts
-#EXTINF:-1,Comedy Xtra (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13423.ts
-#EXTINF:-1,Community (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13424.ts
-#EXTINF:-1,Sky (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13442.ts
-#EXTINF:-1,Sky 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13467.ts
-#EXTINF:-1,Sky 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13468.ts
-#EXTINF:-1,Sky Action (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13443.ts
-#EXTINF:-1,Sky Arts (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13444.ts
-#EXTINF:-1,Sky Atlantic (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13445.ts
-#EXTINF:-1,Sky Comedy (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13446.ts
-#EXTINF:-1,Sky Disney (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13447.ts
-#EXTINF:-1,Sky DramaRom (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13448.ts
-#EXTINF:-1,Sky Family (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13449.ts
-#EXTINF:-1,Sky Greats (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13450.ts
-#EXTINF:-1,Sky Hits (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13451.ts
-#EXTINF:-1,Sky Intro (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13452.ts
-#EXTINF:-1,Sky Living (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13453.ts
-#EXTINF:-1,Sky Living 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13454.ts
-#EXTINF:-1,Sky Monsters (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13455.ts
-#EXTINF:-1,Sky News (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13456.ts
-#EXTINF:-1,Sky Prem 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13457.ts
-#EXTINF:-1,Sky Sports 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13460.ts
-#EXTINF:-1,Sky Premiere (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13458.ts
-#EXTINF:-1,SkySpBoxOff (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13469.ts
-#EXTINF:-1,Sky Select (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13459.ts
-#EXTINF:-1,Sky Thriller (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13466.ts
-#EXTINF:-1,Sony Chnl 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13485.ts
-#EXTINF:-1,SP News (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13470.ts
-#EXTINF:-1,TG4 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13494.ts
-#EXTINF:-1,FOX (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13429.ts
-#EXTINF:-1,Get Lucky TV (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13481.ts
-#EXTINF:-1,Lifetime (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13430.ts
-#EXTINF:-1,movies 4 men (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13431.ts
-#EXTINF:-1,MTV MUSIC (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13432.ts
-#EXTINF:-1,News Talk (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13433.ts
-#EXTINF:-1,Nick Jr (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13436.ts
-#EXTINF:-1,Nick Jr 1 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13434.ts
-#EXTINF:-1,Nick Jr Too (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13435.ts
-#EXTINF:-1,Nick (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13437.ts
-#EXTINF:-1,Nicktoons (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13438.ts
-#EXTINF:-1,Oireachtas TV (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13488.ts
-#EXTINF:-1,Pick (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13439.ts
-#EXTINF:-1,Premier Sports (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13440.ts
-#EXTINF:-1,Property Show (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13483.ts
-#EXTINF:-1,RT 2 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13491.ts
-#EXTINF:-1,RT jr (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13492.ts
-#EXTINF:-1,RT News Now (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13489.ts
-#EXTINF:-1,RT One (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13490.ts
-#EXTINF:-1,Showcase 3 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13484.ts
-#EXTINF:-1,TCM (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13471.ts
-#EXTINF:-1,TV 3 (UK)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13472.ts
+#EXTINF:-1,UK: Nickelodeon
+http://78.142.19.28/live/abdulrhman340/1okbd9/3736.ts
+#EXTINF:-1,UK: MTV Hits
+http://78.142.19.28/live/abdulrhman340/1okbd9/3741.ts
+#EXTINF:-1,UK: MTV
+http://78.142.19.28/live/abdulrhman340/1okbd9/3740.ts
+#EXTINF:-1,UK: Love World
+http://78.142.19.28/live/abdulrhman340/1okbd9/3750.ts
+#EXTINF:-1,UK: ITV Be
+http://78.142.19.28/live/abdulrhman340/1okbd9/3713.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://78.142.19.28/live/abdulrhman340/1okbd9/3712.ts
+#EXTINF:-1,UK: Fox News
+http://78.142.19.28/live/abdulrhman340/1okbd9/3711.ts
+#EXTINF:-1,UK: Sky Movies Christmas
+http://78.142.19.28/live/abdulrhman340/1okbd9/3751.ts
+#EXTINF:-1,UK: Sky Living
+http://78.142.19.28/live/abdulrhman340/1okbd9/3752.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://78.142.19.28/live/abdulrhman340/1okbd9/3728.ts
+#EXTINF:-1,UK: Setanta Sports 1
+http://78.142.19.28/live/abdulrhman340/1okbd9/3717.ts
+#EXTINF:-1,UK: FOX
+http://78.142.19.28/live/abdulrhman340/1okbd9/3724.ts
+#EXTINF:-1,UK: Food Network
+http://78.142.19.28/live/abdulrhman340/1okbd9/3739.ts
+#EXTINF:-1,UK: Film 4
+http://78.142.19.28/live/abdulrhman340/1okbd9/3727.ts
+#EXTINF:-1,UK: E Entertainment
+http://78.142.19.28/live/abdulrhman340/1okbd9/3726.ts
+#EXTINF:-1,UK: Discovery Science
+http://78.142.19.28/live/abdulrhman340/1okbd9/3729.ts
+#EXTINF:-1,UK: Chelsea TV
+http://78.142.19.28/live/abdulrhman340/1okbd9/3731.ts
+#EXTINF:-1,UK: Channel Aka
+http://78.142.19.28/live/abdulrhman340/1okbd9/3749.ts
+#EXTINF:-1,UK: Channel 5
+http://78.142.19.28/live/abdulrhman340/1okbd9/3721.ts
+#EXTINF:-1,UK: Channel 4
+http://78.142.19.28/live/abdulrhman340/1okbd9/3720.ts
+#EXTINF:-1,UK: CCTV News
+http://78.142.19.28/live/abdulrhman340/1okbd9/3723.ts
+#EXTINF:-1,UK: CCTV 9 Documentary
+http://78.142.19.28/live/abdulrhman340/1okbd9/3730.ts
+#EXTINF:-1,UK: CBC Reality
+http://78.142.19.28/live/abdulrhman340/1okbd9/3747.ts
+#EXTINF:-1,UK: Cartoon Network
+http://78.142.19.28/live/abdulrhman340/1okbd9/3737.ts
+#EXTINF:-1,UK: BT Sport Europa
+http://78.142.19.28/live/abdulrhman340/1okbd9/3734.ts
+#EXTINF:-1,UK: Boomrang
+http://78.142.19.28/live/abdulrhman340/1okbd9/3738.ts
+#EXTINF:-1,UK: BBC Parliament
+http://78.142.19.28/live/abdulrhman340/1okbd9/3716.ts
+#EXTINF:-1,UK: BBC News
+http://78.142.19.28/live/abdulrhman340/1okbd9/3715.ts
+#EXTINF:-1,UK: Baby TV
+http://78.142.19.28/live/abdulrhman340/1okbd9/3735.ts
+#EXTINF:-1,UK: Arise News
+http://78.142.19.28/live/abdulrhman340/1okbd9/3748.ts
+#EXTINF:-1,UK: Alibi
+http://78.142.19.28/live/abdulrhman340/1okbd9/3746.ts
+#EXTINF:-1,UK: 5 USA
+http://78.142.19.28/live/abdulrhman340/1okbd9/3719.ts
+#EXTINF:-1,UK: 5 Star
+http://78.142.19.28/live/abdulrhman340/1okbd9/3718.ts
+#EXTINF:-1,UK: SKY Movies ShowCase
+http://78.142.19.28/live/abdulrhman340/1okbd9/2829.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi
+http://78.142.19.28/live/abdulrhman340/1okbd9/2830.ts
+#EXTINF:-1,Sky Movies Modern Great
+http://78.142.19.28/live/abdulrhman340/1okbd9/2535.ts
+#EXTINF:-1,UK: Sky Movies Drama
+http://78.142.19.28/live/abdulrhman340/1okbd9/2833.ts
+#EXTINF:-1,UK: SKY Movies Disney
+http://78.142.19.28/live/abdulrhman340/1okbd9/2832.ts
+#EXTINF:-1,UK: True Movies 2
+http://78.142.19.28/live/abdulrhman340/1okbd9/2828.ts
+#EXTINF:-1,UK: True Movies 1
+http://78.142.19.28/live/abdulrhman340/1okbd9/2827.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://78.142.19.28/live/abdulrhman340/1okbd9/2831.ts
+#EXTINF:-1,UK: ESPN
+http://78.142.19.28/live/abdulrhman340/1okbd9/2782.ts
+#EXTINF:-1,UK: Disney XD
+http://78.142.19.28/live/abdulrhman340/1okbd9/2826.ts
+#EXTINF:-1,UK: Disney Junior
+http://78.142.19.28/live/abdulrhman340/1okbd9/2834.ts
+#EXTINF:-1,UK: Disney Channel
+http://78.142.19.28/live/abdulrhman340/1okbd9/2835.ts
+#EXTINF:-1,UK: Animal Planet
+http://78.142.19.28/live/abdulrhman340/1okbd9/1800.ts
+#EXTINF:-1,UK: ITV
+http://78.142.19.28/live/abdulrhman340/1okbd9/2620.ts
+#EXTINF:-1,UK: ITV 3
+http://78.142.19.28/live/abdulrhman340/1okbd9/2622.ts
+#EXTINF:-1,UK: ITV 4
+http://78.142.19.28/live/abdulrhman340/1okbd9/2623.ts
+#EXTINF:-1,UK: CNN
+http://78.142.19.28/live/abdulrhman340/1okbd9/2605.ts
+#EXTINF:-1,UK: BBC One
+http://78.142.19.28/live/abdulrhman340/1okbd9/2533.ts
+#EXTINF:-1,UK: BBC Two
+http://78.142.19.28/live/abdulrhman340/1okbd9/2534.ts
+#EXTINF:-1,UK: I Film English
+http://78.142.19.28/live/abdulrhman340/1okbd9/2604.ts
+#EXTINF:-1,UK: Sky Movies Crime
+http://78.142.19.28/live/abdulrhman340/1okbd9/2374.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://78.142.19.28/live/abdulrhman340/1okbd9/1799.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://78.142.19.28/live/abdulrhman340/1okbd9/1798.ts
+#EXTINF:-1,Sky Action UK
+http://78.142.19.28/live/abdulrhman340/1okbd9/2009.ts
+#EXTINF:-1,UK: Discovery
+http://78.142.19.28/live/abdulrhman340/1okbd9/2376.ts
+#EXTINF:-1,UK: History
+http://78.142.19.28/live/abdulrhman340/1okbd9/2375.ts
+#EXTINF:-1,UK: National Geographic
+http://78.142.19.28/live/abdulrhman340/1okbd9/2010.ts
+#EXTINF:-1,UK: National Geographic wild
+http://78.142.19.28/live/abdulrhman340/1okbd9/2373.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://78.142.19.28/live/abdulrhman340/1okbd9/3193.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://78.142.19.28/live/abdulrhman340/1okbd9/3194.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://78.142.19.28/live/abdulrhman340/1okbd9/3195.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://78.142.19.28/live/abdulrhman340/1okbd9/3196.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://78.142.19.28/live/abdulrhman340/1okbd9/3197.ts
