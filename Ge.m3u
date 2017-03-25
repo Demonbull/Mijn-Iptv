@@ -1,301 +1,127 @@
 #EXTM3U
-#EXTINF:-1,DE | WDRHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3588.ts
-#EXTINF:-1,DE | TNTSerieHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3609.ts
-#EXTINF:-1,DE | SYFY
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3610.ts
-#EXTINF:-1,DE | Srf1
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3584.ts
-#EXTINF:-1,DE | SPORT1USHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3589.ts
-#EXTINF:-1,DE | SPORT+1HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3590.ts
-#EXTINF:-1,DE | SKYTNTSERIESHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3582.ts
-#EXTINF:-1,DE | SKYTNTFILMEHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3581.ts
-#EXTINF:-1,DE | SKYSPORTAUSTRIA
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3620.ts
-#EXTINF:-1,DE | SkySelect8HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3592.ts
-#EXTINF:-1,DE | SkySelect7HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3593.ts
-#EXTINF:-1,DE | SkySelect6HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3594.ts
-#EXTINF:-1,DE | SkySelect5HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3595.ts
-#EXTINF:-1,DE | SkySelect4HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3596.ts
-#EXTINF:-1,DE | SkySelect3HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3597.ts
-#EXTINF:-1,DE | SKYSELECT2HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3598.ts
-#EXTINF:-1,DE | SKYSELECT1HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3599.ts
-#EXTINF:-1,DE | SKYNATGEOWILDHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3580.ts
-#EXTINF:-1,DE | SKYMGMHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3613.ts
-#EXTINF:-1,DE | SkyCinema24
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3616.ts
-#EXTINF:-1,DE | SkyCinema
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3619.ts
-#EXTINF:-1,DE | SkyAction
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3615.ts
-#EXTINF:-1,DE | SIXX
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3608.ts
-#EXTINF:-1,DE | Sat1HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3605.ts
-#EXTINF:-1,DE | RTL_LIVING
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3604.ts
-#EXTINF:-1,DE | ROMANCE
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3586.ts
-#EXTINF:-1,DE | Pro7
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3603.ts
-#EXTINF:-1,DE | ORF2
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3606.ts
-#EXTINF:-1,DE | ORF1
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3618.ts
-#EXTINF:-1,DE | NTV
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3585.ts
-#EXTINF:-1,DE | NICK_JR
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3602.ts
-#EXTINF:-1,DE | NDRHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3587.ts
-#EXTINF:-1,DE | HISTORYCHANNELHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3600.ts
-#EXTINF:-1,DE | HEIMATKANAL
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3583.ts
-#EXTINF:-1,DE | Foxhd
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3611.ts
-#EXTINF:-1,DE | EUROSPORT2
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3617.ts
-#EXTINF:-1,DE | DMAXHD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3607.ts
-#EXTINF:-1,DE | Disney_XD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3601.ts
-#EXTINF:-1,DE | AXN
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3612.ts
-#EXTINF:-1,DE | 13Street
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/3614.ts
-#EXTINF:-1,DE  |  ARD HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1676.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 1 / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/134.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 1
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/267.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/2092.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/2093.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/2094.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/2095.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/2096.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/2097.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/2098.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/2099.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/2100.ts
-#EXTINF:-1,DE | SKY SPORT 1 HD uuu
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/251.ts
-#EXTINF:-1,DE | SKY SPORT DE
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/136.ts
-#EXTINF:-1,DE | Sky Sport 2 HD .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/252.ts
-#EXTINF:-1,DE | Sky Sport 1 / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/135.ts
-#EXTINF:-1,DE | SKY COMEDY
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/152.ts
-#EXTINF:-1,DE | Sky Cinema / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/149.ts
-#EXTINF:-1,DE | SKY ACTION
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/150.ts
-#EXTINF:-1,DE | RTL HD / CBC .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/158.ts
-#EXTINF:-1,DE | SUPER RTL / CBC .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/317.ts
-#EXTINF:-1,DE | SKY ACTION DE
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/318.ts
-#EXTINF:-1,DE | ORF 1 DE
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/319.ts
-#EXTINF:-1,DE | NICKELODEON DE
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/315.ts
-#EXTINF:-1,DE | Sky Cinema Emotion / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/325.ts
-#EXTINF:-1,DE | Sky Atlantic / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/324.ts
-#EXTINF:-1,DE | RTL PLUS / CBC
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/335.ts
-#EXTINF:-1,DE | ATV / BetaDigital
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/320.ts
-#EXTINF:-1,DE | ProSieben / ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/156.ts
-#EXTINF:-1,DE | ZDF / ZDFvision .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/216.ts
-#EXTINF:-1,DE | SKY TNT COMEDY
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/243.ts
-#EXTINF:-1,DE | SAT-1
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/242.ts
-#EXTINF:-1,DE | ORF 2 HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/241.ts
-#EXTINF:-1,DE | VOX / CBC .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/217.ts
-#EXTINF:-1,DE | RTLII HD / CBC .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/218.ts
-#EXTINF:-1,DE | D MAX
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/219.ts
-#EXTINF:-1,DE | Sky Cinema Comedy / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/264.ts
-#EXTINF:-1,DE | Sky Cinema +1 / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/266.ts
-#EXTINF:-1,DE | EUROSPORT
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/148.ts
-#EXTINF:-1,DE | EUROSPORT 2
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/161.ts
-#EXTINF:-1,DE | SKY SELECT DE  HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/159.ts
-#EXTINF:-1,DE | SKY SELECT 1 DE HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/160.ts
-#EXTINF:-1,DE | SKY SELECT 2 DE HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/157.ts
-#EXTINF:-1,DE | SKY SELECT 3 DE HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/326.ts
-#EXTINF:-1,DE | SKY SELECT 5HD DE
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/196.ts
-#EXTINF:-1,DE | Sky Select 6 HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1833.ts
-#EXTINF:-1,DE | Sky Select 7 HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1834.ts
-#EXTINF:-1,DE | SAT.1 RhlPf/Hessen / ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/192.ts
-#EXTINF:-1,DE | KABEL EİNS / ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1532.ts
-#EXTINF:-1,DE | N24 / ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1533.ts
-#EXTINF:-1,DE | KiKA / ZDFvision .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1534.ts
-#EXTINF:-1,DE | SKY CINEMA MAX HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1535.ts
-#EXTINF:-1,DE | Sky Cinema Max 1 HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1536.ts
-#EXTINF:-1,DE | SKY Cinema-HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1537.ts
-#EXTINF:-1,DE | Sky Cinema Family / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1538.ts
-#EXTINF:-1,DE | Sky Cinema Family  1 HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1539.ts
-#EXTINF:-1,DE | Sky Cinema Hits / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1540.ts
-#EXTINF:-1,DE | Sky Cinema Comedy HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1541.ts
-#EXTINF:-1,DE | Sky Cinema Classic HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1542.ts
-#EXTINF:-1,DE | Sky Cinema 24 HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1543.ts
-#EXTINF:-1,DE | NatGeo Wild / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1653.ts
-#EXTINF:-1,DE | Disney Cinemagic / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1652.ts
-#EXTINF:-1,DE | Sky CRİME / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1655.ts
-#EXTINF:-1,DE I FOX HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1654.ts
-#EXTINF:-1,DE | ZDF Neo
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1799.ts
-#EXTINF:-1,DE | ZDF NEO / ZDF vision .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1804.ts
-#EXTINF:-1,DE | ZDF info / ZDFvision .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1805.ts
-#EXTINF:-1,DE | SPORT +1 HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1807.ts
-#EXTINF:-1,DE | WDR Aachen / ARD .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1808.ts
-#EXTINF:-1,DE | Disney Junior / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1831.ts
-#EXTINF:-1,DE | SAT.1 CH / ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1826.ts
-#EXTINF:-1,DE | SYFY HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1809.ts
-#EXTINF:-1,DE | SRF 1
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1800.ts
-#EXTINF:-1,DE | SKY SPORT1-HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1791.ts
-#EXTINF:-1,DE | SPORT 1  HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1802.ts
-#EXTINF:-1,DE | Sky Cinema Action / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1832.ts
-#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1810.ts
-#EXTINF:-1,DE | Sky Germany Action HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1818.ts
-#EXTINF:-1,DE | Sky Cinema HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1812.ts
-#EXTINF:-1,DE | Sixx HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1811.ts
-#EXTINF:-1,DE | SKY SPORT1_HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1796.ts
-#EXTINF:-1,DE | SKY SPORT_2HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1793.ts
-#EXTINF:-1,DE | RTL Passion / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1790.ts
-#EXTINF:-1,DE | RTL NITRO / CBC .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1789.ts
-#EXTINF:-1,DE | RTL Crime / SKY .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1788.ts
-#EXTINF:-1,DE | RTL2 / CBC .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1787.ts
-#EXTINF:-1,DE | Romance TV
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1801.ts
-#EXTINF:-1,DE | RTL Television / CBC .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1822.ts
-#EXTINF:-1,DE | Pro7 MAXX / ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1815.ts
-#EXTINF:-1,DE | PRO 7 FUN HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1819.ts
-#EXTINF:-1,DE | Phoenix HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1821.ts
-#EXTINF:-1,DE | ORF 2
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1814.ts
-#EXTINF:-1,DE | ORF 1 HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1813.ts
-#EXTINF:-1,DE | SAT.1 A/ ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1825.ts
-#EXTINF:-1,DE | SKYSPORT AUSTRIA
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1797.ts
-#EXTINF:-1,DE | Sky Sport News HD .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1794.ts
-#EXTINF:-1,DE | KINO WELT TV
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1806.ts
-#EXTINF:-1,DE | KABEL EİNS Doku / ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1817.ts
-#EXTINF:-1,DE | SKY_SPORT 2_HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1792.ts
-#EXTINF:-1,DE | VOX HD / CBC .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1798.ts
-#EXTINF:-1,DE | DISCOVERY HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1824.ts
-#EXTINF:-1,DE | SPORT1 US HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1803.ts
-#EXTINF:-1,DE | CINEMANIA
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1795.ts
-#EXTINF:-1,DE | Boomerang
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1830.ts
-#EXTINF:-1,DE | AXN HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1816.ts
-#EXTINF:-1,DE | ARTE/ ARD .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1829.ts
-#EXTINF:-1,DE | ARD HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1820.ts
-#EXTINF:-1,DE | SAT.1 NRW / ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1828.ts
-#EXTINF:-1,DE | SAT.1 Gold / ProSiebenSat.1 .
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1827.ts
-#EXTINF:-1,DE | 13 Street HD
-http://mag250xx.com:8080/live/iptv-xtream/523221vcc/1823.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://pro213.com/live/abdulrhman340/1okbd9/2370.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/2371.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://pro213.com/live/abdulrhman340/1okbd9/2372.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://pro213.com/live/abdulrhman340/1okbd9/1836.ts
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://pro213.com/live/abdulrhman340/1okbd9/2377.ts
+#EXTINF:-1,DE: Sky Movies Action HD
+http://pro213.com/live/abdulrhman340/1okbd9/1835.ts
+#EXTINF:-1,DE: SKY MOVIES EMOTION HD
+http://pro213.com/live/abdulrhman340/1okbd9/3231.ts
+#EXTINF:-1,DE: RTL PASSION
+http://pro213.com/live/abdulrhman340/1okbd9/3232.ts
+#EXTINF:-1,DE: RTL NITRO
+http://pro213.com/live/abdulrhman340/1okbd9/3234.ts
+#EXTINF:-1,DE: RTL CRIME
+http://pro213.com/live/abdulrhman340/1okbd9/3233.ts
+#EXTINF:-1,DE: DISNEY XD
+http://pro213.com/live/abdulrhman340/1okbd9/3224.ts
+#EXTINF:-1,DE: DISNEY Channel
+http://pro213.com/live/abdulrhman340/1okbd9/3225.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://pro213.com/live/abdulrhman340/1okbd9/4210.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://pro213.com/live/abdulrhman340/1okbd9/4209.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://pro213.com/live/abdulrhman340/1okbd9/4208.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://pro213.com/live/abdulrhman340/1okbd9/4207.ts
+#EXTINF:-1,DE: Sky Sport Fan Zone HD
+http://pro213.com/live/abdulrhman340/1okbd9/4206.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://pro213.com/live/abdulrhman340/1okbd9/4205.ts
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://pro213.com/live/abdulrhman340/1okbd9/3226.ts
+#EXTINF:-1,DE: ZDF
+http://pro213.com/live/abdulrhman340/1okbd9/2608.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://pro213.com/live/abdulrhman340/1okbd9/2606.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://pro213.com/live/abdulrhman340/1okbd9/2607.ts
+#EXTINF:-1,DE: RTL 2
+http://pro213.com/live/abdulrhman340/1okbd9/2611.ts
+#EXTINF:-1,DE: RTL
+http://pro213.com/live/abdulrhman340/1okbd9/2610.ts
+#EXTINF:-1,DE: VOX
+http://pro213.com/live/abdulrhman340/1okbd9/2609.ts
+#EXTINF:-1,DE: SyFy HD
+http://pro213.com/live/abdulrhman340/1okbd9/2614.ts
+#EXTINF:-1,DE: Prosieben
+http://pro213.com/live/abdulrhman340/1okbd9/2612.ts
+#EXTINF:-1,DE: Nickelodeon
+http://pro213.com/live/abdulrhman340/1okbd9/2613.ts
+#EXTINF:-1,DE: Discovery
+http://pro213.com/live/abdulrhman340/1okbd9/2378.ts
+#EXTINF:-1,DE: Sky Select 1
+http://pro213.com/live/abdulrhman340/1okbd9/1831.ts
+#EXTINF:-1,DE: Sky Select 2
+http://pro213.com/live/abdulrhman340/1okbd9/1832.ts
+#EXTINF:-1,DE: Sky Select 3
+http://pro213.com/live/abdulrhman340/1okbd9/1833.ts
+#EXTINF:-1,DE: Sky Select 4
+http://pro213.com/live/abdulrhman340/1okbd9/1834.ts
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/1947.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://pro213.com/live/abdulrhman340/1okbd9/1948.ts
+#EXTINF:-1,DE: Sky Bundesliga HD
+http://pro213.com/live/abdulrhman340/1okbd9/2379.ts
+#EXTINF:-1,DE: TNT Serie
+http://pro213.com/live/abdulrhman340/1okbd9/3697.ts
+#EXTINF:-1,DE: TNT Film
+http://pro213.com/live/abdulrhman340/1okbd9/3709.ts
+#EXTINF:-1,DE: TELE 5
+http://pro213.com/live/abdulrhman340/1okbd9/3689.ts
+#EXTINF:-1,DE: Super RTL
+http://pro213.com/live/abdulrhman340/1okbd9/3229.ts
+#EXTINF:-1,DE: Sport 1
+http://pro213.com/live/abdulrhman340/1okbd9/3693.ts
+#EXTINF:-1,DE: Sky News
+http://pro213.com/live/abdulrhman340/1okbd9/3694.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://pro213.com/live/abdulrhman340/1okbd9/3696.ts
+#EXTINF:-1,DE: Sat1 Gold
+http://pro213.com/live/abdulrhman340/1okbd9/3703.ts
+#EXTINF:-1,DE: Sat 1
+http://pro213.com/live/abdulrhman340/1okbd9/2015.ts
+#EXTINF:-1,DE: Prosieben Maxx
+http://pro213.com/live/abdulrhman340/1okbd9/3228.ts
+#EXTINF:-1,DE: NTV
+http://pro213.com/live/abdulrhman340/1okbd9/3692.ts
+#EXTINF:-1,DE: Nat Geo Wild
+http://pro213.com/live/abdulrhman340/1okbd9/3700.ts
+#EXTINF:-1,DE: Nat Geo
+http://pro213.com/live/abdulrhman340/1okbd9/3699.ts
+#EXTINF:-1,DE: N24
+http://pro213.com/live/abdulrhman340/1okbd9/3708.ts
+#EXTINF:-1,DE: Motor Vision
+http://pro213.com/live/abdulrhman340/1okbd9/3701.ts
+#EXTINF:-1,DE: Kika
+http://pro213.com/live/abdulrhman340/1okbd9/3690.ts
+#EXTINF:-1,DE: Kabel Eins
+http://pro213.com/live/abdulrhman340/1okbd9/2016.ts
+#EXTINF:-1,DE: hr-Fernsehen
+http://pro213.com/live/abdulrhman340/1okbd9/3691.ts
+#EXTINF:-1,DE: Heitmat Kanal
+http://pro213.com/live/abdulrhman340/1okbd9/3698.ts
+#EXTINF:-1,DE: DMAX
+http://pro213.com/live/abdulrhman340/1okbd9/2017.ts
+#EXTINF:-1,DE: Discovery Channel
+http://pro213.com/live/abdulrhman340/1okbd9/3707.ts
+#EXTINF:-1,DE: Das Erste
+http://pro213.com/live/abdulrhman340/1okbd9/2014.ts
+#EXTINF:-1,DE: Cartoon Network
+http://pro213.com/live/abdulrhman340/1okbd9/3705.ts
+#EXTINF:-1,DE: Boomrang
+http://pro213.com/live/abdulrhman340/1okbd9/3706.ts
+#EXTINF:-1,DE: Baby TV
+http://pro213.com/live/abdulrhman340/1okbd9/3704.ts
+#EXTINF:-1,DE: ARTE
+http://pro213.com/live/abdulrhman340/1okbd9/3702.ts
+#EXTINF:-1,DE: 13th Street
+http://pro213.com/live/abdulrhman340/1okbd9/3695.ts

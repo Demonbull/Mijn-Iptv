@@ -1,362 +1,177 @@
-#EXTINF:-1,USA | A&E
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4235.ts
-#EXTINF:-1,USA | ABC HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4240.ts
-#EXTINF:-1,USA | ABC NEWS
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4241.ts
-#EXTINF:-1,USA | ABC NEWS NOW
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4242.ts
-#EXTINF:-1,USA | AFN MOVIE
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4206.ts
-#EXTINF:-1,USA | AFN NEWS
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4205.ts
-#EXTINF:-1,USA | AFN PRIME ATLANTIC
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4204.ts
-#EXTINF:-1,USA | AFN PRIME PACIFIC
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4203.ts
-#EXTINF:-1,USA | AFN PULSE
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4202.ts
-#EXTINF:-1,USA | AFN SPECTRUM
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4201.ts
-#EXTINF:-1,USA | AFN SPORTS 2
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4200.ts
-#EXTINF:-1,USA | AFN SPORTS HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4199.ts
-#EXTINF:-1,USA | AMC HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4211.ts
-#EXTINF:-1,USA | Animal Planet HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4244.ts
-#EXTINF:-1,USA | Bein Sports HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4266.ts
-#EXTINF:-1,USA | BIG TEN TETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4185.ts
-#EXTINF:-1,USA | BRAVO HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4246.ts
-#EXTINF:-1,USA | CARTOON NETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4268.ts
-#EXTINF:-1,USA | CBS HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4210.ts
-#EXTINF:-1,USA | CBS SPORTS NETWORK
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4269.ts
-#EXTINF:-1,USA | CINEMAX ACTION MAX
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4277.ts
-#EXTINF:-1,USA | CINEMAX HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4276.ts
-#EXTINF:-1,USA | CINEMAX MOREMAX HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4229.ts
-#EXTINF:-1,USA | CINEMAX THRILLER MAX
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4278.ts
+#EXTM3U
+#EXTINF:-1,USA | ABC News
+http://vip.groupiptv.com:7000/live/zizou/zizou/4181.ts
+#EXTINF:-1,USA | Animal Planet
+http://vip.groupiptv.com:7000/live/zizou/zizou/4182.ts
+#EXTINF:-1,USA | Bein USA
+http://vip.groupiptv.com:7000/live/zizou/zizou/4183.ts
+#EXTINF:-1,USA | Bloomberg
+http://vip.groupiptv.com:7000/live/zizou/zizou/4184.ts
+#EXTINF:-1,USA | CBS
+http://vip.groupiptv.com:7000/live/zizou/zizou/4197.ts
+#EXTINF:-1,USA | CBSN
+http://vip.groupiptv.com:7000/live/zizou/zizou/4202.ts
 #EXTINF:-1,USA | CNBC
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4247.ts
+http://vip.groupiptv.com:7000/live/zizou/zizou/4185.ts
 #EXTINF:-1,USA | CNN
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4248.ts
-#EXTINF:-1,USA | COMEDY CENTRAL
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4249.ts
-#EXTINF:-1,USA | CW
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4212.ts
-#EXTINF:-1,USA | DESTINATION AMERICA HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4213.ts
-#EXTINF:-1,USA | DISCOVERY HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4250.ts
-#EXTINF:-1,USA | DISCOVERY VELOCITY HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4214.ts
-#EXTINF:-1,USA | Disney HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4215.ts
-#EXTINF:-1,USA | DIY NETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4216.ts
-#EXTINF:-1,USA | E!
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4251.ts
-#EXTINF:-1,USA | ESPN 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4217.ts
-#EXTINF:-1,USA | ESPN HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4252.ts
-#EXTINF:-1,USA | Food Network HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4238.ts
-#EXTINF:-1,USA | Fox HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4218.ts
-#EXTINF:-1,USA | FOX NEWS
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4253.ts
-#EXTINF:-1,USA | Fox Sports 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4193.ts
-#EXTINF:-1,USA | Fox Sports 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4192.ts
-#EXTINF:-1,USA | Free Form HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4219.ts
-#EXTINF:-1,USA | FX
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4270.ts
-#EXTINF:-1,USA | FXX HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4220.ts
-#EXTINF:-1,USA | GSN HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4174.ts
-#EXTINF:-1,USA | H2
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4254.ts
-#EXTINF:-1,USA | Hallmark HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4239.ts
-#EXTINF:-1,USA | HBO 2
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4221.ts
-#EXTINF:-1,USA | HBO Comedy HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4222.ts
-#EXTINF:-1,USA | HBO East
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4223.ts
-#EXTINF:-1,USA | HBO FAMILY HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4274.ts
-#EXTINF:-1,USA | HBO HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4224.ts
-#EXTINF:-1,USA | HBO Signature HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4225.ts
-#EXTINF:-1,USA | HBO ZONE
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4226.ts
-#EXTINF:-1,USA | HGTV HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4227.ts
-#EXTINF:-1,USA | HIFI
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4228.ts
-#EXTINF:-1,USA | HISTORY
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4255.ts
-#EXTINF:-1,USA | INVESTIGATION DISOVERY HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4256.ts
-#EXTINF:-1,USA | LIFETIME
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4257.ts
-#EXTINF:-1,USA | MLB NETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4189.ts
-#EXTINF:-1,USA | MSNBC HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4271.ts
-#EXTINF:-1,USA | MY9
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4258.ts
-#EXTINF:-1,USA | NASA TV HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4230.ts
-#EXTINF:-1,USA | NAT GEO WILD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4209.ts
-#EXTINF:-1,USA | NATIONAL GEOGRAPHIC HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4231.ts
-#EXTINF:-1,USA | NBA TV HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4186.ts
-#EXTINF:-1,USA | NBC
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4259.ts
-#EXTINF:-1,USA | NBC Golf
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4183.ts
-#EXTINF:-1,USA | NBCSN
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4236.ts
-#EXTINF:-1,USA | NFL Network 1080i
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4187.ts
-#EXTINF:-1,USA | NFL NOW HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4182.ts
-#EXTINF:-1,USA | NFL REDZONE SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4207.ts
-#EXTINF:-1,USA | NHL NETWORK
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4190.ts
-#EXTINF:-1,USA | Nickelodeon
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4260.ts
-#EXTINF:-1,USA | OWN HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4232.ts
-#EXTINF:-1,USA | PAC12 BAY AREA
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4197.ts
-#EXTINF:-1,USA | PAC12 LOS ANGELES
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4195.ts
-#EXTINF:-1,USA | PAC12 WASINGTON
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4198.ts
-#EXTINF:-1,USA | PBS
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4261.ts
-#EXTINF:-1,USA | SEC NETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4188.ts
-#EXTINF:-1,USA | Showtime 2
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4233.ts
-#EXTINF:-1,USA | SHOWTIME HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4234.ts
-#EXTINF:-1,USA | SPIKE HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4262.ts
-#EXTINF:-1,USA | Starz Cinema
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4280.ts
-#EXTINF:-1,USA | Starz Comedy
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4281.ts
-#EXTINF:-1,USA | Starz East
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4282.ts
-#EXTINF:-1,USA | Starz Edge HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4283.ts
-#EXTINF:-1,USA | Starz Encore
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4284.ts
-#EXTINF:-1,USA | STARZ KIDS & FAMILY
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4279.ts
-#EXTINF:-1,USA | SYFY HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4263.ts
-#EXTINF:-1,USA | TBS
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4264.ts
-#EXTINF:-1,USA | TENNIS CHANNEL HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4191.ts
-#EXTINF:-1,USA | TNT HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4265.ts
-#EXTINF:-1,USA | UNIVERSAL HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4275.ts
-#EXTINF:-1,USA | USA Network
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4272.ts
-#EXTINF:-1,USA |  SPORT 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4194.ts
-#EXTINF:-1,USA | WWE HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4184.ts
-#EXTINF:-1,******** VIP Streams ********
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2024.ts
-#EXTINF:-1,VIP | Star Sports 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3984.ts
-#EXTINF:-1,VIP | Star Sports 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3971.ts
-#EXTINF:-1,VIP | Star Sports 4 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3969.ts
-#EXTINF:-1,VIP | BEIN SPORTS 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5138.ts
-#EXTINF:-1,VIP | BEIN SPORTS 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5137.ts
-#EXTINF:-1,VIP | BEIN SPORTS 3 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5136.ts
-#EXTINF:-1,VIP | BEIN SPORTS 4 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5135.ts
-#EXTINF:-1,VIP | BEIN SPORTS 5 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5134.ts
-#EXTINF:-1,VIP | BEIN SPORTS 6 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5133.ts
-#EXTINF:-1,VIP | BEIN SPORTS 7 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5132.ts
-#EXTINF:-1,VIP | BEIN SPORTS 8 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5131.ts
-#EXTINF:-1,VIP | BEIN SPORTS 9 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5130.ts
-#EXTINF:-1,VIP | BEIN SPORTS 10 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5129.ts
-#EXTINF:-1,VIP | BEIN SPORTS 11 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5128.ts
-#EXTINF:-1,VIP | BEIN SPORTS 12 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5127.ts
-#EXTINF:-1,VIP | FOX SPORTS 1 ASIA
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4141.ts
-#EXTINF:-1,VIP | FOX SPORTS 2 ASIA
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4140.ts
-#EXTINF:-1,VIP | FOX SPORTS 3 ASIA
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4139.ts
-#EXTINF:-1,VIP | Astro Supersports 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5018.ts
-#EXTINF:-1,VIP | Astro Supersports 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5019.ts
-#EXTINF:-1,VIP | Astro Supersports 3 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/5020.ts
-#EXTINF:-1,VIP l OSN Sports 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3300.ts
-#EXTINF:-1,VIP | LeSports HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2019.ts
-#EXTINF:-1,VIP l Sportsnet 360 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2524.ts
-#EXTINF:-1,VIP l Sportsnet ONE HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2527.ts
-#EXTINF:-1,VIP l Sportsnet Ontario HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2526.ts
-#EXTINF:-1,VIP l Sportsnet pacific HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2525.ts
-#EXTINF:-1,VIP l Sportsnet West HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2522.ts
-#EXTINF:-1,VIP l Sportsnet World HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2523.ts
-#EXTINF:-1,VIP | Eleven HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4142.ts
-#EXTINF:-1,VIP | Eleven Sports HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1014.ts
-#EXTINF:-1,VIP | Eleven Plus 103 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2059.ts
-#EXTINF:-1,VIP | TEN 1
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3968.ts
-#EXTINF:-1,VIP | TEN 3
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3966.ts
-#EXTINF:-1,VIP | Ten Cricket
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3964.ts
-#EXTINF:-1,VIP | TSN HD 1
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2029.ts
-#EXTINF:-1,VIP | TSN HD 2
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2028.ts
-#EXTINF:-1,VIP | TSN HD 3
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2027.ts
-#EXTINF:-1,VIP | TSN HD 4
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2026.ts
-#EXTINF:-1,VIP | TSN HD 5
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/2025.ts
-#EXTINF:-1,USA | NBC XTRA TIME 2 HD (Not24-7)
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1962.ts
-#EXTINF:-1,USA | NBC XTRA TIME 1  (Not24-7)
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1964.ts
-#EXTINF:-1,USA | NBC XTRA TIME 3 HD (Not24-7)
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1960.ts
-#EXTINF:-1,USA | NBC XTRA TIME 4 HD (Not24-7)
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1958.ts
-#EXTINF:-1,USA | NBC XTRA TIME 5 HD (Not24-7)
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1956.ts
-#EXTINF:-1,USA | NBC XTRA TIME 6 HD (Not24-7)
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1954.ts
-#EXTINF:-1,USA | NBC XTRA TIME 7 HD (Not24-7)
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/1952.ts
-#EXTINF:-1,UFC Fight Pass HD (Live Events Only)
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3957.ts
-#EXTINF:-1,USA | Fox Sport West HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3938.ts
-#EXTINF:-1,VIP | Fox Footy Australia
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/3937.ts
-#EXTINF:-1,******** NBA/NFL Pass ********
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4352.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4315.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4322.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 3 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4323.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 4 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4324.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 5 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4325.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 6 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4326.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 7 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4327.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 8 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4328.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 9 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4329.ts
-#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 10 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4316.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 1 SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4343.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 1 HD Baltimore Ravens @ Pittsburgh Steelers
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4342.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 2 SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4344.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 2 HD Denver Broncos @ Kansas City Chiefs
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4334.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 3 SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4345.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 3 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4335.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 4 SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4346.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 4 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4336.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 5 SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4347.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 5 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4337.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 6 SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4348.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 6 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4338.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 7 SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4349.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 7 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4339.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 8 SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4350.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 8 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4340.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 9 SD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4351.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 9 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4341.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 10 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4330.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 11 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4331.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 12 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4332.ts
-#EXTINF:-1,USA | NFL SUNDAY TICKET 13 HD
-http://uk-mega-iptv.is-found.org:25461/live/MarcoEnzenhofer/unFuVLT5oi/4333.ts
+http://vip.groupiptv.com:7000/live/zizou/zizou/4186.ts
+#EXTINF:-1,USA | ESPN USA
+http://vip.groupiptv.com:7000/live/zizou/zizou/4187.ts
+#EXTINF:-1,USA | Fox Sports 1
+http://vip.groupiptv.com:7000/live/zizou/zizou/4188.ts
+#EXTINF:-1,USA | FOX Sports 2
+http://vip.groupiptv.com:7000/live/zizou/zizou/4189.ts
+#EXTINF:-1,USA | NBA TV
+http://vip.groupiptv.com:7000/live/zizou/zizou/4190.ts
+#EXTINF:-1,USA | NBC SN
+http://vip.groupiptv.com:7000/live/zizou/zizou/4191.ts
+#EXTINF:-1,USA | NDTV
+http://vip.groupiptv.com:7000/live/zizou/zizou/4199.ts
+#EXTINF:-1,USA | NFL
+http://vip.groupiptv.com:7000/live/zizou/zizou/4200.ts
+#EXTINF:-1,USA | PAG
+http://vip.groupiptv.com:7000/live/zizou/zizou/4201.ts
+#EXTINF:-1,USA | Poker Central
+http://vip.groupiptv.com:7000/live/zizou/zizou/4203.ts
+#EXTINF:-1,USA | Space
+http://vip.groupiptv.com:7000/live/zizou/zizou/4204.ts
+#EXTINF:-1,USA | TSN 1
+http://vip.groupiptv.com:7000/live/zizou/zizou/4192.ts
+#EXTINF:-1,USA | TSN 2
+http://vip.groupiptv.com:7000/live/zizou/zizou/4193.ts
+#EXTINF:-1,USA | TSN 3
+http://vip.groupiptv.com:7000/live/zizou/zizou/4194.ts
+#EXTINF:-1,USA | TSN 4
+http://vip.groupiptv.com:7000/live/zizou/zizou/4195.ts
+#EXTINF:-1,USA | TSN 5
+http://vip.groupiptv.com:7000/live/zizou/zizou/4196.ts
+#EXTINF:-1,USA | WWE
+http://vip.groupiptv.com:7000/live/zizou/zizou/4198.ts
+#EXTINF:-1,USA VIP | ***** U.S.A VIP *****
+http://vip.groupiptv.com:7000/live/zizou/zizou/4205.ts
+#EXTINF:-1,USA VIP | 360 North
+http://vip.groupiptv.com:7000/live/zizou/zizou/4206.ts
+#EXTINF:-1,USA VIP | A&E
+http://vip.groupiptv.com:7000/live/zizou/zizou/4207.ts
+#EXTINF:-1,USA VIP | AFN Sports
+http://vip.groupiptv.com:7000/live/zizou/zizou/4230.ts
+#EXTINF:-1,USA VIP | AFN Sports 2
+http://vip.groupiptv.com:7000/live/zizou/zizou/4231.ts
+#EXTINF:-1,USA VIP | Aljazeera US
+http://vip.groupiptv.com:7000/live/zizou/zizou/4208.ts
+#EXTINF:-1,USA VIP | AMC
+http://vip.groupiptv.com:7000/live/zizou/zizou/4209.ts
+#EXTINF:-1,USA VIP | Animal Planet
+http://vip.groupiptv.com:7000/live/zizou/zizou/4263.ts
+#EXTINF:-1,USA VIP | Bein Sports
+http://vip.groupiptv.com:7000/live/zizou/zizou/4254.ts
+#EXTINF:-1,USA VIP | Bloomberg
+http://vip.groupiptv.com:7000/live/zizou/zizou/4225.ts
+#EXTINF:-1,USA VIP | BYU Sports TV
+http://vip.groupiptv.com:7000/live/zizou/zizou/4246.ts
+#EXTINF:-1,USA VIP | BYU TV
+http://vip.groupiptv.com:7000/live/zizou/zizou/4253.ts
+#EXTINF:-1,USA VIP | Cartoon Network
+http://vip.groupiptv.com:7000/live/zizou/zizou/4261.ts
+#EXTINF:-1,USA VIP | CBS
+http://vip.groupiptv.com:7000/live/zizou/zizou/4262.ts
+#EXTINF:-1,USA VIP | CBSN-US
+http://vip.groupiptv.com:7000/live/zizou/zizou/4226.ts
+#EXTINF:-1,USA VIP | Cinemax 5 Starmax
+http://vip.groupiptv.com:7000/live/zizou/zizou/4245.ts
+#EXTINF:-1,USA VIP | Cinemax East
+http://vip.groupiptv.com:7000/live/zizou/zizou/4244.ts
+#EXTINF:-1,USA VIP | Cinemax Moremax
+http://vip.groupiptv.com:7000/live/zizou/zizou/4243.ts
+#EXTINF:-1,USA VIP | CityTV Toronto
+http://vip.groupiptv.com:7000/live/zizou/zizou/4210.ts
+#EXTINF:-1,USA VIP | CNBC
+http://vip.groupiptv.com:7000/live/zizou/zizou/4211.ts
+#EXTINF:-1,USA VIP | CNN
+http://vip.groupiptv.com:7000/live/zizou/zizou/4239.ts
+#EXTINF:-1,USA VIP | Crime and Investigation
+http://vip.groupiptv.com:7000/live/zizou/zizou/4266.ts
+#EXTINF:-1,USA VIP | CW
+http://vip.groupiptv.com:7000/live/zizou/zizou/4212.ts
+#EXTINF:-1,USA VIP | Discovery
+http://vip.groupiptv.com:7000/live/zizou/zizou/4238.ts
+#EXTINF:-1,USA VIP | Discovery Science
+http://vip.groupiptv.com:7000/live/zizou/zizou/4260.ts
+#EXTINF:-1,USA VIP | Discovery Velocity
+http://vip.groupiptv.com:7000/live/zizou/zizou/4268.ts
+#EXTINF:-1,USA VIP | E! Network
+http://vip.groupiptv.com:7000/live/zizou/zizou/4216.ts
+#EXTINF:-1,USA VIP | ESPN
+http://vip.groupiptv.com:7000/live/zizou/zizou/4228.ts
+#EXTINF:-1,USA VIP | ESPN 2
+http://vip.groupiptv.com:7000/live/zizou/zizou/4229.ts
+#EXTINF:-1,USA VIP | Food Network
+http://vip.groupiptv.com:7000/live/zizou/zizou/4218.ts
+#EXTINF:-1,USA VIP | FOX
+http://vip.groupiptv.com:7000/live/zizou/zizou/4219.ts
+#EXTINF:-1,USA VIP | Fox Sports 1
+http://vip.groupiptv.com:7000/live/zizou/zizou/4220.ts
+#EXTINF:-1,USA VIP | Fox Sports 2
+http://vip.groupiptv.com:7000/live/zizou/zizou/4221.ts
+#EXTINF:-1,USA VIP | Fox Sports 506
+http://vip.groupiptv.com:7000/live/zizou/zizou/4222.ts
+#EXTINF:-1,USA VIP | FreeRom
+http://vip.groupiptv.com:7000/live/zizou/zizou/4217.ts
+#EXTINF:-1,USA VIP | FX
+http://vip.groupiptv.com:7000/live/zizou/zizou/4223.ts
+#EXTINF:-1,USA VIP | Hallmark
+http://vip.groupiptv.com:7000/live/zizou/zizou/4259.ts
+#EXTINF:-1,USA VIP | HBO
+http://vip.groupiptv.com:7000/live/zizou/zizou/4234.ts
+#EXTINF:-1,USA VIP | HBO Comedy
+http://vip.groupiptv.com:7000/live/zizou/zizou/4236.ts
+#EXTINF:-1,USA VIP | HBO Signature
+http://vip.groupiptv.com:7000/live/zizou/zizou/4235.ts
+#EXTINF:-1,USA VIP | History
+http://vip.groupiptv.com:7000/live/zizou/zizou/4265.ts
+#EXTINF:-1,USA VIP | Music
+http://vip.groupiptv.com:7000/live/zizou/zizou/4267.ts
+#EXTINF:-1,USA VIP | Mute TV
+http://vip.groupiptv.com:7000/live/zizou/zizou/4252.ts
+#EXTINF:-1,USA VIP | NASA
+http://vip.groupiptv.com:7000/live/zizou/zizou/4224.ts
+#EXTINF:-1,USA VIP | National Geographic
+http://vip.groupiptv.com:7000/live/zizou/zizou/4264.ts
+#EXTINF:-1,USA VIP | NBA
+http://vip.groupiptv.com:7000/live/zizou/zizou/4250.ts
+#EXTINF:-1,USA VIP | NBA Versus
+http://vip.groupiptv.com:7000/live/zizou/zizou/4251.ts
+#EXTINF:-1,USA VIP | NBC
+http://vip.groupiptv.com:7000/live/zizou/zizou/4213.ts
+#EXTINF:-1,USA VIP | NBC Golf
+http://vip.groupiptv.com:7000/live/zizou/zizou/4214.ts
+#EXTINF:-1,USA VIP | NBC Sport
+http://vip.groupiptv.com:7000/live/zizou/zizou/4215.ts
+#EXTINF:-1,USA VIP | NFL
+http://vip.groupiptv.com:7000/live/zizou/zizou/4240.ts
+#EXTINF:-1,USA VIP | Poker Central
+http://vip.groupiptv.com:7000/live/zizou/zizou/4227.ts
+#EXTINF:-1,USA VIP | RT Documentary
+http://vip.groupiptv.com:7000/live/zizou/zizou/4249.ts
+#EXTINF:-1,USA VIP | Showtime
+http://vip.groupiptv.com:7000/live/zizou/zizou/4232.ts
+#EXTINF:-1,USA VIP | Sports Net 360
+http://vip.groupiptv.com:7000/live/zizou/zizou/4242.ts
+#EXTINF:-1,USA VIP | Sports Net One
+http://vip.groupiptv.com:7000/live/zizou/zizou/4241.ts
+#EXTINF:-1,USA VIP | Starz Cinema
+http://vip.groupiptv.com:7000/live/zizou/zizou/4255.ts
+#EXTINF:-1,USA VIP | Starz East
+http://vip.groupiptv.com:7000/live/zizou/zizou/4258.ts
+#EXTINF:-1,USA VIP | Starz Edge
+http://vip.groupiptv.com:7000/live/zizou/zizou/4256.ts
+#EXTINF:-1,USA VIP | Starz Encore
+http://vip.groupiptv.com:7000/live/zizou/zizou/4257.ts
+#EXTINF:-1,USA VIP | TBS
+http://vip.groupiptv.com:7000/live/zizou/zizou/4248.ts
+#EXTINF:-1,USA VIP | TLC
+http://vip.groupiptv.com:7000/live/zizou/zizou/4233.ts
+#EXTINF:-1,USA VIP | Travel Channel
+http://vip.groupiptv.com:7000/live/zizou/zizou/4247.ts
+#EXTINF:-1,USA VIP | WWE Network
+http://vip.groupiptv.com:7000/live/zizou/zizou/4237.ts
