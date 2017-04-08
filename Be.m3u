@@ -1,45 +1,11 @@
 #EXTM3U
-#EXTINF:-1,BEL: Vtm Kazoom
-http://pro213.com/live/abdulrhman340/1okbd9/3468.ts
-#EXTINF:-1,BEL: VTM
-http://pro213.com/live/abdulrhman340/1okbd9/3463.ts
-#EXTINF:-1,BEL: Vijf TV
-http://pro213.com/live/abdulrhman340/1okbd9/3466.ts
-#EXTINF:-1,BEL: Vier
-http://pro213.com/live/abdulrhman340/1okbd9/3465.ts
-#EXTINF:-1,BEL: Ketop 12
-http://pro213.com/live/abdulrhman340/1okbd9/3467.ts
-#EXTINF:-1,BEL: Een
-http://pro213.com/live/abdulrhman340/1okbd9/3470.ts
-#EXTINF:-1,BEL: Canavas
-http://pro213.com/live/abdulrhman340/1okbd9/3471.ts
-#EXTINF:-1,BEL: Acht
-http://pro213.com/live/abdulrhman340/1okbd9/3469.ts
-#EXTINF:-1,BEL: 2Be
-http://pro213.com/live/abdulrhman340/1okbd9/3464.ts
-#EXTINF:-1,BE: Oost
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/4241.ts
-#EXTINF:-1,BE: Ketnet
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/4221.ts
-#EXTINF:-1,BE: Een HD
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/4222.ts
-#EXTINF:-1,BE: ATV Antwerpen
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6661.ts
+#EXTINF:-1,BE: KETNET
+http://tv.iptvsensation.com:6500/live/Refki/Berisha2016/12608.ts
+#EXTINF:-1,BE: EEN HD
+http://tv.iptvsensation.com:6500/live/Refki/Berisha2016/12609.ts
 #EXTINF:-1,BE: CANVAS
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6660.ts
+http://tv.iptvsensation.com:6500/live/Refki/Berisha2016/12610.ts
+#EXTINF:-1,BE: BE 1
+http://tv.iptvsensation.com:6500/live/Refki/Berisha2016/12604.ts
 #EXTINF:-1,BE: Vier HD
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6659.ts
-#EXTINF:-1,BE: Acht
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/4224.ts
-#EXTINF:-1,BE: 2BE HD
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/4223.ts
-#EXTINF:-1,BE: Vijf
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/4249.ts
-#EXTINF:-1,BE: VTM
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5382.ts
-#EXTINF:-1,BE: VTM HD
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5377.ts
-#EXTINF:-1,BE: VITAYA
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5380.ts
-#EXTINF:-1,BE: MNM
-http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5379.ts
+http://tv.iptvsensation.com:6500/live/Refki/Berisha2016/12996.ts
